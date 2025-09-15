@@ -1,0 +1,25 @@
+{
+  "name": "openarcloud.github.io",
+  "version": "1.0.0",
+  "description": "## 🎯 Mission: Ship in 3-4 Evenings Build a clean, modern website that clearly explains OSCP and gets developers to the GitHub repos. That's it.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "eleventy --serve",
+    "build": "eleventy",
+    "clean": "rm -rf _site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenArCloud/openarcloud.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OpenArCloud/openarcloud.github.io/issues"
+  },
+  "homepage": "https://github.com/OpenArCloud/openarcloud.github.io#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
