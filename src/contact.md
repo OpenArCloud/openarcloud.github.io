@@ -3,7 +3,7 @@ layout: layouts/base.njk
 title: Contact Us
 ---
 
-# Contact Open AR Cloud
+# Contact OpenARCloud
 
 ## Get in Touch
 
@@ -36,15 +36,15 @@ For press and media requests:
 ## Connect With Our Community
 
 ### GitHub
-[github.com/OpenArCloud](https://github.com/OpenArCloud)
+[github.com/OpenARCloud](https://github.com/OpenARCloud)
 - Report issues
 - Contribute code
 - Join discussions
 
 ### Social Media
-- **LinkedIn**: [OpenArCloud](#) *[Coming soon]*
-- **Twitter**: [@OpenArCloud](#) *[Coming soon]*
-- **YouTube**: [OpenArCloud Channel](#) *[Coming soon]*
+- **LinkedIn**: [OpenARCloud](#) *[Coming soon]*
+- **Twitter**: [@OpenARCloud](#) *[Coming soon]*
+- **YouTube**: [OpenARCloud Channel](#) *[Coming soon]*
 
 ### Community Forums
 *[Community forum links coming soon]*
@@ -59,7 +59,7 @@ For press and media requests:
 ## Office Location
 
 <div style="background: #f9f9f9; padding: 20px; border-radius: 8px; margin: 30px 0;">
-    <p><strong>Open AR Cloud Association</strong></p>
+    <p><strong>OpenARCloud Association</strong></p>
     <p style="color: #666;">[Physical address to be added]</p>
     <p style="color: #666;">[City, State/Country]</p>
 </div>
