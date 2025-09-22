@@ -3,18 +3,18 @@ layout: layouts/base.njk
 title: Open Spatial Computing Platform
 ---
 
-# Open Spatial Computing Platform
-
-## Connecting Physical and Digital Worlds Through Open Standards
-
-Open AR Cloud's mission is to drive the development of open and interoperable spatial computing technology, data and standards to connect the physical and digital worlds for the benefit of all.
+<div class="hero-section">
+    <div class="spatial-coordinates">[37.7749° N, 122.4194° W, 0m]</div>
+    <h1 class="hero-title">Open Spatial Computing Platform</h1>
+    <div class="hero-subtitle">
+        <span class="typing-effect">Connecting Physical and Digital Worlds Through Open Standards</span>
+    </div>
+    <p class="hero-description">Open AR Cloud's mission is to drive the development of open and interoperable spatial computing technology, data and standards to connect the physical and digital worlds for the benefit of all.</p>
+</div>
 
 <div class="video-placeholder">
-    <!-- YouTube video placeholder -->
-    <div style="background: #f0f0f0; padding: 100px 20px; text-align: center; border-radius: 8px;">
-        <p>[OSCP Introduction Video - Coming Soon]</p>
-        <p style="font-size: 14px; color: #666;">Video presentation from Khronos Group OpenXR April 2024</p>
-    </div>
+    <p>[OSCP Introduction Video - Coming Soon]</p>
+    <p style="font-size: 14px; color: #666;">Video presentation from Khronos Group OpenXR April 2024</p>
 </div>
 
 ## Get Started with OSCP
