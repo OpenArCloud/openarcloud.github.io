@@ -3,11 +3,11 @@ layout: layouts/base.njk
 title: About OARC
 ---
 
-# About OpenARCloud
+# About Open AR Cloud
 
 ## Our Mission
 
-OpenARCloud's mission is to drive the development of open and interoperable spatial computing technology, data and standards to connect the physical and digital worlds for the benefit of all.
+Open AR Cloud's mission is to drive the development of open and interoperable spatial computing technology, data and standards to connect the physical and digital worlds for the benefit of all.
 
 ## Vision
 
@@ -31,7 +31,7 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 
 ### Key Milestones
 
-**2020** - OpenARCloud Association founded with initial focus on spatial computing standards
+**2020** - Open AR Cloud Association founded with initial focus on spatial computing standards
 
 **2021** - GeoPose 1.0 standard released, providing universal positioning for AR
 
@@ -83,7 +83,7 @@ Building and nurturing our global developer community
 ## Organization Structure
 
 ### Non-Profit Status
-OpenARCloud Association is organized as a [501(c)(6) - placeholder] non-profit organization, ensuring that our work remains focused on advancing the industry rather than generating profits.
+Open AR Cloud Association is organized as a [501(c)(6) - placeholder] non-profit organization, ensuring that our work remains focused on advancing the industry rather than generating profits.
 
 ### Governance
 - Member-driven organization
