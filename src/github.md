@@ -13,9 +13,9 @@ All OSCP services have open source implementations available on GitHub. These re
     <h2>🚀 Quick Start</h2>
     <p>Get up and running with OSCP in minutes:</p>
     <pre><code># Clone the core services
-git clone https://github.com/OpenArCloud/oscp-spatial-service-discovery
-git clone https://github.com/OpenArCloud/oscp-geopose-protocol
-git clone https://github.com/OpenArCloud/oscp-spatial-content-discovery
+git clone https://github.com/OpenARCloud/oscp-spatial-service-discovery
+git clone https://github.com/OpenARCloud/oscp-geopose-protocol
+git clone https://github.com/OpenARCloud/oscp-spatial-content-discovery
 
 # Follow setup instructions in each repository's README</code></pre>
 </div>
@@ -116,7 +116,7 @@ All services are optimized for edge deployment:
 1. **Development Environment**
    ```bash
    # Use Docker Compose for local development
-   git clone https://github.com/OpenArCloud/oscp-docker-stack
+   git clone https://github.com/OpenARCloud/oscp-docker-stack
    cd oscp-docker-stack
    docker-compose up
    ```
@@ -161,5 +161,5 @@ All OSCP repositories use permissive open source licenses (MIT or Apache 2.0) su
 - **Community**: Connect with other developers in our forums
 
 <div style="text-align: center; margin: 40px 0;">
-    <a href="https://github.com/OpenArCloud" class="primary-button" target="_blank">Visit OpenArCloud on GitHub →</a>
+    <a href="https://github.com/OpenARCloud" class="primary-button" target="_blank">Visit OpenARCloud on GitHub →</a>
 </div>

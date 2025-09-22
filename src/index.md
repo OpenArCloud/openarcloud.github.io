@@ -9,7 +9,7 @@ title: Open Spatial Computing Platform
     <div class="hero-subtitle">
         <span class="typing-effect">Connecting Physical and Digital Worlds Through Open Standards</span>
     </div>
-    <p class="hero-description">Open AR Cloud's mission is to drive the development of open and interoperable spatial computing technology, data and standards to connect the physical and digital worlds for the benefit of all.</p>
+    <p class="hero-description">OpenARCloud's mission is to drive the development of open and interoperable spatial computing technology, data and standards to connect the physical and digital worlds for the benefit of all.</p>
 </div>
 
 <div class="video-placeholder">
