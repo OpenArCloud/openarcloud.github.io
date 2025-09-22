@@ -3,7 +3,7 @@ layout: layouts/base.njk
 title: Contact Us
 ---
 
-# Contact OpenARCloud
+# Contact Open AR Cloud
 
 ## Get in Touch
 
@@ -59,7 +59,7 @@ For press and media requests:
 ## Office Location
 
 <div style="background: #f9f9f9; padding: 20px; border-radius: 8px; margin: 30px 0;">
-    <p><strong>OpenARCloud Association</strong></p>
+    <p><strong>Open AR Cloud Association</strong></p>
     <p style="color: #666;">[Physical address to be added]</p>
     <p style="color: #666;">[City, State/Country]</p>
 </div>

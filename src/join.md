@@ -3,7 +3,7 @@ layout: layouts/base.njk
 title: Join OARC
 ---
 
-# Join the OpenARCloud Community
+# Join the Open AR Cloud Community
 
 ## Why Join OARC?
 
