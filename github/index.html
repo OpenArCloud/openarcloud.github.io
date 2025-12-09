@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GitHub Repositories - Open AR Cloud</title>
     <meta name="description" content="Open Spatial Computing Platform - Connecting physical and digital worlds through open standards">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
@@ -12,15 +13,19 @@
         <div class="container">
             <div class="header-content">
                 <a href="/" class="logo">
-                    <strong>OpenArCloud</strong>
+                    <img src="/img/oarc-cloud-icon.png" alt="Open AR Cloud" class="logo-icon">
+                    <strong>OpenARCloud</strong>
                 </a>
                 <nav class="main-nav">
                     <a href="/">Home</a>
                     <a href="/platform/">Platform</a>
+                    <a href="/testbeds/">Testbeds</a>
                     <a href="/github/">GitHub</a>
                     <a href="/about/">About</a>
-                    <a href="/join/">Join</a>
+                    <a href="https://ko-fi.com/openarcloud" target="_blank">Join</a>
+                    <a href="https://medium.com/openarcloud" target="_blank">News</a>
                     <a href="/contact/">Contact</a>
+                    <a href="https://ko-fi.com/openarcloud" target="_blank">Donate</a>
                 </nav>
             </div>
         </div>
@@ -32,117 +37,122 @@
 <h2>Open Source Implementations</h2>
 <p>All OSCP services have open source implementations available on GitHub. These repositories are designed for both academic research and commercial deployment, with permissive licensing that encourages innovation.</p>
 <div class="quick-start">
-    <h2>🚀 Quick Start</h2>
+    <h2>Quick Start</h2>
     <p>Get up and running with OSCP in minutes:</p>
     <pre><code># Clone the core services
-git clone https://github.com/OpenArCloud/oscp-spatial-service-discovery
-git clone https://github.com/OpenArCloud/oscp-geopose-protocol
-git clone https://github.com/OpenArCloud/oscp-spatial-content-discovery
-<h1>Follow setup instructions in each repository's README</code></pre></h1>
+        git clone https://github.com/OpenARCloud/oscp-spatial-service-discovery
+        git clone https://github.com/OpenARCloud/oscp-geopose-protocol
+        git clone https://github.com/OpenARCloud/oscp-spatial-content-discovery
+    </code></pre>
 </div>
 <h2>Core Services</h2>
 <h3>Spatial Service Discovery</h3>
-<p><strong>Repository</strong>: <a href="#">oscp-spatial-service-discovery</a>
-<strong>Description</strong>: Root-level service registry for discovering and connecting to spatial services in a geographic area.
-<strong>Language</strong>: Node.js/TypeScript
-<strong>Status</strong>: Production Ready</p>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/oscp-spatial-service-discovery">oscp-spatial-service-discovery</a>
+<strong>Description</strong>: OSCP Spatial Service Discovery - Root-level service registry for discovering and connecting to spatial services in a geographic area.
+<strong>Language</strong>: TypeScript
+<strong>License</strong>: MIT</p>
 <h3>GeoPose Protocol Implementation</h3>
-<p><strong>Repository</strong>: <a href="#">oscp-geopose-protocol</a>
-<strong>Description</strong>: Reference implementation of the GeoPose standard for spatial positioning and orientation.
-<strong>Language</strong>: Multiple (JavaScript, Python, C++)
-<strong>Status</strong>: Production Ready</p>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/oscp-geopose-protocol">oscp-geopose-protocol</a>
+<strong>Description</strong>: OSCP GeoPose Protocol - Reference implementation of the GeoPose standard for spatial positioning and orientation.
+<strong>Language</strong>: Python</p>
 <h3>Spatial Content Discovery Service</h3>
-<p><strong>Repository</strong>: <a href="#">oscp-spatial-content-discovery</a>
-<strong>Description</strong>: Service for discovering spatially-anchored content and experiences within geographic bounds.
-<strong>Language</strong>: Node.js/TypeScript
-<strong>Status</strong>: Production Ready</p>
-<h3>Reality Modeling Service</h3>
-<p><strong>Repository</strong>: <a href="#">oscp-reality-modeling</a>
-<strong>Description</strong>: Service for managing and serving 3D models, BIM data, and IoT integrations.
-<strong>Language</strong>: Python/Go
-<strong>Status</strong>: Beta</p>
-<h3>Cloud Rendering Service</h3>
-<p><strong>Repository</strong>: <a href="#">oscp-cloud-rendering</a>
-<strong>Description</strong>: Edge-deployed rendering service optimized for 5G networks.
-<strong>Language</strong>: C++/Rust
-<strong>Status</strong>: Alpha</p>
-<h2>Client Libraries</h2>
-<h3>JavaScript/Web SDK</h3>
-<p><strong>Repository</strong>: <a href="#">oscp-js-sdk</a>
-<strong>Description</strong>: Browser-based SDK for web applications and PWAs.
-<strong>Platform</strong>: Web browsers, Node.js
-<strong>Status</strong>: Production Ready</p>
-<h3>Unity Plugin</h3>
-<p><strong>Repository</strong>: <a href="#">oscp-unity-plugin</a>
-<strong>Description</strong>: Unity integration for AR/VR applications.
-<strong>Platform</strong>: Unity 2020.3+
-<strong>Status</strong>: Production Ready</p>
-<h3>iOS SDK</h3>
-<p><strong>Repository</strong>: <a href="#">oscp-ios-sdk</a>
-<strong>Description</strong>: Native iOS SDK for ARKit integration.
-<strong>Platform</strong>: iOS 14+
-<strong>Status</strong>: Beta</p>
-<h3>Android SDK</h3>
-<p><strong>Repository</strong>: <a href="#">oscp-android-sdk</a>
-<strong>Description</strong>: Native Android SDK for ARCore integration.
-<strong>Platform</strong>: Android 7.0+
-<strong>Status</strong>: Beta</p>
-<h3>Python Client</h3>
-<p><strong>Repository</strong>: <a href="#">oscp-python-client</a>
-<strong>Description</strong>: Python library for server-side integration and robotics.
-<strong>Platform</strong>: Python 3.8+
-<strong>Status</strong>: Production Ready</p>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/oscp-spatial-content-discovery">oscp-spatial-content-discovery</a>
+<strong>Description</strong>: OSCP Spatial Content Discovery - Service for discovering spatially-anchored content and experiences within geographic bounds.
+<strong>Language</strong>: TypeScript
+<strong>License</strong>: MIT</p>
+<h3>Point of Interest Service</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/oscp-poi-service">oscp-poi-service</a>
+<strong>Description</strong>: OSCP Point of Interest service for managing spatial POIs.
+<strong>Language</strong>: JavaScript</p>
+<h3>Open GeoPose Service</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/oscp-open-geopose-service">oscp-open-geopose-service</a>
+<strong>Description</strong>: GeoPose service implementation for OSCP.</p>
+<h2>Client Libraries &amp; Access</h2>
+<h3>GeoPose Protocol Access</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/gpp-access">gpp-access</a>
+<strong>Description</strong>: GeoPose Protocol access library for client applications.
+<strong>Language</strong>: TypeScript
+<strong>License</strong>: MIT</p>
+<h3>Spatial Service Discovery Access</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/ssd-access">ssd-access</a>
+<strong>Description</strong>: Spatial Service Discovery client access library.
+<strong>Language</strong>: TypeScript
+<strong>License</strong>: MIT</p>
+<h3>Spatial Content Discovery Access</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/scd-access">scd-access</a>
+<strong>Description</strong>: Spatial Content Discovery system access library.
+<strong>Language</strong>: TypeScript
+<strong>License</strong>: MIT</p>
+<h3>Unity Client</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/oscp-unity-client">oscp-unity-client</a>
+<strong>Description</strong>: Unity-based client for OSCP integration in AR/VR applications.
+<strong>Language</strong>: C#</p>
+<h3>Browser User Client</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/browser_userclient">browser_userclient</a>
+<strong>Description</strong>: Sample for user-facing browser app accessing discovery services.
+<strong>Language</strong>: Svelte
+<strong>License</strong>: MIT</p>
+<h3>SPARCL</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/sparcl">sparcl</a>
+<strong>Description</strong>: Common AR Cloud client concept proof of concept and experimentation platform.
+<strong>Language</strong>: JavaScript
+<strong>License</strong>: MIT</p>
 <h2>Tools &amp; Utilities</h2>
-<h3>OSCP CLI</h3>
-<p><strong>Repository</strong>: <a href="#">oscp-cli</a>
-<strong>Description</strong>: Command-line interface for managing OSCP services and deployments.</p>
-<h3>Docker Compose Stack</h3>
-<p><strong>Repository</strong>: <a href="#">oscp-docker-stack</a>
-<strong>Description</strong>: Pre-configured Docker setup for running all OSCP services locally.</p>
-<h3>Kubernetes Helm Charts</h3>
-<p><strong>Repository</strong>: <a href="#">oscp-helm-charts</a>
-<strong>Description</strong>: Production-ready Helm charts for deploying OSCP on Kubernetes.</p>
-<h3>Testing Suite</h3>
-<p><strong>Repository</strong>: <a href="#">oscp-test-suite</a>
-<strong>Description</strong>: Comprehensive testing tools for validating OSCP implementations.</p>
-<h2>Deployment Notes</h2>
-<h3>Edge Infrastructure (p-NET)</h3>
-<p>All services are optimized for edge deployment:</p>
-<ul>
-<li>Low latency requirements</li>
-<li>Local data processing</li>
-<li>Minimal cloud dependencies</li>
-<li>5G network optimization</li>
-</ul>
-<h3>Getting Started Guide</h3>
-<ol>
-<li>
-<p><strong>Development Environment</strong></p>
-<pre><code class="language-bash"># Use Docker Compose for local development
-git clone https://github.com/OpenArCloud/oscp-docker-stack
-cd oscp-docker-stack
-docker-compose up
-</code></pre>
-</li>
-<li>
-<p><strong>Production Deployment</strong></p>
-<ul>
-<li>Use Kubernetes with our Helm charts</li>
-<li>Deploy to edge nodes near users</li>
-<li>Configure GeoPose anchors for your region</li>
-<li>Set up spatial content indices</li>
-</ul>
-</li>
-<li>
-<p><strong>Integration</strong></p>
-<ul>
-<li>Choose appropriate client SDK</li>
-<li>Configure service discovery</li>
-<li>Implement GeoPose localization</li>
-<li>Add spatial content</li>
-</ul>
-</li>
-</ol>
+<h3>OSCP Admin</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/oscp-admin">oscp-admin</a>
+<strong>Description</strong>: Sample client for OSCP spatial service and content discovery administration.
+<strong>Language</strong>: Svelte
+<strong>License</strong>: MIT</p>
+<h3>OpenVPS</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/openvps">openvps</a>
+<strong>Description</strong>: Open Visual Positioning System implementation.
+<strong>Language</strong>: Jupyter Notebook
+<strong>License</strong>: MIT</p>
+<h3>Hierarchical Localization</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/Hierarchical-Localization">Hierarchical-Localization</a>
+<strong>Description</strong>: Visual localization made easy with hloc.
+<strong>Language</strong>: Python
+<strong>License</strong>: Apache 2.0</p>
+<h3>Cesium Viewer</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/cesium-viewer">cesium-viewer</a>
+<strong>Description</strong>: Cesium-based viewer for spatial content visualization.
+<strong>Language</strong>: JavaScript</p>
+<h3>H3NET</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/h3net">h3net</a>
+<strong>Description</strong>: H3NET - A Hexagonal Hierarchical Geo-spatial Indexing System in C#.
+<strong>Language</strong>: C#
+<strong>License</strong>: Apache 2.0</p>
+<h2>Reference Implementations</h2>
+<h3>SSD FastAPI + Tile38</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/SSD-FastAPI-Tile38">SSD-FastAPI-Tile38</a>
+<strong>Description</strong>: OSCP Spatial Service Discovery using FastAPI and Tile38.
+<strong>Language</strong>: Python
+<strong>License</strong>: MIT</p>
+<h3>SCD FastAPI + Tile38</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/SCD-FastAPI-Tile38">SCD-FastAPI-Tile38</a>
+<strong>Description</strong>: Spatial Content Discovery implementation using FastAPI and Tile38.
+<strong>Language</strong>: Python
+<strong>License</strong>: MIT</p>
+<h2>Specifications &amp; Documentation</h2>
+<h3>OSCP Documentation</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/OSCP-Docs">OSCP-Docs</a>
+<strong>Description</strong>: Official OSCP documentation and specifications.
+<strong>License</strong>: CC0</p>
+<h3>GeoPose Specification</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/GeoPose">GeoPose</a>
+<strong>Description</strong>: GeoPose specification and reference materials.
+<strong>Language</strong>: HTML
+<strong>License</strong>: Apache 2.0</p>
+<h3>GeoPose Wrappers</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/GeoPoseWrappers">GeoPoseWrappers</a>
+<strong>Description</strong>: GeoPose integration libraries and wrappers.</p>
+<h3>SpatialDDS Specification</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/SpatialDDS-spec">SpatialDDS-spec</a>
+<strong>Description</strong>: SpatialDDS - A Protocol for Real-World Spatial Computing.
+<strong>Language</strong>: Python</p>
+<h3>Open Glossary</h3>
+<p><strong>Repository</strong>: <a href="https://github.com/OpenARCloud/OpenGlossaryForRealWorldSpatialComputing">OpenGlossaryForRealWorldSpatialComputing</a>
+<strong>Description</strong>: Unifying the language and terms of the emerging spatial computing industry.</p>
 <h2>Contributing</h2>
 <p>We welcome contributions! Each repository includes:</p>
 <ul>
@@ -160,7 +170,7 @@ docker-compose up
 <li>Submit a pull request</li>
 </ol>
 <h2>License</h2>
-<p>All OSCP repositories use permissive open source licenses (MIT or Apache 2.0) suitable for both academic and commercial use.</p>
+<p>OSCP repositories use permissive open source licenses (MIT, Apache 2.0, or CC0) suitable for both academic and commercial use.</p>
 <h2>Support</h2>
 <ul>
 <li><strong>Documentation</strong>: Each repository includes comprehensive README files</li>
@@ -169,8 +179,9 @@ docker-compose up
 <li><strong>Community</strong>: Connect with other developers in our forums</li>
 </ul>
 <div style="text-align: center; margin: 40px 0;">
-    <a href="https://github.com/OpenArCloud" class="primary-button" target="_blank">Visit OpenArCloud on GitHub →</a>
+    <a href="https://github.com/OpenARCloud" class="primary-button" target="_blank">Visit OpenARCloud on GitHub →</a>
 </div>
+
         </div>
     </main>
 
@@ -185,23 +196,25 @@ docker-compose up
                     <h3>Quick Links</h3>
                     <ul>
                         <li><a href="/platform/">OSCP Platform</a></li>
-                        <li><a href="/github/">GitHub Repos</a></li>
-                        <li><a href="/join/">Membership</a></li>
+                        <li><a href="https://github.com/OpenARCloud" target="_blank">GitHub Repos</a></li>
+                        <li><a href="/partners/">Partners</a></li>
+                        <li><a href="https://ko-fi.com/openarcloud" target="_blank">Membership</a></li>
                         <li><a href="/contact/">Contact</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
                     <h3>Connect</h3>
                     <ul>
-                        <li><a href="https://github.com/OpenArCloud" target="_blank">GitHub</a></li>
-                        <li><a href="#" target="_blank">LinkedIn</a></li>
-                        <li><a href="#" target="_blank">Twitter</a></li>
+                        <li><a href="https://github.com/OpenARCloud" target="_blank">GitHub</a></li>
+                        <li><a href="https://x.com/openarcloud" target="_blank">Twitter</a></li>
+                        <li><a href="https://www.linkedin.com/company/openarcloud" target="_blank">LinkedIn</a></li>
+                        <li><a href="https://www.youtube.com/@openarcloud" target="_blank">YouTube</a></li>
                         <li><a href="mailto:info@openarcloud.org">Email</a></li>
                     </ul>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2024 Open AR Cloud Association. All rights reserved.</p>
+                <p>&copy; 2025 Open AR Cloud Association. All rights reserved.</p>
             </div>
         </div>
     </footer>
