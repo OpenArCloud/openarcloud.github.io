@@ -19,11 +19,11 @@ title: Open Spatial Computing Platform
 ## Get Started with OSCP
 
 <div class="cta-grid">
-    <a href="https://github.com/OpenARCloud" target="_blank" class="cta-card">
+    <a href="/github/" class="cta-card">
         <h3>📦 Explore GitHub Repos</h3>
         <p>Access open source implementations of all OSCP services, ready for deployment on edge infrastructure.</p>
     </a>
-    <a href="/platform/" class="cta-card">
+    <a href="https://github.com/OpenArCloud/OSCP-Docs" target="_blank" class="cta-card">
         <h3>🔧 Technical Documentation</h3>
         <p>Deep dive into the OSCP architecture, protocols, and standards that power spatial computing.</p>
     </a>

@@ -50,40 +50,36 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 
 ## Leadership
 
-### Executive Team
+### Executive Leadership
 
-**[Executive Director Name]**
-*Executive Director*
-Leading the strategic vision and operations of OARC
+**Jan-Erik Vinje** - *Executive Co-Director*
+CEO, OnSiteViewer
 
-**[CTO Name]**
-*Chief Technology Officer*
-Overseeing technical standards and platform development
+**Ali C. Hantal** - *Executive Co-Director*
+CEO, XR Masters
 
-**[Community Lead Name]**
-*Head of Community*
-Building and nurturing our global developer community
+### Directors
 
-### Board of Directors
+**Colin Steinmann** - *Director of Operations*
+Chief Technical Officer, 6DoF Research
 
-- Representative from [Organization 1]
-- Representative from [Organization 2]
-- Representative from [Organization 3]
-- Representative from [Organization 4]
-- Independent Director
-- Independent Director
+**James Jackson** - *Director of Technology*
+Software Architect
 
-### Working Group Chairs
+**Alina Kadlubsky** - *Director of Communications & Managing Director Open AR Cloud Europe*
+Art Director, Web XR Developer
 
-- **Standards Working Group** - [Chair Name]
-- **Implementation Working Group** - [Chair Name]
-- **Testbed Working Group** - [Chair Name]
-- **Education Working Group** - [Chair Name]
+### Founding Board Members
+
+- **Christine Perey** - Director, Perey Research
+- **Ori Inbar** - Co-founder Super Ventures and AWE
+- **Michael N. Louka** - Head of Department of VR/AR at IFE Digital Systems
+- **Arka Bala** - Co-Founder & CEO at ContextGrid
 
 ## Organization Structure
 
-### Non-Profit Status
-Open AR Cloud Association is organized as a [501(c)(6) - placeholder] non-profit organization, ensuring that our work remains focused on advancing the industry rather than generating profits.
+### Volunteer-Run Organization
+Open AR Cloud Association is a volunteer-run organization, driven by passionate contributors who believe in the power of open standards for spatial computing. Our community-first approach ensures that our work remains focused on advancing the industry rather than generating profits.
 
 ### Governance
 - Member-driven organization
