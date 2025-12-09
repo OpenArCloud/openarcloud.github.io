@@ -29,17 +29,6 @@ We're here to help with your questions about OSCP, membership, technical impleme
 - **YouTube**: [OpenARCloud](https://www.youtube.com/@openarcloud)
 - **Medium**: [OpenARCloud Blog](https://medium.com/openarcloud)
 
-## Working Groups
-
-Interested in joining a working group? Each group has open participation:
-
-- **Standards Working Group** - Monthly meetings
-- **Implementation Working Group** - Bi-weekly meetings
-- **Testbed Working Group** - Monthly meetings
-- **Education Working Group** - Monthly meetings
-
-Contact [workinggroups@openarcloud.org](mailto:workinggroups@openarcloud.org) to join.
-
 ## FAQ
 
 ### How quickly will I receive a response?

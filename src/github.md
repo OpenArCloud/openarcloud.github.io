@@ -10,128 +10,150 @@ title: GitHub Repositories
 All OSCP services have open source implementations available on GitHub. These repositories are designed for both academic research and commercial deployment, with permissive licensing that encourages innovation.
 
 <div class="quick-start">
-    <h2>🚀 Quick Start</h2>
+    <h2>Quick Start</h2>
     <p>Get up and running with OSCP in minutes:</p>
     <pre><code># Clone the core services
-git clone https://github.com/OpenARCloud/oscp-spatial-service-discovery
-git clone https://github.com/OpenARCloud/oscp-geopose-protocol
-git clone https://github.com/OpenARCloud/oscp-spatial-content-discovery
-
-# Follow setup instructions in each repository's README</code></pre>
+        git clone https://github.com/OpenARCloud/oscp-spatial-service-discovery
+        git clone https://github.com/OpenARCloud/oscp-geopose-protocol
+        git clone https://github.com/OpenARCloud/oscp-spatial-content-discovery
+    </code></pre>
 </div>
 
 ## Core Services
 
 ### Spatial Service Discovery
-**Repository**: [oscp-spatial-service-discovery](#)
-**Description**: Root-level service registry for discovering and connecting to spatial services in a geographic area.
-**Language**: Node.js/TypeScript
-**Status**: Production Ready
+**Repository**: [oscp-spatial-service-discovery](https://github.com/OpenARCloud/oscp-spatial-service-discovery)
+**Description**: OSCP Spatial Service Discovery - Root-level service registry for discovering and connecting to spatial services in a geographic area.
+**Language**: TypeScript
+**License**: MIT
 
 ### GeoPose Protocol Implementation
-**Repository**: [oscp-geopose-protocol](#)
-**Description**: Reference implementation of the GeoPose standard for spatial positioning and orientation.
-**Language**: Multiple (JavaScript, Python, C++)
-**Status**: Production Ready
+**Repository**: [oscp-geopose-protocol](https://github.com/OpenARCloud/oscp-geopose-protocol)
+**Description**: OSCP GeoPose Protocol - Reference implementation of the GeoPose standard for spatial positioning and orientation.
+**Language**: Python
 
 ### Spatial Content Discovery Service
-**Repository**: [oscp-spatial-content-discovery](#)
-**Description**: Service for discovering spatially-anchored content and experiences within geographic bounds.
-**Language**: Node.js/TypeScript
-**Status**: Production Ready
+**Repository**: [oscp-spatial-content-discovery](https://github.com/OpenARCloud/oscp-spatial-content-discovery)
+**Description**: OSCP Spatial Content Discovery - Service for discovering spatially-anchored content and experiences within geographic bounds.
+**Language**: TypeScript
+**License**: MIT
 
-### Reality Modeling Service
-**Repository**: [oscp-reality-modeling](#)
-**Description**: Service for managing and serving 3D models, BIM data, and IoT integrations.
-**Language**: Python/Go
-**Status**: Beta
+### Point of Interest Service
+**Repository**: [oscp-poi-service](https://github.com/OpenARCloud/oscp-poi-service)
+**Description**: OSCP Point of Interest service for managing spatial POIs.
+**Language**: JavaScript
 
-### Cloud Rendering Service
-**Repository**: [oscp-cloud-rendering](#)
-**Description**: Edge-deployed rendering service optimized for 5G networks.
-**Language**: C++/Rust
-**Status**: Alpha
+### Open GeoPose Service
+**Repository**: [oscp-open-geopose-service](https://github.com/OpenARCloud/oscp-open-geopose-service)
+**Description**: GeoPose service implementation for OSCP.
 
-## Client Libraries
+## Client Libraries & Access
 
-### JavaScript/Web SDK
-**Repository**: [oscp-js-sdk](#)
-**Description**: Browser-based SDK for web applications and PWAs.
-**Platform**: Web browsers, Node.js
-**Status**: Production Ready
+### GeoPose Protocol Access
+**Repository**: [gpp-access](https://github.com/OpenARCloud/gpp-access)
+**Description**: GeoPose Protocol access library for client applications.
+**Language**: TypeScript
+**License**: MIT
 
-### Unity Plugin
-**Repository**: [oscp-unity-plugin](#)
-**Description**: Unity integration for AR/VR applications.
-**Platform**: Unity 2020.3+
-**Status**: Production Ready
+### Spatial Service Discovery Access
+**Repository**: [ssd-access](https://github.com/OpenARCloud/ssd-access)
+**Description**: Spatial Service Discovery client access library.
+**Language**: TypeScript
+**License**: MIT
 
-### iOS SDK
-**Repository**: [oscp-ios-sdk](#)
-**Description**: Native iOS SDK for ARKit integration.
-**Platform**: iOS 14+
-**Status**: Beta
+### Spatial Content Discovery Access
+**Repository**: [scd-access](https://github.com/OpenARCloud/scd-access)
+**Description**: Spatial Content Discovery system access library.
+**Language**: TypeScript
+**License**: MIT
 
-### Android SDK
-**Repository**: [oscp-android-sdk](#)
-**Description**: Native Android SDK for ARCore integration.
-**Platform**: Android 7.0+
-**Status**: Beta
+### Unity Client
+**Repository**: [oscp-unity-client](https://github.com/OpenARCloud/oscp-unity-client)
+**Description**: Unity-based client for OSCP integration in AR/VR applications.
+**Language**: C#
 
-### Python Client
-**Repository**: [oscp-python-client](#)
-**Description**: Python library for server-side integration and robotics.
-**Platform**: Python 3.8+
-**Status**: Production Ready
+### Browser User Client
+**Repository**: [browser_userclient](https://github.com/OpenARCloud/browser_userclient)
+**Description**: Sample for user-facing browser app accessing discovery services.
+**Language**: Svelte
+**License**: MIT
+
+### SPARCL
+**Repository**: [sparcl](https://github.com/OpenARCloud/sparcl)
+**Description**: Common AR Cloud client concept proof of concept and experimentation platform.
+**Language**: JavaScript
+**License**: MIT
 
 ## Tools & Utilities
 
-### OSCP CLI
-**Repository**: [oscp-cli](#)
-**Description**: Command-line interface for managing OSCP services and deployments.
+### OSCP Admin
+**Repository**: [oscp-admin](https://github.com/OpenARCloud/oscp-admin)
+**Description**: Sample client for OSCP spatial service and content discovery administration.
+**Language**: Svelte
+**License**: MIT
 
-### Docker Compose Stack
-**Repository**: [oscp-docker-stack](#)
-**Description**: Pre-configured Docker setup for running all OSCP services locally.
+### OpenVPS
+**Repository**: [openvps](https://github.com/OpenARCloud/openvps)
+**Description**: Open Visual Positioning System implementation.
+**Language**: Jupyter Notebook
+**License**: MIT
 
-### Kubernetes Helm Charts
-**Repository**: [oscp-helm-charts](#)
-**Description**: Production-ready Helm charts for deploying OSCP on Kubernetes.
+### Hierarchical Localization
+**Repository**: [Hierarchical-Localization](https://github.com/OpenARCloud/Hierarchical-Localization)
+**Description**: Visual localization made easy with hloc.
+**Language**: Python
+**License**: Apache 2.0
 
-### Testing Suite
-**Repository**: [oscp-test-suite](#)
-**Description**: Comprehensive testing tools for validating OSCP implementations.
+### Cesium Viewer
+**Repository**: [cesium-viewer](https://github.com/OpenARCloud/cesium-viewer)
+**Description**: Cesium-based viewer for spatial content visualization.
+**Language**: JavaScript
 
-## Deployment Notes
+### H3NET
+**Repository**: [h3net](https://github.com/OpenARCloud/h3net)
+**Description**: H3NET - A Hexagonal Hierarchical Geo-spatial Indexing System in C#.
+**Language**: C#
+**License**: Apache 2.0
 
-### Edge Infrastructure (p-NET)
-All services are optimized for edge deployment:
-- Low latency requirements
-- Local data processing
-- Minimal cloud dependencies
-- 5G network optimization
+## Reference Implementations
 
-### Getting Started Guide
+### SSD FastAPI + Tile38
+**Repository**: [SSD-FastAPI-Tile38](https://github.com/OpenARCloud/SSD-FastAPI-Tile38)
+**Description**: OSCP Spatial Service Discovery using FastAPI and Tile38.
+**Language**: Python
+**License**: MIT
 
-1. **Development Environment**
-   ```bash
-   # Use Docker Compose for local development
-   git clone https://github.com/OpenARCloud/oscp-docker-stack
-   cd oscp-docker-stack
-   docker-compose up
-   ```
+### SCD FastAPI + Tile38
+**Repository**: [SCD-FastAPI-Tile38](https://github.com/OpenARCloud/SCD-FastAPI-Tile38)
+**Description**: Spatial Content Discovery implementation using FastAPI and Tile38.
+**Language**: Python
+**License**: MIT
 
-2. **Production Deployment**
-   - Use Kubernetes with our Helm charts
-   - Deploy to edge nodes near users
-   - Configure GeoPose anchors for your region
-   - Set up spatial content indices
+## Specifications & Documentation
 
-3. **Integration**
-   - Choose appropriate client SDK
-   - Configure service discovery
-   - Implement GeoPose localization
-   - Add spatial content
+### OSCP Documentation
+**Repository**: [OSCP-Docs](https://github.com/OpenARCloud/OSCP-Docs)
+**Description**: Official OSCP documentation and specifications.
+**License**: CC0
+
+### GeoPose Specification
+**Repository**: [GeoPose](https://github.com/OpenARCloud/GeoPose)
+**Description**: GeoPose specification and reference materials.
+**Language**: HTML
+**License**: Apache 2.0
+
+### GeoPose Wrappers
+**Repository**: [GeoPoseWrappers](https://github.com/OpenARCloud/GeoPoseWrappers)
+**Description**: GeoPose integration libraries and wrappers.
+
+### SpatialDDS Specification
+**Repository**: [SpatialDDS-spec](https://github.com/OpenARCloud/SpatialDDS-spec)
+**Description**: SpatialDDS - A Protocol for Real-World Spatial Computing.
+**Language**: Python
+
+### Open Glossary
+**Repository**: [OpenGlossaryForRealWorldSpatialComputing](https://github.com/OpenARCloud/OpenGlossaryForRealWorldSpatialComputing)
+**Description**: Unifying the language and terms of the emerging spatial computing industry.
 
 ## Contributing
 
@@ -151,7 +173,7 @@ We welcome contributions! Each repository includes:
 
 ## License
 
-All OSCP repositories use permissive open source licenses (MIT or Apache 2.0) suitable for both academic and commercial use.
+OSCP repositories use permissive open source licenses (MIT, Apache 2.0, or CC0) suitable for both academic and commercial use.
 
 ## Support
 

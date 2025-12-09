@@ -11,10 +11,7 @@ The Open Spatial Computing Platform (OSCP) is a comprehensive architecture for b
 
 ## Architecture
 
-<div class="architecture-placeholder" style="background: #f0f0f0; padding: 40px; text-align: center; border-radius: 8px; margin: 30px 0;">
-    <p>[OSCP Architecture Diagram]</p>
-    <p style="font-size: 14px; color: #666;">Decentralized spatial computing architecture</p>
-</div>
+<img src="/img/oscp-sequence-diagram.png" alt="OSCP 3.0 Sequence Diagram - showing Edge Devices with Spatial Clients communicating with Spatial Services including Service Discovery, Visual Positioning, Reality Model, Spatial Content Discovery, and Spatial Content Hosting" style="width: 100%; max-width: 900px; margin: 30px auto; display: block; border-radius: 8px;">
 
 ### Three-Tier Architecture
 
@@ -131,9 +128,9 @@ Consider OSCP for:
 
 ## Technical Resources
 
-- [API Documentation](#) - *Coming soon*
-- [Protocol Specifications](#) - *Coming soon*
-- [Reference Implementations](https://github.com/OpenARCloud)
+- [API Documentation](https://github.com/OpenArCloud/OSCP-Docs)
+- [Protocol Specifications](https://github.com/OpenArCloud/oscp-geopose-protocol)
+- [Reference Implementations](#) - *Coming soon*
 - [Deployment Guides](#) - *Coming soon*
 
 ## Next Steps
