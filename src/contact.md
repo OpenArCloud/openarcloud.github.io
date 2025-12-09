@@ -15,24 +15,6 @@ We're here to help with your questions about OSCP, membership, technical impleme
 
 **Response Time**: We typically respond within 1-2 business days
 
-## Specific Contacts
-
-### Technical Support
-For questions about OSCP implementation, standards, or technical issues:
-**Email**: [tech@openarcloud.org](mailto:tech@openarcloud.org)
-
-### Membership
-For membership applications and inquiries:
-**Email**: [membership@openarcloud.org](mailto:membership@openarcloud.org)
-
-### Partnership Opportunities
-For partnership and collaboration proposals:
-**Email**: [partnerships@openarcloud.org](mailto:partnerships@openarcloud.org)
-
-### Media Inquiries
-For press and media requests:
-**Email**: [media@openarcloud.org](mailto:media@openarcloud.org)
-
 ## Connect With Our Community
 
 ### GitHub
@@ -42,27 +24,10 @@ For press and media requests:
 - Join discussions
 
 ### Social Media
-- **LinkedIn**: [OpenARCloud](#) *[Coming soon]*
-- **Twitter**: [@OpenARCloud](#) *[Coming soon]*
-- **YouTube**: [OpenARCloud Channel](#) *[Coming soon]*
-
-### Community Forums
-*[Community forum links coming soon]*
-
-## Contact Form
-
-<div class="form-placeholder" style="background: #f0f0f0; padding: 40px; border-radius: 8px; margin: 30px 0;">
-    <p style="text-align: center; color: #666;">[Contact form will be embedded here]</p>
-    <p style="text-align: center; color: #666; font-size: 14px;">For now, please email us directly at info@openarcloud.org</p>
-</div>
-
-## Office Location
-
-<div style="background: #f9f9f9; padding: 20px; border-radius: 8px; margin: 30px 0;">
-    <p><strong>Open AR Cloud Association</strong></p>
-    <p style="color: #666;">[Physical address to be added]</p>
-    <p style="color: #666;">[City, State/Country]</p>
-</div>
+- **Twitter**: [@OpenARCloud](https://x.com/openarcloud)
+- **LinkedIn**: [OpenARCloud](https://www.linkedin.com/company/openarcloud)
+- **YouTube**: [OpenARCloud](https://www.youtube.com/@openarcloud)
+- **Medium**: [OpenARCloud Blog](https://medium.com/openarcloud)
 
 ## Working Groups
 
@@ -74,20 +39,6 @@ Interested in joining a working group? Each group has open participation:
 - **Education Working Group** - Monthly meetings
 
 Contact [workinggroups@openarcloud.org](mailto:workinggroups@openarcloud.org) to join.
-
-## Stay Updated
-
-### Newsletter
-Sign up for our newsletter to receive updates on:
-- New standards releases
-- Technical announcements
-- Community events
-- Member spotlights
-
-<div class="form-placeholder" style="background: #f0f0f0; padding: 30px; border-radius: 8px; margin: 30px 0; text-align: center;">
-    <p style="color: #666;">[Newsletter signup form coming soon]</p>
-    <p style="color: #666; font-size: 14px;">Email info@openarcloud.org to join our mailing list</p>
-</div>
 
 ## FAQ
 
@@ -103,7 +54,8 @@ Please report bugs directly on the relevant GitHub repository's issue tracker. T
 ### Where can I find technical documentation?
 Technical documentation is available in each GitHub repository and will be consolidated on this website soon.
 
-<div style="text-align: center; margin: 40px 0;">
-    <a href="mailto:info@openarcloud.org" class="primary-button">Email Us →</a>
-    <a href="/join/" class="secondary-button" style="margin-left: 20px;">Join OARC →</a>
+## Contact Form
+
+<div class="form-container form-container-short">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfdRL9GGZEVZU2qUKvzQ72cptWOipq8vx4TJzSbpKu5WYMY_w/viewform?embedded=true" width="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>

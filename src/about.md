@@ -119,6 +119,6 @@ We design for long-term viability, both environmentally and economically.
 Join us in building the open future of spatial computing:
 
 <div style="text-align: center; margin: 40px 0;">
-    <a href="/join/" class="primary-button">Become a Member →</a>
-    <a href="/github/" class="secondary-button" style="margin-left: 20px;">Contribute Code →</a>
+    <a href="https://ko-fi.com/openarcloud" target="_blank" class="primary-button">Become a Member →</a>
+    <a href="https://github.com/OpenARCloud" target="_blank" class="secondary-button" style="margin-left: 20px;">Contribute Code →</a>
 </div>

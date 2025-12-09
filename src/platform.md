@@ -133,7 +133,7 @@ Consider OSCP for:
 
 - [API Documentation](#) - *Coming soon*
 - [Protocol Specifications](#) - *Coming soon*
-- [Reference Implementations](/github/)
+- [Reference Implementations](https://github.com/OpenARCloud)
 - [Deployment Guides](#) - *Coming soon*
 
 ## Next Steps
@@ -141,5 +141,5 @@ Consider OSCP for:
 Ready to implement OSCP? Start with our open source implementations:
 
 <div style="text-align: center; margin: 40px 0;">
-    <a href="/github/" class="primary-button">Browse GitHub Repositories →</a>
+    <a href="https://github.com/OpenARCloud" target="_blank" class="primary-button">Browse GitHub Repositories →</a>
 </div>
