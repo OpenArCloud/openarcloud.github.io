@@ -5,7 +5,7 @@ title: About OARC
 
 # About Open AR Cloud
 
-## Our Mission
+## Mission
 
 Open AR Cloud's mission is to drive the development of open and interoperable spatial computing technology, data and standards to connect the physical and digital worlds for the benefit of all.
 

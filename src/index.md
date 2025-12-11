@@ -5,7 +5,7 @@ title: Open Spatial Computing Platform
 
 <div class="hero-section">
     <div class="spatial-coordinates" id="coords">[37.7749° N, 122.4194° W, 0m]</div>
-    <h1 class="hero-title">Open Spatial Computing Platform</h1>
+    <h1 class="hero-title">Building a Better Reality Together</h1>
     <div class="hero-subtitle">
         <span class="typing-effect">Connecting Physical and Digital Worlds Through Open Standards</span>
     </div>
@@ -36,7 +36,7 @@ title: Open Spatial Computing Platform
 ## Why Open Spatial Computing?
 
 ### Decentralized by Design
-All OSCP services are designed to run on edge infrastructure (p-NET) rather than centralized cloud services, ensuring low latency and data sovereignty.
+All OSCP services are designed to run on edge infrastructure rather than centralized cloud services, ensuring low latency and data sovereignty.
 
 ### Open Source Everything
 Every OSCP service has open source implementations available on GitHub. All protocols are in the public domain and leverage existing open standards.

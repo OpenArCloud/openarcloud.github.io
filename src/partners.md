@@ -1,11 +1,85 @@
 ---
 layout: layouts/base.njk
-title: Partners
+title: Collaborators
 ---
 
-# Partners
+# Collaborators
 
-Our partners share our commitment to building an open, interoperable AR cloud that benefits everyone.
+Open AR Cloud works with projects, organizations, and individuals who share our commitment to building an open, interoperable spatial computing ecosystem.
+
+## Projects
+
+<div class="projects-grid">
+
+<a href="https://www.auroraviewer.org/" target="_blank" class="project-card">
+<h3>Aurora Viewer</h3>
+<p>A Unity-based reference client that adapts the Open Spatial Computing Platform (OSCP) to enable persistent, location-anchored digital objects in augmented reality cloud experiences.</p>
+</a>
+
+<a href="https://www.oscar4us.eu/" target="_blank" class="project-card">
+<h3>OSCAR4US</h3>
+<p>An NGI Search-funded project developing open-source components for city-scale, location-based AR including an Open Visual Positioning Service, spatial discovery tools, and a standardized Reality Modeling Language.</p>
+</a>
+
+<a href="http://geopose.org/" target="_blank" class="project-card">
+<h3>GeoPose</h3>
+<p>An OGC standard defining machine-readable encodings for geographical position and orientation of real or digital objects, enabling integration of digital elements in relation to Earth's surface.</p>
+</a>
+
+</div>
+
+## Featured Partners
+
+<div class="partners-grid featured-partners">
+
+<div class="partner-card">
+<img src="https://images.squarespace-cdn.com/content/v1/5d768e2521f9b80e4eb4f532/e4761a89-090a-4e93-b606-283c90ef091f/ETHAR+DIVER+LOGO+MASTER.png" alt="Ethar">
+<h3>Ethar Incorporated</h3>
+<p><strong>Tony Hodgson</strong>, CEO, Principal</p>
+<p>Ensures interoperability in geospatial mapping and AR content discovery</p>
+</div>
+
+<div class="partner-card">
+<h3>MyGeoverse</h3>
+<p>Building the infrastructure for location-based spatial computing experiences</p>
+</div>
+
+<div class="partner-card">
+<img src="https://images.squarespace-cdn.com/content/v1/5d768e2521f9b80e4eb4f532/1583266239624-1GXXZQTZCCOL6HMIOMOY/XRMasters_Logo.png" alt="XRMasters">
+<h3>XRMasters</h3>
+<p><strong>Ali Hantal</strong>, CEO</p>
+<p>Supporting interoperable spatial computing technology and open standards</p>
+</div>
+
+<div class="partner-card">
+<img src="https://images.squarespace-cdn.com/content/v1/5d768e2521f9b80e4eb4f532/30f3103c-a0f1-46ac-9e6d-dfa92184c8c5/AC.png" alt="Augmented.City">
+<h3>Augmented.City</h3>
+<p><strong>Katherina Ufnarovsky</strong>, CEO & Co-founder</p>
+<p>AR company focused on spatial computing</p>
+</div>
+
+<div class="partner-card">
+<h3>Metaverse Standards Forum</h3>
+<p>Industry consortium fostering interoperability standards for an open metaverse</p>
+</div>
+
+<div class="partner-card">
+<img src="https://images.squarespace-cdn.com/content/v1/5d768e2521f9b80e4eb4f532/1574101732961-MQH4KFPN1IMS8PSDPA14/ogc+logo.png" alt="Open Geospatial Consortium">
+<h3>Open Geospatial Consortium</h3>
+<p><strong>Scott Simmons</strong>, Executive Director</p>
+<p>Developing geospatial interoperability standards for AR location consistency</p>
+</div>
+
+<div class="partner-card">
+<img src="https://images.squarespace-cdn.com/content/v1/5d768e2521f9b80e4eb4f532/cf854fa3-1d19-4c1d-86c7-158aa7aa8d4b/PNET_final_CMYK-01.png" alt="P-NET">
+<h3>p-NET Emerging Networks & Vertical Applications</h3>
+<p><strong>Didoe Prevedourou</strong>, Managing Director</p>
+<p>Supporting open standards for mixed reality via 5G and edge computing</p>
+</div>
+
+</div>
+
+## Past & Current Partners
 
 <div class="partners-grid">
 
@@ -459,5 +533,5 @@ Our partners share our commitment to building an open, interoperable AR cloud th
 </div>
 
 <div style="text-align: center; margin: 40px 0;">
-    <a href="https://ko-fi.com/openarcloud" target="_blank" class="primary-button">Become a Partner</a>
+    <a href="https://ko-fi.com/openarcloud" target="_blank" class="primary-button">Become a Collaborator</a>
 </div>
