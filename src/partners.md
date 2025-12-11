@@ -91,13 +91,6 @@ Open AR Cloud works with projects, organizations, and individuals who share our 
 </div>
 
 <div class="partner-card">
-<img src="https://images.squarespace-cdn.com/content/v1/5d768e2521f9b80e4eb4f532/30f3103c-a0f1-46ac-9e6d-dfa92184c8c5/AC.png" alt="Augmented.City">
-<h3>Augmented.City</h3>
-<p><strong>Katherina Ufnarovsky</strong>, CEO & Co-founder</p>
-<p>AR company focused on spatial computing</p>
-</div>
-
-<div class="partner-card">
 <img src="https://images.squarespace-cdn.com/content/v1/5d768e2521f9b80e4eb4f532/1574632816084-887FGH5K0W1R04EJF2Y7/ARCortex.jpg" alt="ArCortex">
 <h3>ArCortex</h3>
 <p><strong>Yohan Baillot</strong>, CEO</p>
@@ -186,13 +179,6 @@ Open AR Cloud works with projects, organizations, and individuals who share our 
 <h3>Visionstar Information Technology (EasyAR)</h3>
 <p><strong>Sven Zhang</strong>, Marketing Director</p>
 <p>Develops open, interoperable AR cloud technologies connecting physical/digital worlds</p>
-</div>
-
-<div class="partner-card">
-<img src="https://images.squarespace-cdn.com/content/v1/5d768e2521f9b80e4eb4f532/e4761a89-090a-4e93-b606-283c90ef091f/ETHAR+DIVER+LOGO+MASTER.png" alt="Ethar">
-<h3>Ethar</h3>
-<p><strong>Tony Hodgson</strong>, CEO, Principal</p>
-<p>Ensures interoperability in geospatial mapping and AR content discovery</p>
 </div>
 
 <div class="partner-card">
@@ -350,13 +336,6 @@ Open AR Cloud works with projects, organizations, and individuals who share our 
 </div>
 
 <div class="partner-card">
-<img src="https://images.squarespace-cdn.com/content/v1/5d768e2521f9b80e4eb4f532/1574101732961-MQH4KFPN1IMS8PSDPA14/ogc+logo.png" alt="Open Geospatial Consortium">
-<h3>Open Geospatial Consortium (OGC)</h3>
-<p><strong>Scott Simmons</strong>, Executive Director</p>
-<p>Developing geospatial interoperability standards for AR location consistency</p>
-</div>
-
-<div class="partner-card">
 <img src="https://images.squarespace-cdn.com/content/v1/5d768e2521f9b80e4eb4f532/1611264390110-123JPE9TDQMXXIE4GPIZ/OnSiteViewerLogo__OnWhite_OnWhite.png" alt="OnSiteViewer AS">
 <h3>OnSiteViewer AS</h3>
 <p><strong>Jan-Erik Vinje</strong>, Chief Executive Director and CTO</p>
@@ -368,13 +347,6 @@ Open AR Cloud works with projects, organizations, and individuals who share our 
 <h3>PEREY Research & Consulting</h3>
 <p><strong>Christine Perey</strong>, Spime Wrangler</p>
 <p>Facilitates multi-stakeholder AR discussions for interoperability standards</p>
-</div>
-
-<div class="partner-card">
-<img src="https://images.squarespace-cdn.com/content/v1/5d768e2521f9b80e4eb4f532/cf854fa3-1d19-4c1d-86c7-158aa7aa8d4b/PNET_final_CMYK-01.png" alt="P-NET">
-<h3>P-NET</h3>
-<p><strong>Didoe Prevedourou</strong>, Managing Director</p>
-<p>Supporting open standards for mixed reality via 5G and edge computing</p>
 </div>
 
 <div class="partner-card">
@@ -501,13 +473,6 @@ Open AR Cloud works with projects, organizations, and individuals who share our 
 <h3>XR Bootcamp</h3>
 <p><strong>Ferhan Ozkan</strong>, CEO</p>
 <p>Democratizing VR/AR innovation with vendor-neutral, open approaches</p>
-</div>
-
-<div class="partner-card">
-<img src="https://images.squarespace-cdn.com/content/v1/5d768e2521f9b80e4eb4f532/1583266239624-1GXXZQTZCCOL6HMIOMOY/XRMasters_Logo.png" alt="XRMasters">
-<h3>XRMasters</h3>
-<p><strong>Ali Hantal</strong>, CEO</p>
-<p>Supporting interoperable spatial computing technology and open standards</p>
 </div>
 
 <div class="partner-card">
