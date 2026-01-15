@@ -13,17 +13,20 @@ Open AR Cloud works with projects, organizations, and individuals who share our 
 
 <a href="https://www.auroraviewer.org/" target="_blank" class="project-card">
 <h3>Aurora Viewer</h3>
-<p>A Unity-based reference client that adapts the Open Spatial Computing Platform (OSCP) to enable persistent, location-anchored digital objects in augmented reality cloud experiences.</p>
+<p>Aurora Viewer is an NGI Atlantic–funded research project that advances the Open Spatial Computing Platform (OSCP) toward multi-testbed deployment, including a deployment on the COSMOS 5G testbed. It delivers a Unity reference client plus key OSCP improvements (e.g., image capture, authentication, and content creation) to support creating and viewing persistent, location-anchored AR content.</p>
+<p><strong>Why it matters:</strong> It's a practical open-source reference implementation (plus tutorials/best practices) that helps the ecosystem validate and replicate interoperable AR Cloud workflows across real infrastructure.</p>
 </a>
 
 <a href="https://www.oscar4us.eu/" target="_blank" class="project-card">
 <h3>OSCAR4US</h3>
-<p>An NGI Search-funded project developing open-source components for city-scale, location-based AR including an Open Visual Positioning Service, spatial discovery tools, and a standardized Reality Modeling Language.</p>
+<p>OSCAR4US ("Open Source Scalable and Continuous Augmented Reality Services for Urban Spaces") is an NGI Search–funded project to push OSCP toward city-scale location-based AR. It targets web-like universality—so anyone can discover, publish, and access content tied to physical places—via three workstreams: OpenVPS (open visual positioning + mapping tools), spatial discovery (continuous, context-aware search for services/content), and a Reality Modeling Language (standardized, machine-readable environment descriptions).</p>
+<p><strong>Why it matters:</strong> It produces open building blocks that make large-scale urban AR more interoperable, discoverable, and reusable across apps and providers.</p>
 </a>
 
 <a href="http://geopose.org/" target="_blank" class="project-card">
 <h3>GeoPose</h3>
-<p>An OGC standard defining machine-readable encodings for geographical position and orientation of real or digital objects, enabling integration of digital elements in relation to Earth's surface.</p>
+<p>GeoPose standardizes how to represent and exchange an object's position and orientation (6DoF pose) relative to geographic (Earth-anchored) reference frames in a machine-readable way.</p>
+<p><strong>Why it matters:</strong> It's a foundational interoperability layer—so different platforms can consistently align digital content to the real world (supporting AR and other domains that need shared spatial reference frames).</p>
 </a>
 
 </div>

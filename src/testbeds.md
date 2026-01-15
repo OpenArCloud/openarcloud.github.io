@@ -7,7 +7,7 @@ title: Testbeds
 
 The Open AR Cloud Association's Testbed Program is a collaborative initiative that aims to promote the development and testing of interoperable AR cloud technologies across different platforms and applications.
 
-The program provides a platform for OARC members, Academic Institutions and City Governance Organizations to showcase their AR cloud solutions and to collaborate with other industry partners to address technical challenges and opportunities.
+The program provides a platform for OARC members, Academic Institutions and City Governance Organization to showcase their AR cloud solutions and to collaborate with other industry partners to address technical challenges and opportunities.
 
 The Testbed Program consists of a series of projects that focus on different aspects of the AR cloud, such as data interoperability, privacy and security, and real-time spatial mapping. These projects are designed to provide a common framework and testing environment for AR cloud solutions, and to enable OARC members to validate their technologies against real-world use cases.
 
