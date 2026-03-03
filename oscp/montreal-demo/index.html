@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GeoPose &amp; POI Demos — Montreal - Open AR Cloud</title>
+    <meta name="description" content="Open Spatial Computing Platform - Connecting physical and digital worlds through open standards">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <div class="header-content">
+                <a href="/" class="logo">
+                    <img src="/img/oarc-cloud-icon.png" alt="Open AR Cloud" class="logo-icon">
+                    <strong>OpenARCloud</strong>
+                </a>
+                <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+                    <span class="hamburger"></span>
+                </button>
+                <nav class="main-nav">
+                    <a href="/">Home</a>
+                    <a href="/platform/">Platform</a>
+                    <a href="/testbeds/">Testbeds</a>
+                    <a href="/github/">GitHub</a>
+                    <a href="/about/">About</a>
+                    <a href="https://ko-fi.com/openarcloud" target="_blank">Join</a>
+                    <a href="https://medium.com/openarcloud" target="_blank">News</a>
+                    <a href="/contact/">Contact</a>
+                    <a href="https://ko-fi.com/openarcloud" target="_blank">Donate</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <h1>GeoPose &amp; POI Interoperability Demos at OGC Member Meeting, Montreal</h1>
+<div style="background: linear-gradient(135deg, rgba(139, 92, 246, 0.08) 0%, rgba(6, 182, 212, 0.08) 100%); border: 1px solid rgba(139, 92, 246, 0.2); border-radius: 12px; padding: 32px; margin: 30px 0; text-align: center;">
+    <p style="font-size: 1.25rem; font-weight: 600; color: var(--primary-violet); margin-bottom: 8px;">OGC Member Meeting — Montreal</p>
+    <p style="margin-bottom: 0;"><strong>Palais des congres de Montreal</strong></p>
+</div>
+<h2>Points Of Interest</h2>
+<p>One of the classical types of spatial content is &quot;Points of Interest&quot; (POI's). They are part of our daily lives when we use online maps on our smartphones to navigate the world. Although they come in many variations a &quot;point of interest&quot; (POI) is a location for which information is available. It could be information about a bus stop, a famous statue, an entrance to a building or even the location of an imaginary object like a &quot;gym&quot; in the game Pokemon Go.</p>
+<h2>Incompatible Formats and Proprietary Solutions Is the Current Reality</h2>
+<p>When working with POI data one of the biggest challenges is that such data had not been standardized outside of limited industry verticals. There are no universal standards that cover all types of POI data that any publisher or consumer of such data could leverage. Large companies can afford at great cost to aggregate different types of POI data and make it available through their proprietary platforms. Smaller companies and researchers are typically unable to take on such efforts.</p>
+<h2>The OGC POI Standard</h2>
+<p>The OGC Points of Interest (POI) Conceptual Model Standard provides a universal framework for POI data. When these POI data are used together with the OGC GeoPose 1.0 Standard for position and orientation, all the pieces are in place for sharing and accessing POI content across different applications. Both of these OGC standards are key building blocks of the Open AR Cloud's Open Spatial Computing Platform (OSCP).</p>
+<h2>Standards &amp; Protocol References</h2>
+<ul>
+<li><a href="https://docs.ogc.org/is/21-056r11/21-056r11.html">OGC GeoPose 1.0 Data Exchange Standard</a></li>
+<li><a href="https://htmlpreview.github.io/?https://github.com/opengeospatial/poi/blob/main/21-049/21-049.html">OGC Points of Interest (POI) Conceptual Model Standard</a></li>
+<li><a href="https://github.com/OpenArCloud/oscp-geopose-protocol">OSCP GeoPose Protocol</a></li>
+<li><a href="https://github.com/OpenArCloud/oscp-spatial-content-discovery">OSCP Spatial Content Discovery</a></li>
+</ul>
+<h2>Demonstration</h2>
+<p>The demos show how different Augmented Reality Clients are able to visualize geospatially-anchored content and leverage an existing open standard (OGC GeoPose 1.0 Data Exchange Standard) together with another open standard (OGC Points of Interest (POI) Conceptual Model Standard).</p>
+<h3>Three Spatial Browsers</h3>
+<ul>
+<li><strong>spARcl WebXR spatial browser</strong> — a web browser by Open AR Cloud</li>
+<li><strong>MyGeoVerse spatial browser</strong> — a native app by <a href="https://xr-masters.com">XR Masters</a>. XR Masters is a member of Open AR Cloud.</li>
+<li><strong><a href="https://www.ethar.com">Ethar</a> spatial browser</strong> — another native app by Ethar. Ethar is a member of Open AR Cloud.</li>
+</ul>
+<h3>How It Works</h3>
+<ol>
+<li>
+<p>Both MyGeoVerse and spARcl clients can connect to an OSCP GeoPose service using the Visual Positioning (VPS) implementation from <a href="https://www.augmented.city">Augmented City</a>. This service is referred to as the GeoPose VPS server. Both clients send camera images and metadata to the GeoPose VPS server and receive their GeoPose estimates in return. Ethar, on the other hand, localizes using a GeoPose encoded QR code. The GeoPose is obtained from Augmented City's GeoPose VPS server via the MyGeoVerse spatial browser to ensure that the Ethar spatial browser operates within the same coordinate system as the other two apps.</p>
+</li>
+<li>
+<p>With GeoPose estimates, the clients should have an accurate understanding of the smartphone's real-world position and orientation (GeoPose).</p>
+</li>
+<li>
+<p>The clients query POI services and OSCP Content discovery services to learn if there is any content at real world locations near the user that can be displayed.</p>
+</li>
+<li>
+<p>If such content exists the clients display the content from different providers correctly at the real world position where the content is intended to be.</p>
+</li>
+</ol>
+<h2>Step-by-Step Instructions</h2>
+<p>Follow the steps below to first create a POI and to place a 3D OGC Logo and then view them using MyGeoVerse native app (Steps 1 through 5). Then view the same content using the Ethar spatial browser (Step 6) and the spARcl WebXR web browser (Step 7).</p>
+<p><strong>If you are at the Palais des congres de Montreal, you can try the demos yourself!</strong></p>
+<p>Download MyGeoVerse spatial browser app on Apple App Store or Google Play Store. After downloading, open the MyGeoVerse App and register.</p>
+<h3>Step 1</h3>
+<p>Watch the &quot;How 2 Localize&quot; video to find where the AR experience starts.</p>
+<h3>Step 2</h3>
+<p>Once you are there hit the &quot;Start&quot; button on the app and point the camera to the area.</p>
+<h3>Step 3</h3>
+<p>Now the app should be localized. Swipe the menu bar on the lower part of the screen and select &quot;View&quot; to see the content that is already placed at this location.</p>
+<h3>Step 4</h3>
+<p>Select &quot;Create Item&quot; on the app menu. Write &quot;OGC&quot; on the search field and click on the OGC (GLB) logo and hit the &quot;Select&quot; button. Then tap the screen to place the logo at your desired location.</p>
+<h3>Step 5</h3>
+<p>Select &quot;Create POI&quot; on the app menu and tap to place the POI at your desired location. Then, fill in the form about the POI you would like to create. When you are done hit &quot;Create&quot;.</p>
+<p><strong>Congratulations, you have created a POI and placed an OGC Logo.</strong></p>
+<p>Now, you can restart MyGeoVerse and view the content you created, hopefully, at the exact location you placed them. If so, you can now move onto the next steps and view the same content using the Ethar spatial browser and spARcl WebXR web browser.</p>
+<h3>Step 6</h3>
+<p>Open Ethar spatial browser and scan the QR code that is posted by the OGC team. Once you localize against this QR code, you can turn around and view the content you placed using MyGeoVerse.</p>
+<p>Next step is to view the same content using the spARcl client.</p>
+<h3>Step 7</h3>
+<p>Follow the instructions below to view the same content with spARcl!</p>
+<div style="text-align: center; margin: 40px 0;">
+    <a href="/platform/" class="secondary-button">← Back to OSCP Platform</a>
+</div>
+
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Open AR Cloud</h3>
+                    <p>Driving the development of open and interoperable spatial computing technology.</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="/platform/">OSCP Platform</a></li>
+                        <li><a href="https://github.com/OpenARCloud" target="_blank">GitHub Repos</a></li>
+                        <li><a href="/partners/">Collaborators</a></li>
+                        <li><a href="https://ko-fi.com/openarcloud" target="_blank">Membership</a></li>
+                        <li><a href="/contact/">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Connect</h3>
+                    <ul>
+                        <li><a href="https://github.com/OpenARCloud" target="_blank">GitHub</a></li>
+                        <li><a href="https://x.com/openarcloud" target="_blank">Twitter</a></li>
+                        <li><a href="https://www.linkedin.com/company/openarcloud" target="_blank">LinkedIn</a></li>
+                        <li><a href="https://www.youtube.com/@openarcloud" target="_blank">YouTube</a></li>
+                        <li><a href="mailto:info@openarcloud.org">Email</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Open AR Cloud Association. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+    <script>
+        const navToggle = document.querySelector('.nav-toggle');
+        const mainNav = document.querySelector('.main-nav');
+
+        navToggle.addEventListener('click', () => {
+            const isOpen = mainNav.classList.toggle('is-open');
+            navToggle.classList.toggle('is-open');
+            navToggle.setAttribute('aria-expanded', isOpen);
+        });
+    </script>
+</body>
+</html>
