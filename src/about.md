@@ -69,6 +69,14 @@ Software Architect
 **Alina Kadlubsky** - *Director of Communications & Managing Director Open AR Cloud Europe*
 Art Director, Web XR Developer
 
+### Senior Research Scientists
+
+**Gabor Soros** - *Senior Research Scientist*
+Nokia Bell Labs (Budapest, Hungary). Co-founder of Open AR Cloud and contributor to the OGC GeoPose standard. Gabor's research focuses on visual positioning systems for augmented reality, and he has been instrumental in the development of the Open Spatial Computing Platform (OSCP). PhD from ETH Zurich in ubiquitous computing.
+
+**Mikel Salazar** - *Senior Research Scientist*
+Institute for Energy Technology (Halden, Norway). Main developer of spARcl, one of the first open-source web-based AR browsers to integrate with OSCP. Mikel focuses on bridging the gap between research-grade tools and practical AR applications. PhD from the University of the Basque Country (Spain).
+
 ### Founding Board Members
 
 - **Christine Perey** - Director, Perey Research

@@ -51,6 +51,8 @@ Client implementations support XR headsets, mobile platforms, robotics, and more
 - **Spatial Content Discovery** - Search and discover spatially-anchored content
 - **Reality Modeling** - Support for BIM, IoT, GIS, USD, glTF, and 3D tiles
 - **Edge-Optimized Rendering** - 5G-enabled cloud rendering at the edge
+- **[OpenVPS](https://github.com/OpenArCloud/openvps)** - Open Visual Positioning System for camera-based localization
+- **[SpatialDDS](https://github.com/OpenArCloud/SpatialDDS-spec)** - Protocol specification for real-world spatial computing
 
 ## OSCP In Action
 
