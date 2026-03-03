@@ -2,6 +2,7 @@ module.exports = function(eleventyConfig) {
     // Pass through copy for static assets
     eleventyConfig.addPassthroughCopy("src/css");
     eleventyConfig.addPassthroughCopy("src/img");
+    eleventyConfig.addPassthroughCopy("src/CNAME");
 
     // Watch all source directories for changes
     eleventyConfig.addWatchTarget("src/");
