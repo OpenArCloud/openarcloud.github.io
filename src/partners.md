@@ -1,9 +1,9 @@
 ---
 layout: layouts/base.njk
-title: Collaborators
+title: Partners
 ---
 
-# Collaborators
+# Partners
 
 Open AR Cloud works with projects, organizations, and individuals who share our commitment to building an open, interoperable spatial computing ecosystem.
 
