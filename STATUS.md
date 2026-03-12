@@ -19,7 +19,7 @@ Site is live. Core pages are built and deployed. Active work is on content refin
 ## TODO
 
 ### Immediate
-- [ ] Merge PR #2 (Collaborators → Partners rename)
+- [x] Merge PR #2 (Collaborators → Partners rename)
 - [ ] Update "Become a Collaborator" CTA on partners page → "Become a Partner"
 
 ### Content
