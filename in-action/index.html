@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OSCP in Action - Open AR Cloud</title>
+    <meta name="description" content="Open Spatial Computing Platform - Connecting physical and digital worlds through open standards">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <div class="header-content">
+                <a href="/" class="logo">
+                    <img src="/img/oarc-cloud-icon.png" alt="Open AR Cloud" class="logo-icon">
+                    <strong>OpenARCloud</strong>
+                </a>
+                <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+                    <span class="hamburger"></span>
+                </button>
+                <nav class="main-nav">
+                    <a href="/">Home</a>
+                    <a href="/platform/">Platform</a>
+                    <a href="/testbeds/">Testbeds</a>
+                    <a href="/github/">GitHub</a>
+                    <a href="/in-action/">In Action</a>
+                    <a href="/about/">About</a>
+                    <a href="https://ko-fi.com/openarcloud" target="_blank">Join</a>
+                    <a href="https://medium.com/openarcloud" target="_blank">News</a>
+                    <a href="https://ko-fi.com/openarcloud" target="_blank">Donate</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <h1>OSCP in Action</h1>
+<p>A record of Open AR Cloud's projects, research, publications, and media presence.</p>
+<h2>Projects</h2>
+<div class="projects-grid">
+<a href="https://github.com/OpenArCloud/SpatialDDS-spec" target="_blank" class="project-card">
+<h3>SpatialDDS</h3>
+<p>A protocol specification for real-world spatial computing — defining how spatial data is discovered, distributed, and synchronized across devices and services.</p>
+<p><strong>January 2026</strong></p>
+</a>
+<a href="/oscp/ubicomp/" class="project-card">
+<h3>UbiComp ISWC 2025 Tutorial</h3>
+<p>Building interoperable location-based AR with the Open AR Cloud. Full session schedule, slides, code, and presenter bios from Aalto University, Helsinki.</p>
+<p><strong>October 2025</strong></p>
+</a>
+<a href="https://github.com/OpenArCloud/openvps" target="_blank" class="project-card">
+<h3>OpenVPS</h3>
+<p>Open Visual Positioning System — camera-based localization for AR applications, providing open source tools for visual positioning and mapping.</p>
+<p><strong>May 2025</strong></p>
+</a>
+<a href="/oscp/w3c/" class="project-card">
+<h3>W3C Immersive Web Demo</h3>
+<p>GeoPose & POI interoperability demos at the W3C Immersive Web Face-to-Face event on Google Campus, Mountain View.</p>
+<p><strong>March 2025</strong></p>
+</a>
+<a href="https://www.auroraviewer.org/" target="_blank" class="project-card">
+<h3>Aurora Viewer</h3>
+<p>NGI Atlantic–funded research project advancing OSCP toward multi-testbed deployment, including deployment on the COSMOS 5G testbed. Delivers a Unity reference client plus key OSCP improvements.</p>
+<p><strong>2022</strong></p>
+</a>
+<a href="https://www.oscar4us.eu/" target="_blank" class="project-card">
+<h3>OSCAR4US</h3>
+<p>NGI Search–funded project pushing OSCP toward city-scale location-based AR via OpenVPS, spatial discovery, and a Reality Modeling Language for standardized environment descriptions.</p>
+<p><strong>2022</strong></p>
+</a>
+</div>
+<h2>Papers</h2>
+<ul>
+<li><strong>State of the OARC Report</strong> — Comprehensive overview of the association's progress, membership, and technical milestones</li>
+</ul>
+<h2>In the Media</h2>
+<p><em>Coming soon</em></p>
+<h2>Videos</h2>
+<p><em>Coming soon</em></p>
+
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Open AR Cloud</h3>
+                    <p>Driving the development of open and interoperable spatial computing technology.</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="/platform/">OSCP Platform</a></li>
+                        <li><a href="https://github.com/OpenARCloud" target="_blank">GitHub Repos</a></li>
+                        <li><a href="/partners/">Partners</a></li>
+                        <li><a href="https://ko-fi.com/openarcloud" target="_blank">Membership</a></li>
+                        <li><a href="/about/#contact">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Connect</h3>
+                    <ul>
+                        <li><a href="https://github.com/OpenARCloud" target="_blank">GitHub</a></li>
+                        <li><a href="https://x.com/openarcloud" target="_blank">Twitter</a></li>
+                        <li><a href="https://www.linkedin.com/company/openarcloud" target="_blank">LinkedIn</a></li>
+                        <li><a href="https://www.youtube.com/@openarcloud" target="_blank">YouTube</a></li>
+                        <li><a href="mailto:info@openarcloud.org">Email</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Open AR Cloud Association. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+    <script>
+        const navToggle = document.querySelector('.nav-toggle');
+        const mainNav = document.querySelector('.main-nav');
+
+        navToggle.addEventListener('click', () => {
+            const isOpen = mainNav.classList.toggle('is-open');
+            navToggle.classList.toggle('is-open');
+            navToggle.setAttribute('aria-expanded', isOpen);
+        });
+    </script>
+</body>
+</html>
