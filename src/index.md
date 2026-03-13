@@ -16,6 +16,35 @@ title: Open Spatial Computing Platform
     <iframe width="560" height="315" src="https://www.youtube.com/embed/UpKUuVSMOh4" title="Open AR Cloud - OSCP Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+## OSCP In Action
+
+<div class="cta-grid">
+    <a href="https://github.com/OpenArCloud/SpatialDDS-spec" target="_blank" class="cta-card">
+        <h3>SpatialDDS (2026)</h3>
+        <p>A protocol specification for real-world spatial computing — defining how spatial data is discovered, distributed, and synchronized across devices and services.</p>
+    </a>
+    <a href="/oscp/ubicomp/" class="cta-card">
+        <h3>UbiComp ISWC 2025 Tutorial (2025)</h3>
+        <p>Building interoperable location-based AR with the Open AR Cloud. Presentation decks, code, and session recordings from Aalto University, Helsinki.</p>
+    </a>
+    <a href="https://github.com/OpenArCloud/openvps" target="_blank" class="cta-card">
+        <h3>OpenVPS (2025)</h3>
+        <p>Open Visual Positioning System — camera-based localization for AR applications, providing open source tools for visual positioning and mapping.</p>
+    </a>
+    <a href="/oscp/w3c/" class="cta-card">
+        <h3>W3C Immersive Web Demo (2025)</h3>
+        <p>GeoPose & POI interoperability demos at the W3C Immersive Web Face-to-Face event on Google Campus, Mountain View.</p>
+    </a>
+    <a href="/oscp/montreal-demo/" class="cta-card">
+        <h3>POI Interoperability Demo — Montreal (2024)</h3>
+        <p>Three-client interoperability demo at Palais des congres de Montreal featuring MyGeoVerse, spARcl, and Ethar spatial browsers.</p>
+    </a>
+    <a href="/oscp/poi/" class="cta-card">
+        <h3>POI Interoperability Demo — Delft (2024)</h3>
+        <p>GeoPose & POI demos at the 128th OGC Member Meeting. Step-by-step walkthrough with MyGeoVerse and spARcl spatial browsers.</p>
+    </a>
+</div>
+
 ## Get Started with OSCP
 
 <div class="cta-grid">
@@ -26,6 +55,10 @@ title: Open Spatial Computing Platform
     <a href="https://github.com/OpenArCloud/OSCP-Docs" target="_blank" class="cta-card">
         <h3>🔧 Technical Documentation</h3>
         <p>Deep dive into the OSCP architecture, protocols, and standards that power spatial computing.</p>
+    </a>
+    <a href="https://github.com/OpenArCloud/openvps" target="_blank" class="cta-card">
+        <h3>📍 OpenVPS</h3>
+        <p>Open Visual Positioning System — camera-based localization for AR applications, providing open source tools for visual positioning and mapping.</p>
     </a>
     <a href="https://ko-fi.com/openarcloud" target="_blank" class="cta-card">
         <h3>🤝 Join the Community</h3>
@@ -53,23 +86,6 @@ Client implementations support XR headsets, mobile platforms, robotics, and more
 - **Edge-Optimized Rendering** - 5G-enabled cloud rendering at the edge
 - **[OpenVPS](https://github.com/OpenArCloud/openvps)** - Open Visual Positioning System for camera-based localization
 - **[SpatialDDS](https://github.com/OpenArCloud/SpatialDDS-spec)** - Protocol specification for real-world spatial computing
-
-## OSCP In Action
-
-<div class="cta-grid">
-    <a href="/oscp/ubicomp/" class="cta-card">
-        <h3>UbiComp ISWC 2025 Tutorial</h3>
-        <p>Building interoperable location-based AR with the Open AR Cloud. Full session schedule, slides, code, and presenter bios from Aalto University, Helsinki.</p>
-    </a>
-    <a href="/oscp/poi/" class="cta-card">
-        <h3>POI Interoperability Demos</h3>
-        <p>See how multiple spatial browsers visualize geospatially-anchored content using OGC GeoPose and POI standards. Live demos from OGC and W3C events.</p>
-    </a>
-    <a href="/platform/#demos--tutorials" class="cta-card">
-        <h3>All Demos & Tutorials</h3>
-        <p>Browse the full collection of OSCP demos, tutorials, and event walkthroughs on the Platform page.</p>
-    </a>
-</div>
 
 <div class="stats-grid">
     <div class="stat">

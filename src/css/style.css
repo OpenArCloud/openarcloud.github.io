@@ -793,6 +793,33 @@ ol {
     line-height: 1.6;
 }
 
+/* Activation Cards (single column) */
+.activations-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 40px 0;
+}
+
+.activation-card {
+    background: linear-gradient(135deg, rgba(139, 92, 246, 0.05) 0%, rgba(6, 182, 212, 0.05) 100%);
+    border: 2px solid var(--primary-violet);
+    border-radius: 12px;
+    padding: 24px;
+}
+
+.activation-card h3 {
+    color: var(--primary-violet);
+    margin: 0 0 12px 0;
+    font-size: 1.25rem;
+}
+
+.activation-card p {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
 /* Partners Grid */
 .partners-grid {
     display: grid;

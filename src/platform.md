@@ -129,21 +129,29 @@ Consider OSCP for:
 ## Demos & Tutorials
 
 <div class="projects-grid">
+    <a href="https://github.com/OpenArCloud/SpatialDDS-spec" target="_blank" class="project-card">
+        <h3>SpatialDDS (2026)</h3>
+        <p>A protocol specification for real-world spatial computing — defining how spatial data is discovered, distributed, and synchronized across devices and services.</p>
+    </a>
     <a href="/oscp/ubicomp/" class="project-card">
-        <h3>UbiComp ISWC 2025 Tutorial</h3>
+        <h3>UbiComp ISWC 2025 Tutorial (2025)</h3>
         <p>Building interoperable location-based AR with the Open AR Cloud. Presentation decks, code, and session recordings from Aalto University, Helsinki.</p>
     </a>
-    <a href="/oscp/poi/" class="project-card">
-        <h3>POI Interoperability Demo — Delft</h3>
-        <p>GeoPose &amp; POI demos at the 128th OGC Member Meeting. Step-by-step walkthrough with MyGeoVerse and spARcl spatial browsers.</p>
-    </a>
-    <a href="/oscp/montreal-demo/" class="project-card">
-        <h3>POI Interoperability Demo — Montreal</h3>
-        <p>Three-client interoperability demo at Palais des congres de Montreal featuring MyGeoVerse, spARcl, and Ethar spatial browsers.</p>
+    <a href="https://github.com/OpenArCloud/openvps" target="_blank" class="project-card">
+        <h3>OpenVPS (2025)</h3>
+        <p>Open Visual Positioning System — camera-based localization for AR applications, providing open source tools for visual positioning and mapping.</p>
     </a>
     <a href="/oscp/w3c/" class="project-card">
-        <h3>W3C Immersive Web Demo</h3>
+        <h3>W3C Immersive Web Demo (2025)</h3>
         <p>GeoPose &amp; POI interoperability demos at the W3C Immersive Web Face-to-Face event on Google Campus, Mountain View.</p>
+    </a>
+    <a href="/oscp/montreal-demo/" class="project-card">
+        <h3>POI Interoperability Demo — Montreal (2024)</h3>
+        <p>Three-client interoperability demo at Palais des congres de Montreal featuring MyGeoVerse, spARcl, and Ethar spatial browsers.</p>
+    </a>
+    <a href="/oscp/poi/" class="project-card">
+        <h3>POI Interoperability Demo — Delft (2024)</h3>
+        <p>GeoPose &amp; POI demos at the 128th OGC Member Meeting. Step-by-step walkthrough with MyGeoVerse and spARcl spatial browsers.</p>
     </a>
 </div>
 
