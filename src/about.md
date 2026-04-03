@@ -52,60 +52,130 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 
 ### Executive Leadership
 
-**[Jan-Erik Vinje](https://www.linkedin.com/in/janerikvinje/)**
-- Executive Co-Director, Open AR Cloud
-- CEO, OnSiteViewer
-- Co-Chair, GeoPose SWG, OGC
+<div class="team-member">
+    <img src="/img/headshots/Jan-Erik_Vinje.png" alt="Jan-Erik Vinje">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/janerikvinje/">Jan-Erik Vinje</a></strong>
+        <ul>
+            <li>Executive Co-Director, Open AR Cloud</li>
+            <li>CEO, OnSiteViewer</li>
+            <li>Co-Chair, GeoPose SWG, OGC</li>
+        </ul>
+    </div>
+</div>
 
-**[Ali C. Hantal](https://www.linkedin.com/in/ahantal/)**
-- Executive Co-Director, Open AR Cloud
-- CEO, XR Masters
-- Chief Adoption Officer, GeoPose SWG, OGC
-- Leader, Forum Labs Initiative, MSF
+<div class="team-member">
+    <img src="/img/headshots/Ali_Hantal.png" alt="Ali C. Hantal">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/ahantal/">Ali C. Hantal</a></strong>
+        <ul>
+            <li>Executive Co-Director, Open AR Cloud</li>
+            <li>CEO, XR Masters</li>
+            <li>Chief Adoption Officer, GeoPose SWG, OGC</li>
+            <li>Leader, Forum Labs Initiative, MSF</li>
+        </ul>
+    </div>
+</div>
 
 ### Directors
 
-**[Colin Steinmann](https://www.linkedin.com/in/colinsteinmann/)**
-- Director of Operations, Open AR Cloud
-- Chief Technical Officer, 6DoF Research
+<div class="team-member">
+    <img src="/img/headshots/Colin_Steinmann.png" alt="Colin Steinmann">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/colinsteinmann/">Colin Steinmann</a></strong>
+        <ul>
+            <li>Director of Operations, Open AR Cloud</li>
+            <li>Chief Technical Officer, 6DoF Research</li>
+        </ul>
+    </div>
+</div>
 
-**[James Jackson](https://www.linkedin.com/in/james-jackson-b031b2/)**
-- Director of Technology, Open AR Cloud
-- Expert Member Of Technical Staff, AT&T Labs
-- Co-Chair, Real/Virtual World Integration WG, MSF
+<div class="team-member">
+    <img src="/img/headshots/James_Jackson.png" alt="James Jackson">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/james-jackson-b031b2/">James Jackson</a></strong>
+        <ul>
+            <li>Director of Technology, Open AR Cloud</li>
+            <li>Expert Member Of Technical Staff, AT&T Labs</li>
+            <li>Co-Chair, Real/Virtual World Integration WG, MSF</li>
+        </ul>
+    </div>
+</div>
 
-**[Alina Kadlubsky](https://www.linkedin.com/in/alina-kadlubsky-7133b2142/)**
-- Managing Director, Open AR Cloud Europe
-- Research Associate, Hochschule Mittweida
+<div class="team-member">
+    <img src="/img/headshots/Alina_Kadlubsky.png" alt="Alina Kadlubsky">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/alina-kadlubsky-7133b2142/">Alina Kadlubsky</a></strong>
+        <ul>
+            <li>Managing Director, Open AR Cloud Europe</li>
+            <li>Research Associate, Hochschule Mittweida</li>
+        </ul>
+    </div>
+</div>
 
-**[Christine Perey](https://www.linkedin.com/in/christineperey/)**
-- Founding Governing Board Member, Open AR Cloud
-- Director, Perey Research
-- Founder, Board Member, AREA
-- Secretary and Board Member, MSF
+<div class="team-member">
+    <img src="/img/headshots/Christine_Perey.png" alt="Christine Perey">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/christineperey/">Christine Perey</a></strong>
+        <ul>
+            <li>Founding Governing Board Member, Open AR Cloud</li>
+            <li>Director, Perey Research</li>
+            <li>Founder, Board Member, AREA</li>
+            <li>Secretary and Board Member, MSF</li>
+        </ul>
+    </div>
+</div>
 
-**[Michael N. Louka](https://www.linkedin.com/in/mlouka/)**
-- Founding Governing Board Member, Open AR Cloud
-- Director Head of Department of VR/AR at IFE Digital Systems
+<div class="team-member">
+    <img src="/img/headshots/Michael_N_Louka.png" alt="Michael N. Louka">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/mlouka/">Michael N. Louka</a></strong>
+        <ul>
+            <li>Founding Governing Board Member, Open AR Cloud</li>
+            <li>Director Head of Department of VR/AR at IFE Digital Systems</li>
+        </ul>
+    </div>
+</div>
 
 ### Honorary Board Members
 
-**[Ori Inbar](https://www.linkedin.com/in/oriinbar/)**
-- Founding Honorary Board Member, Open AR Cloud
-- Co-founder and CEO, AWE
-- Founder and Managing Director, Super Ventures
+<div class="team-member">
+    <img src="/img/headshots/Ori_Inbar.png" alt="Ori Inbar">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/oriinbar/">Ori Inbar</a></strong>
+        <ul>
+            <li>Founding Honorary Board Member, Open AR Cloud</li>
+            <li>Co-founder and CEO, AWE</li>
+            <li>Founder and Managing Director, Super Ventures</li>
+        </ul>
+    </div>
+</div>
 
 ### Team Members
 
-**[Gabor Soros](https://www.linkedin.com/in/gaborsoros/)**
-- Senior Research Scientist, Open AR Cloud
-- Senior Research Scientist, Nokia Bell Labs (Budapest, Hungary)
-- Contributor, GeoPose SWG, OGC
+<div class="team-member">
+    <img src="/img/headshots/Gabor_Soros.png" alt="Gabor Soros">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/gaborsoros/">Gabor Soros</a></strong>
+        <ul>
+            <li>Senior Research Scientist, Open AR Cloud</li>
+            <li>Senior Research Scientist, Nokia Bell Labs (Budapest, Hungary)</li>
+            <li>Contributor, GeoPose SWG, OGC</li>
+        </ul>
+    </div>
+</div>
 
-**[Mikel Salazar](https://www.linkedin.com/in/mikelsalazargonzalez/)**
-- Senior Research Scientist, Open AR Cloud
-- CEO, Augmented Interaction
-- University Lecturer, Centro San Luis
+<div class="team-member">
+    <img src="/img/headshots/Mikel_Salazar.png" alt="Mikel Salazar">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/mikelsalazargonzalez/">Mikel Salazar</a></strong>
+        <ul>
+            <li>Senior Research Scientist, Open AR Cloud</li>
+            <li>CEO, Augmented Interaction</li>
+            <li>University Lecturer, Centro San Luis</li>
+        </ul>
+    </div>
+</div>
 
 ## Organization Structure
 
