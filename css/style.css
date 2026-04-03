@@ -777,25 +777,30 @@ ol {
 }
 
 .team-member-info strong a {
-    color: var(--neutral-100);
+    color: var(--neutral-900);
     text-decoration: none;
     font-size: 1.1rem;
 }
 
 .team-member-info strong a:hover {
     text-decoration: underline;
-    color: var(--primary);
 }
 
 .team-member-info ul {
     margin: 8px 0 0 0;
     padding-left: 20px;
+    list-style: disc;
 }
 
 .team-member-info ul li {
-    color: var(--neutral-200);
+    color: var(--neutral-700);
     font-size: 0.9rem;
     line-height: 1.6;
+    padding-left: 0;
+}
+
+.team-member-info ul li::before {
+    content: none;
 }
 
 @media (max-width: 768px) {
