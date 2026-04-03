@@ -48,44 +48,134 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 - **4 Active Testbeds** validating real-world deployments
 - **15+ Open Source Projects** providing reference implementations
 
-## Governing Board
+## Team
 
 ### Executive Leadership
 
-**Jan-Erik Vinje** - *Executive Co-Director*
-CEO, OnSiteViewer
+<div class="team-member">
+    <img src="/img/headshots/Jan-Erik_Vinje.png" alt="Jan-Erik Vinje">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/janerikvinje/">Jan-Erik Vinje</a></strong>
+        <ul>
+            <li>Executive Co-Director, Open AR Cloud</li>
+            <li>CEO, OnSiteViewer</li>
+            <li>Co-Chair, GeoPose SWG, OGC</li>
+        </ul>
+    </div>
+</div>
 
-**Ali C. Hantal** - *Executive Co-Director*
-CEO, XR Masters
+<div class="team-member">
+    <img src="/img/headshots/Ali_Hantal.png" alt="Ali C. Hantal">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/ahantal/">Ali C. Hantal</a></strong>
+        <ul>
+            <li>Executive Co-Director, Open AR Cloud</li>
+            <li>CEO, XR Masters</li>
+            <li>Chief Adoption Officer, GeoPose SWG, OGC</li>
+            <li>Leader, Forum Labs Initiative, MSF</li>
+        </ul>
+    </div>
+</div>
 
 ### Directors
 
-**Colin Steinmann** - *Director of Operations*
-Chief Technical Officer, 6DoF Research
+<div class="team-member">
+    <img src="/img/headshots/Colin_Steinmann.png" alt="Colin Steinmann">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/colinsteinmann/">Colin Steinmann</a></strong>
+        <ul>
+            <li>Director of Operations, Open AR Cloud</li>
+            <li>Chief Technical Officer, 6DoF Research</li>
+        </ul>
+    </div>
+</div>
 
-**James Jackson** - *Director of Technology*
-Software Architect
+<div class="team-member">
+    <img src="/img/headshots/James_Jackson.png" alt="James Jackson">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/james-jackson-b031b2/">James Jackson</a></strong>
+        <ul>
+            <li>Director of Technology, Open AR Cloud</li>
+            <li>Expert Member Of Technical Staff, AT&T Labs</li>
+            <li>Co-Chair, Real/Virtual World Integration WG, MSF</li>
+        </ul>
+    </div>
+</div>
 
-**Alina Kadlubsky** - *Director of Communications & Managing Director Open AR Cloud Europe*
-Art Director, Web XR Developer
+<div class="team-member">
+    <img src="/img/headshots/Alina_Kadlubsky.png" alt="Alina Kadlubsky">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/alina-kadlubsky-7133b2142/">Alina Kadlubsky</a></strong>
+        <ul>
+            <li>Managing Director, Open AR Cloud Europe</li>
+            <li>Research Associate, Hochschule Mittweida</li>
+        </ul>
+    </div>
+</div>
 
-**Christine Perey** - *Director*
-Perey Research
+<div class="team-member">
+    <img src="/img/headshots/Christine_Perey.png" alt="Christine Perey">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/christineperey/">Christine Perey</a></strong>
+        <ul>
+            <li>Founding Governing Board Member, Open AR Cloud</li>
+            <li>Director, Perey Research</li>
+            <li>Founder, Board Member, AREA</li>
+            <li>Secretary and Board Member, MSF</li>
+        </ul>
+    </div>
+</div>
 
-**Michael N. Louka** - *Director*
-Head of Department of VR/AR at IFE Digital Systems
+<div class="team-member">
+    <img src="/img/headshots/Michael_N_Louka.png" alt="Michael N. Louka">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/mlouka/">Michael N. Louka</a></strong>
+        <ul>
+            <li>Founding Governing Board Member, Open AR Cloud</li>
+            <li>Director Head of Department of VR/AR at IFE Digital Systems</li>
+        </ul>
+    </div>
+</div>
 
 ### Honorary Board Members
 
-- **Ori Inbar** - Co-founder Super Ventures and AWE
+<div class="team-member">
+    <img src="/img/headshots/Ori_Inbar.png" alt="Ori Inbar">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/oriinbar/">Ori Inbar</a></strong>
+        <ul>
+            <li>Founding Honorary Board Member, Open AR Cloud</li>
+            <li>Co-founder and CEO, AWE</li>
+            <li>Founder and Managing Director, Super Ventures</li>
+        </ul>
+    </div>
+</div>
 
-## Team Members
+### Team Members
 
-**Gabor Soros** - *Senior Research Scientist*
-Nokia Bell Labs (Budapest, Hungary). Co-founder of Open AR Cloud and contributor to the OGC GeoPose standard. Gabor's research focuses on visual positioning systems for augmented reality, and he has been instrumental in the development of the Open Spatial Computing Platform (OSCP). PhD from ETH Zurich in ubiquitous computing.
+<div class="team-member">
+    <img src="/img/headshots/Gabor_Soros.png" alt="Gabor Soros">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/gaborsoros/">Gabor Soros</a></strong>
+        <ul>
+            <li>Senior Research Scientist, Open AR Cloud</li>
+            <li>Senior Research Scientist, Nokia Bell Labs (Budapest, Hungary)</li>
+            <li>Contributor, GeoPose SWG, OGC</li>
+        </ul>
+    </div>
+</div>
 
-**Mikel Salazar** - *Senior Research Scientist*
-Institute for Energy Technology (Halden, Norway). Main developer of spARcl, one of the first open-source web-based AR browsers to integrate with OSCP. Mikel focuses on bridging the gap between research-grade tools and practical AR applications. PhD from the University of the Basque Country (Spain).
+<div class="team-member">
+    <img src="/img/headshots/Mikel_Salazar.png" alt="Mikel Salazar">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/mikelsalazargonzalez/">Mikel Salazar</a></strong>
+        <ul>
+            <li>Senior Research Scientist, Open AR Cloud</li>
+            <li>CEO, Augmented Interaction</li>
+            <li>University Lecturer, Centro San Luis</li>
+        </ul>
+    </div>
+</div>
 
 ## Organization Structure
 
