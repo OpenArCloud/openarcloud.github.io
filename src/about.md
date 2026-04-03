@@ -48,44 +48,64 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 - **4 Active Testbeds** validating real-world deployments
 - **15+ Open Source Projects** providing reference implementations
 
-## Governing Board
+## Team
 
 ### Executive Leadership
 
-**Jan-Erik Vinje** - *Executive Co-Director*
-CEO, OnSiteViewer
+**[Jan-Erik Vinje](https://www.linkedin.com/in/janerikvinje/)**
+- Executive Co-Director, Open AR Cloud
+- CEO, OnSiteViewer
+- Co-Chair, GeoPose SWG, OGC
 
-**Ali C. Hantal** - *Executive Co-Director*
-CEO, XR Masters
+**[Ali C. Hantal](https://www.linkedin.com/in/ahantal/)**
+- Executive Co-Director, Open AR Cloud
+- CEO, XR Masters
+- Chief Adoption Officer, GeoPose SWG, OGC
+- Leader, Forum Labs Initiative, MSF
 
 ### Directors
 
-**Colin Steinmann** - *Director of Operations*
-Chief Technical Officer, 6DoF Research
+**[Colin Steinmann](https://www.linkedin.com/in/colinsteinmann/)**
+- Director of Operations, Open AR Cloud
+- Chief Technical Officer, 6DoF Research
 
-**James Jackson** - *Director of Technology*
-Software Architect
+**[James Jackson](https://www.linkedin.com/in/james-jackson-b031b2/)**
+- Director of Technology, Open AR Cloud
+- Expert Member Of Technical Staff, AT&T Labs
+- Co-Chair, Real/Virtual World Integration WG, MSF
 
-**Alina Kadlubsky** - *Director of Communications & Managing Director Open AR Cloud Europe*
-Art Director, Web XR Developer
+**[Alina Kadlubsky](https://www.linkedin.com/in/alina-kadlubsky-7133b2142/)**
+- Managing Director, Open AR Cloud Europe
+- Research Associate, Hochschule Mittweida
 
-**Christine Perey** - *Director*
-Perey Research
+**[Christine Perey](https://www.linkedin.com/in/christineperey/)**
+- Founding Governing Board Member, Open AR Cloud
+- Director, Perey Research
+- Founder, Board Member, AREA
+- Secretary and Board Member, MSF
 
-**Michael N. Louka** - *Director*
-Head of Department of VR/AR at IFE Digital Systems
+**[Michael N. Louka](https://www.linkedin.com/in/mlouka/)**
+- Founding Governing Board Member, Open AR Cloud
+- Director Head of Department of VR/AR at IFE Digital Systems
 
 ### Honorary Board Members
 
-- **Ori Inbar** - Co-founder Super Ventures and AWE
+**[Ori Inbar](https://www.linkedin.com/in/oriinbar/)**
+- Founding Honorary Board Member, Open AR Cloud
+- Co-founder and CEO, AWE
+- Founder and Managing Director, Super Ventures
 
-## Team Members
+### Team Members
 
-**Gabor Soros** - *Senior Research Scientist*
-Nokia Bell Labs (Budapest, Hungary). Co-founder of Open AR Cloud and contributor to the OGC GeoPose standard. Gabor's research focuses on visual positioning systems for augmented reality, and he has been instrumental in the development of the Open Spatial Computing Platform (OSCP). PhD from ETH Zurich in ubiquitous computing.
+**[Gabor Soros](https://www.linkedin.com/in/gaborsoros/)**
+- Senior Research Scientist, Open AR Cloud
+- Senior Research Scientist, Nokia Bell Labs (Budapest, Hungary)
+- Contributor, GeoPose SWG, OGC
 
-**Mikel Salazar** - *Senior Research Scientist*
-Institute for Energy Technology (Halden, Norway). Main developer of spARcl, one of the first open-source web-based AR browsers to integrate with OSCP. Mikel focuses on bridging the gap between research-grade tools and practical AR applications. PhD from the University of the Basque Country (Spain).
+**[Mikel Salazar](https://www.linkedin.com/in/mikelsalazargonzalez/)**
+- Senior Research Scientist, Open AR Cloud
+- CEO, Augmented Interaction
+- University Lecturer, Centro San Luis
 
 ## Organization Structure
 
