@@ -59,14 +59,7 @@ npm run clean
 
 The site deploys automatically when changes are pushed to the `main` branch.
 
-### If you're editing directly on GitHub
-
-1. Navigate to the file you want to change on [github.com/OpenArCloud/openarcloud.github.io](https://github.com/OpenArCloud/openarcloud.github.io).
-2. Click the pencil icon to edit.
-3. Make your changes and click **Commit changes** (commit directly to `main`).
-4. The site will rebuild and deploy automatically within a few minutes.
-
-### If you're working locally
+### Working locally
 
 ```bash
 git checkout main
@@ -79,9 +72,7 @@ git commit -m "Description of changes"
 git push origin main
 ```
 
-The GitHub Actions workflow (`.github/workflows/deploy.yml`) will build the site and deploy it. You can monitor the deployment at [Actions](https://github.com/OpenArCloud/openarcloud.github.io/actions).
-
-### If you're working on a branch (recommended for larger changes)
+### Working on a branch (recommended for larger changes)
 
 ```bash
 git checkout -b my-changes
