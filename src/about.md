@@ -55,7 +55,7 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 <div class="team-member">
     <img src="/img/headshots/Jan-Erik_Vinje.png" alt="Jan-Erik Vinje">
     <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/janerikvinje/">Jan-Erik Vinje</a></strong>
+        <strong><a href="https://www.linkedin.com/in/janerikvinje/" class="linkedin-link">Jan-Erik Vinje</a></strong>
         <ul>
             <li>Executive Co-Director, Open AR Cloud</li>
             <li>CEO, OnSiteViewer</li>
@@ -67,7 +67,7 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 <div class="team-member">
     <img src="/img/headshots/Ali_Hantal.png" alt="Ali C. Hantal">
     <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/ahantal/">Ali C. Hantal</a></strong>
+        <strong><a href="https://www.linkedin.com/in/ahantal/" class="linkedin-link">Ali C. Hantal</a></strong>
         <ul>
             <li>Executive Co-Director, Open AR Cloud</li>
             <li>CEO, XR Masters</li>
@@ -82,7 +82,7 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 <div class="team-member">
     <img src="/img/headshots/Colin_Steinmann.png" alt="Colin Steinmann">
     <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/colinsteinmann/">Colin Steinmann</a></strong>
+        <strong><a href="https://www.linkedin.com/in/colinsteinmann/" class="linkedin-link">Colin Steinmann</a></strong>
         <ul>
             <li>Director of Operations, Open AR Cloud</li>
             <li>Chief Technical Officer, 6DoF Research</li>
@@ -93,7 +93,7 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 <div class="team-member">
     <img src="/img/headshots/James_Jackson.png" alt="James Jackson">
     <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/james-jackson-b031b2/">James Jackson</a></strong>
+        <strong><a href="https://www.linkedin.com/in/james-jackson-b031b2/" class="linkedin-link">James Jackson</a></strong>
         <ul>
             <li>Director of Technology, Open AR Cloud</li>
             <li>Expert Member Of Technical Staff, AT&T Labs</li>
@@ -105,7 +105,7 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 <div class="team-member">
     <img src="/img/headshots/Alina_Kadlubsky.png" alt="Alina Kadlubsky">
     <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/alina-kadlubsky-7133b2142/">Alina Kadlubsky</a></strong>
+        <strong><a href="https://www.linkedin.com/in/alina-kadlubsky-7133b2142/" class="linkedin-link">Alina Kadlubsky</a></strong>
         <ul>
             <li>Managing Director, Open AR Cloud Europe</li>
             <li>Research Associate, Hochschule Mittweida</li>
@@ -116,7 +116,7 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 <div class="team-member">
     <img src="/img/headshots/Christine_Perey.png" alt="Christine Perey">
     <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/christineperey/">Christine Perey</a></strong>
+        <strong><a href="https://www.linkedin.com/in/christineperey/" class="linkedin-link">Christine Perey</a></strong>
         <ul>
             <li>Founding Governing Board Member, Open AR Cloud</li>
             <li>Director, Perey Research</li>
@@ -129,7 +129,7 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 <div class="team-member">
     <img src="/img/headshots/Michael_N_Louka.png" alt="Michael N. Louka">
     <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/mlouka/">Michael N. Louka</a></strong>
+        <strong><a href="https://www.linkedin.com/in/mlouka/" class="linkedin-link">Michael N. Louka</a></strong>
         <ul>
             <li>Founding Governing Board Member, Open AR Cloud</li>
             <li>Director Head of Department of VR/AR at IFE Digital Systems</li>
@@ -142,7 +142,7 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 <div class="team-member">
     <img src="/img/headshots/Ori_Inbar.png" alt="Ori Inbar">
     <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/oriinbar/">Ori Inbar</a></strong>
+        <strong><a href="https://www.linkedin.com/in/oriinbar/" class="linkedin-link">Ori Inbar</a></strong>
         <ul>
             <li>Founding Honorary Board Member, Open AR Cloud</li>
             <li>Co-founder and CEO, AWE</li>
@@ -156,7 +156,7 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 <div class="team-member">
     <img src="/img/headshots/Gabor_Soros.png" alt="Gabor Soros">
     <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/gaborsoros/">Gabor Soros</a></strong>
+        <strong><a href="https://www.linkedin.com/in/gaborsoros/" class="linkedin-link">Gabor Soros</a></strong>
         <ul>
             <li>Senior Research Scientist, Open AR Cloud</li>
             <li>Senior Research Scientist, Nokia Bell Labs (Budapest, Hungary)</li>
@@ -168,7 +168,7 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 <div class="team-member">
     <img src="/img/headshots/Mikel_Salazar.png" alt="Mikel Salazar">
     <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/mikelsalazargonzalez/">Mikel Salazar</a></strong>
+        <strong><a href="https://www.linkedin.com/in/mikelsalazargonzalez/" class="linkedin-link">Mikel Salazar</a></strong>
         <ul>
             <li>Senior Research Scientist, Open AR Cloud</li>
             <li>CEO, Augmented Interaction</li>
