@@ -173,6 +173,7 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
             <li>Senior Research Scientist, Open AR Cloud</li>
             <li>CEO, Augmented Interaction</li>
             <li>University Lecturer, Centro San Luis</li>
+            <li>Contributor, GeoPose SWG, OGC</li>
         </ul>
     </div>
 </div>
