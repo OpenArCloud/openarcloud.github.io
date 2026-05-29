@@ -11,7 +11,7 @@ The Open Spatial Computing Platform (OSCP) is a comprehensive architecture for b
 
 ## Architecture
 
-<img src="/img/oscp-sequence-diagram.png" alt="OSCP 3.0 Sequence Diagram - showing Edge Devices with Spatial Clients communicating with Spatial Services including Service Discovery, Visual Positioning, Reality Model, Spatial Content Discovery, and Spatial Content Hosting" style="width: 100%; max-width: 900px; margin: 30px auto; display: block; border-radius: 8px;">
+<img src="/img/_OSCP Sequence with Spatial DDS.png" alt="OSCP with SpatialDDS architecture - showing Edge Devices with Spatial Clients, SpatialDDS Interop layer providing shared communication fabric, and Spatial Services including Service Discovery, Visual Positioning, Reality Modeling, AI World Models, Spatial Content Discovery, and Spatial Content Hosting" style="width: 100%; max-width: 900px; margin: 30px auto; display: block; border-radius: 8px;">
 
 ### Three-Tier Architecture
 
