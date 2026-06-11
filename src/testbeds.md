@@ -31,7 +31,7 @@ Each accepted testbed receives:
 In addition, OARC provides training and onboarding sessions for new testbed partners on:
 
 - OARC and general information on how the AR Cloud or spatial web works
-- OGC GeoPose Standard and GeoPose Protocol
+- OGC GeoPose Standard and OSCP protocol
 - How to digital map a location using Augmented City VPS
 - How to upload content using MyGeoVerse Creator Suite
 - How to place content onto your real world using MyGeoVerse iOS or Android mobile app
