@@ -13,6 +13,16 @@ The Testbed Program consists of a series of projects that focus on different asp
 
 Overall, the Testbed Program is a key part of the OARC's mission to accelerate the development and adoption of open and interoperable AR cloud technologies, and to foster collaboration and innovation across the AR ecosystem.
 
+## What Testbeds Receive
+
+Each accepted testbed receives MyGeoVerse access for up to 20 users, including:
+
+- MyGeoVerse Creator Suite access for up to 20 users
+- MyGeoVerse tester rights for the mobile apps on both Android and iOS
+- An Augmented City VPS tester account
+
+The MyGeoVerse access lets testbed users start with the Augmented City Scanner app to enable locations for AR Cloud, then use the MyGeoVerse Spatial Content Management Platform to upload new content or place persistent and shared content in the real world. Testbed partners also receive tutoring on how to use the Augmented City VPS service, the MyGeoVerse platform, and the mobile apps.
+
 ## Testbeds & AR Cloud Activations by Partners
 
 <div class="activations-list">
@@ -68,9 +78,9 @@ Overall, the Testbed Program is a key part of the OARC's mission to accelerate t
 
 Once your application is accepted:
 
-- You must specify a testbed contact person within your organization.
-- You must enable at least one location within your testbed. Make sure that an OSCP compliant VPS provider is allowed to operate at the desired location.
-- You must have an intention to realize at least one AR Cloud project that uses the OSCP platform in the location you have determined.
+- Your organization must become an OARC member.
+- Your organization must specify a testbed contact person within your organization to coordinate the training and onboarding sessions with your users, students, and faculty members.
+- Your organization must enable at least one location within your testbed and must realize at least one AR Cloud project within the first six months of your acceptance to the Testbed Program.
 
 To get started quickly with your testbed, we encourage the use of OSCP compliant partner platforms such as Augmented City as a VPS provider and MyGeoVerse as a spatial content publishing platform. Both partners offer special programs & training sessions for OARC testbed partners.
 
