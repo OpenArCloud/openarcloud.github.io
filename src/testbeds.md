@@ -5,10 +5,8 @@ title: Joint Testbed Program
 
 # Joint Testbed Program
 
-<div style="display:flex; justify-content:center; align-items:center; gap:28px; flex-wrap:wrap; margin: 18px 0 30px;">
-<img src="/img/partners/oarc.png" alt="OARC" style="max-height:72px; width:auto; object-fit:contain;">
-<img src="/img/partners/augmented-city.png" alt="Augmented City" style="max-height:72px; width:auto; object-fit:contain;">
-<img src="/img/partners/MyGeoVerse.png" alt="MyGeoVerse" style="max-height:72px; width:auto; object-fit:contain;">
+<div style="display:flex; justify-content:center; align-items:center; margin: 18px 0 30px;">
+<img src="/img/partners/oarc_ac_mgv.png" alt="Open AR Cloud, Augmented City, and MyGeoVerse" style="max-width:100%; height:auto; max-height:96px; object-fit:contain;">
 </div>
 
 The Open AR Cloud Association's Testbed Program is currently a three-way joint program that aims to promote the development and testing of interoperable AR cloud technologies across different platforms and applications. We are constantly looking for more VPS service providers and spatial content management platforms and mobile apps to expand the program.
