@@ -22,6 +22,15 @@ Each accepted testbed receives:
 - A MyGeoVerse Mobile App Tester Account and a MyGeoVerse Creator Suite Account both with upto 5 (five) users
 	- MyGeoVerse is an OGC/OSCP GeoPose Compliant spatial content publisher and a mobile spatial browser app provider.
 
+In addition, OARC provides training and onboarding sessions for new testbed partners on:
+
+- OARC and general information on how the AR Cloud or spatial web works
+- OGC GeoPose Standard and GeoPose Protocol
+- How to digital map a location using Augmented City VPS
+- How to upload content using MyGeoVerse Creator Suite
+- How to place content onto your real world using MyGeoVerse iOS or Android mobile app
+- How to localize using MyGeoVerse mobile spatial browser app and view or interact with content
+
 ## Testbed Requirements
 
 Once your application is accepted:
