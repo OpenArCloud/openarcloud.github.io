@@ -1,9 +1,15 @@
 ---
 layout: layouts/base.njk
-title: Testbeds
+title: Joint Testbed Program
 ---
 
-# Testbed Program
+# Joint Testbed Program
+
+<div style="display:flex; justify-content:center; align-items:center; gap:28px; flex-wrap:wrap; margin: 18px 0 30px;">
+<img src="/img/partners/oarc.png" alt="OARC" style="max-height:72px; width:auto; object-fit:contain;">
+<img src="/img/partners/augmented-city.png" alt="Augmented City" style="max-height:72px; width:auto; object-fit:contain;">
+<img src="/img/partners/MyGeoVerse.png" alt="MyGeoVerse" style="max-height:72px; width:auto; object-fit:contain;">
+</div>
 
 The Open AR Cloud Association's Testbed Program is a collaborative initiative that aims to promote the development and testing of interoperable AR cloud technologies across different platforms and applications.
 
