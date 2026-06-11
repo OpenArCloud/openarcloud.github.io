@@ -15,11 +15,10 @@ Overall, the Testbed Program is a key part of the OARC's mission to accelerate t
 
 ## What Testbeds Receive
 
-Each accepted testbed receives MyGeoVerse access for up to 20 users, including:
+Each accepted testbed receives:
 
-- MyGeoVerse Creator Suite access for up to 20 users
-- MyGeoVerse tester rights for the mobile apps on both Android and iOS
-- An Augmented City VPS tester account
+- An Augmented City VPS tester account upto 5 (five) users, which gives the users to ability to use Augmented City Scanner mobile app to digitally map locations.
+- A MyGeoVerse Mobile App Tester Account and a MyGeoVerse Creator Suite Account both with upto 5 (five) users
 
 The MyGeoVerse access lets testbed users start with the Augmented City Scanner app to enable locations for AR Cloud, then use the MyGeoVerse Spatial Content Management Platform to upload new content or place persistent and shared content in the real world. Testbed partners also receive tutoring on how to use the Augmented City VPS service, the MyGeoVerse platform, and the mobile apps.
 
