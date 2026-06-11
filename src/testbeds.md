@@ -51,6 +51,19 @@ Your application will be evaluated in the order it was received and we will cont
 <div class="activations-list">
 
 <div class="activation-card">
+<h3>W3C Immersive Web Event — Mountain View (2025)</h3>
+<p>OARC members XR Masters and Augmented City along with the spARcl team at Open AR Cloud demonstrated a historical spatial web demo.</p>
+<div style="margin-top: 16px; overflow: hidden; border-radius: 12px; max-width: 100%;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DhfwDuQEVL8?si=DtiTjKk9l0GTFnEu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%; max-width: 100%; aspect-ratio: 16 / 9; height: auto;"></iframe>
+</div>
+</div>
+
+<div class="activation-card">
+<h3>Aalto University — Helsinki (2025)</h3>
+<p>OARC partners Augmented City, Immersal, and XR Masters demonstrated demonstrations with one publisher, two client apps and three VPS service providers one being OARC's open VPS service.</p>
+</div>
+
+<div class="activation-card">
 <h3>AR Wayfinding — Halden, Norway (2024)</h3>
 <p>OARC partners IFE, XR Masters, OnSiteViewer, and Augmented City collaborated with Halden municipality on AR wayfinding for people with varying sight and mobility needs. Indoor and outdoor testing at Halden City Hall used OSCP GeoPose-compliant VPS.</p>
 </div>
