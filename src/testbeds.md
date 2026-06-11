@@ -22,7 +22,16 @@ Each accepted testbed receives:
 - A MyGeoVerse Mobile App Tester Account and a MyGeoVerse Creator Suite Account both with upto 5 (five) users
 	- MyGeoVerse is an OGC/OSCP GeoPose Compliant spatial content publisher and a mobile spatial browser app provider.
 
-The Augmented City VPS access lets testbed users start with the Augmented City Scanner app to enable locations for AR Cloud. The MyGeoVerse access then lets testbed users use the MyGeoVerse Spatial Content Management Platform to upload new content or place/visualize persistent and shared content in the real world. Testbed partners also receive tutoring on how to use the Augmented City VPS service, the MyGeoVerse platform, and the mobile apps.
+## Testbed Requirements
+
+Once your application is accepted:
+
+- Your organization must become an OARC member.
+- Your organization must specify a testbed contact person to coordinate training and onboarding sessions with your users, students, and faculty members.
+
+To get started quickly with your testbed, please fill out the form below and if you have any questions please send us email at testbed@openarcloud.org
+
+Your application will be evaluated in the order it was received and we will contact you as soon as possible.
 
 ## Testbeds & AR Cloud Activations by Partners
 
@@ -74,18 +83,6 @@ The Augmented City VPS access lets testbed users start with the Augmented City S
 </div>
 
 </div>
-
-## Testbed Requirements
-
-Once your application is accepted:
-
-- Your organization must become an OARC member.
-- Your organization must specify a testbed contact person to coordinate training and onboarding sessions with your users, students, and faculty members.
-- Your organization must enable at least one location within your testbed and realize at least one AR Cloud project within the first six months of acceptance to the Testbed Program.
-
-To get started quickly with your testbed, we encourage the use of OSCP compliant partner platforms such as Augmented City as a VPS provider and MyGeoVerse as a spatial content publishing platform. Both partners offer special programs & training sessions for OARC testbed partners.
-
-Your application will be evaluated in the order it was received and we will contact you as soon as possible.
 
 ## Apply to Become an OARC Testbed
 
