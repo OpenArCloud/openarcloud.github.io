@@ -11,7 +11,7 @@ title: Joint Testbed Program
 <img src="/img/partners/MyGeoVerse.png" alt="MyGeoVerse" style="max-height:72px; width:auto; object-fit:contain;">
 </div>
 
-The Open AR Cloud Association's Testbed Program is a collaborative initiative that aims to promote the development and testing of interoperable AR cloud technologies across different platforms and applications.
+The Open AR Cloud Association's Testbed Program is currently a three-way joint program that aims to promote the development and testing of interoperable AR cloud technologies across different platforms and applications. We are constantly looking for more VPS service providers and spatial content management platforms and mobile apps to expand the program.
 
 The program provides a platform for OARC members, Academic Institutions and City Governance Organization to showcase their AR cloud solutions and to collaborate with other industry partners to address technical challenges and opportunities.
 
