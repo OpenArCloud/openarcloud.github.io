@@ -22,7 +22,7 @@ Each accepted testbed receives:
 - A MyGeoVerse Mobile App Tester Account and a MyGeoVerse Creator Suite Account both with upto 5 (five) users
 	- MyGeoVerse is an OGC/OSCP GeoPose Compliant spatial content publisher and a mobile spatial browser app provider.
 
-The MyGeoVerse access lets testbed users start with the Augmented City Scanner app to enable locations for AR Cloud, then use the MyGeoVerse Spatial Content Management Platform to upload new content or place persistent and shared content in the real world. Testbed partners also receive tutoring on how to use the Augmented City VPS service, the MyGeoVerse platform, and the mobile apps.
+The Augmented City VPS access lets testbed users start with the Augmented City Scanner app to enable locations for AR Cloud. The MyGeoVerse access then lets testbed users use the MyGeoVerse Spatial Content Management Platform to upload new content or place/visualize persistent and shared content in the real world. Testbed partners also receive tutoring on how to use the Augmented City VPS service, the MyGeoVerse platform, and the mobile apps.
 
 ## Testbeds & AR Cloud Activations by Partners
 
