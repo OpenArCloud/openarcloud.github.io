@@ -42,16 +42,49 @@
     <p style="margin-bottom: 4px;"><strong>Open AR Cloud / OARC Europe</strong></p>
     <p style="margin-bottom: 0;">Available by URL only until Governing Board approval</p>
 </div>
-<p>OpenVPS is the open-source Visual Positioning Service reference implementation from Open AR Cloud. It follows the OGC GeoPose standard and the OSCP GeoPoseProtocol so teams can self-host camera-based 6DoF localization without vendor lock-in or proprietary APIs.</p>
-<p>It is a project of Open AR Cloud Europe, built by Nokia Bell Labs, and funded through NGI Atlantic and NGI Search. The site should speak like an engineering project: precise, direct, and welcoming.</p>
-<h2>What OpenVPS Provides</h2>
-<p>Each accepted OpenVPS deployment should communicate these core points:</p>
+<h2>The open spatial web starts here</h2>
+<p>OpenVPS is the open-source Visual Positioning Service reference implementation from Open AR Cloud. It follows the OGC GeoPose standard and the OSCP GeoPoseProtocol so any compliant client can self-host camera-based 6DoF localization — without vendor lock-in, without proprietary APIs, and without data leaving your server.</p>
+<p>Built by Nokia Bell Labs for OARC Europe and funded through NGI Atlantic and NGI Search.</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin: 32px 0;">
+    <div style="background: rgba(14, 124, 134, 0.08); border: 1px solid rgba(14, 124, 134, 0.20); border-radius: 10px; padding: 16px; text-align: center;">
+        <div style="font-weight: 700; color: var(--teal); margin-bottom: 4px;">MIT License</div>
+        <div style="font-size: 0.85rem; color: var(--muted, #4b5563);">Open source</div>
+    </div>
+    <div style="background: rgba(14, 124, 134, 0.08); border: 1px solid rgba(14, 124, 134, 0.20); border-radius: 10px; padding: 16px; text-align: center;">
+        <div style="font-weight: 700; color: var(--teal); margin-bottom: 4px;">GeoPose Output</div>
+        <div style="font-size: 0.85rem; color: var(--muted, #4b5563);">OGC standard</div>
+    </div>
+    <div style="background: rgba(14, 124, 134, 0.08); border: 1px solid rgba(14, 124, 134, 0.20); border-radius: 10px; padding: 16px; text-align: center;">
+        <div style="font-weight: 700; color: var(--teal); margin-bottom: 4px;">Self-Hosted</div>
+        <div style="font-size: 0.85rem; color: var(--muted, #4b5563);">Your infrastructure</div>
+    </div>
+    <div style="background: rgba(14, 124, 134, 0.08); border: 1px solid rgba(14, 124, 134, 0.20); border-radius: 10px; padding: 16px; text-align: center;">
+        <div style="font-weight: 700; color: var(--teal); margin-bottom: 4px;">HLOC Pipeline</div>
+        <div style="font-size: 0.85rem; color: var(--muted, #4b5563);">Research-grade localization</div>
+    </div>
+</div>
+<h2>What It Is</h2>
+<p>OpenVPS is a batteries-included research and deployment foundation — not a managed cloud product. It is designed for teams that need full control over their localization infrastructure.</p>
 <ul>
-<li>Open standard support through OGC GeoPose and the OSCP GeoPoseProtocol.</li>
-<li>Self-hosted deployment so maps and infrastructure stay under the operator's control.</li>
-<li>Full localization pipeline from capture to GeoPose response.</li>
-<li>A batteries-included research and development foundation, not a managed cloud product.</li>
+<li><strong>No vendor lock-in</strong> — built on open standards that any compliant client can speak.</li>
+<li><strong>No proprietary APIs</strong> — the GeoPoseProtocol is public and documented.</li>
+<li><strong>No data leaves your server</strong> — maps, imagery, and query data stay on infrastructure you control.</li>
 </ul>
+<h2>What You Get</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; margin: 24px 0;">
+    <div style="border: 1px solid rgba(14, 124, 134, 0.22); border-radius: 12px; padding: 24px;">
+        <div style="font-weight: 700; margin-bottom: 8px;">Open Standard Compliance</div>
+        <div style="font-size: 0.92rem; color: var(--muted, #4b5563);">Adheres to OGC GeoPose and the OSCP GeoPoseProtocol. Any compliant client interacts with the same endpoint without vendor-specific rewrites.</div>
+    </div>
+    <div style="border: 1px solid rgba(14, 124, 134, 0.22); border-radius: 12px; padding: 24px;">
+        <div style="font-weight: 700; margin-bottom: 8px;">Self-Hosted Deployment</div>
+        <div style="font-size: 0.92rem; color: var(--muted, #4b5563);">Runs on your infrastructure via Docker. Supports on-premises, edge, or private cloud environments. Your maps and data never leave your control.</div>
+    </div>
+    <div style="border: 1px solid rgba(14, 124, 134, 0.22); border-radius: 12px; padding: 24px;">
+        <div style="font-weight: 700; margin-bottom: 8px;">Complete Pipeline</div>
+        <div style="font-size: 0.92rem; color: var(--muted, #4b5563);">Integrates capture, feature mapping, geo-alignment, and localization in one system — from the first scan to a live GeoPose response.</div>
+    </div>
+</div>
 <div style="background: rgba(15, 23, 42, 0.96); border: 1px solid rgba(77, 191, 204, 0.20); border-radius: 14px; padding: 24px; margin: 24px 0; color: #ffffff;">
     <p style="margin: 0 0 10px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #4dbfcc;">Copy-ready demo client</p>
     <pre style="margin: 0; white-space: pre-wrap; font-family: 'JetBrains Mono', monospace; font-size: 0.92rem; line-height: 1.7; color: #dbeafe;">python demo_client.py \
@@ -62,37 +95,55 @@
 </div>
 <h2>How It Works</h2>
 <ol>
-<li><strong>Capture</strong> - Use the StrayScanner or Android Kapture app to collect RGB, depth, GPS, and sensor data.</li>
-<li><strong>MapBuilder</strong> - Run the HLOC pipeline to generate a feature map from the captured imagery.</li>
-<li><strong>MapAligner</strong> - Align the feature map to OpenStreetMap footprints and produce the geo-alignment transform.</li>
-<li><strong>MapLocalizer</strong> - Receive the camera image and coarse location, then return a GeoPose response for OSCP clients.</li>
+<li><strong>Capture</strong> — Use the StrayScanner or Android Kapture app to collect RGB, depth, GPS, and sensor data.</li>
+<li><strong>MapBuilder</strong> — Run the HLOC pipeline to generate a feature map from the captured imagery.</li>
+<li><strong>MapAligner</strong> — Align the feature map to OpenStreetMap footprints and produce the geo-alignment transform.</li>
+<li><strong>MapLocalizer</strong> — Receive the camera image and coarse location, then return a GeoPose response for OSCP clients.</li>
 </ol>
 <h2>Origin Story</h2>
-<p>The OpenVPS story has two phases.</p>
-<h3>Phase 1 - Aurora Viewer, NGI Atlantic</h3>
-<p>Open AR Cloud Europe, George Mason University, 3DInteractive, and COSMOS Lab demonstrated the first open-source VPS reference deployment on a 5G testbed. That phase proved the OSCP concept.</p>
-<h3>Phase 2 - OSCAR4US, NGI Search</h3>
+<h3>Phase 1 — Aurora Viewer, NGI Atlantic (2022)</h3>
+<p>Open AR Cloud Europe, George Mason University, 3DInteractive, and COSMOS Lab demonstrated the first open-source VPS reference deployment on a 5G testbed. That phase proved the OSCP concept end-to-end.</p>
+<h3>Phase 2 — OSCAR4US, NGI Search (2024–2025)</h3>
 <p>Nokia Bell Labs built the current OpenVPS stack for OARC Europe, including MapBuilder, MapAligner, MapLocalizer, and the GeoPoseProtocol compliance layer. That phase turned the proof of concept into a production-grade research tool.</p>
 <h2>Credits</h2>
 <ul>
-<li><strong>Dr. Gabor Soros</strong> - Senior Research Scientist at Nokia Bell Labs and technical architect of the OpenVPS implementation.</li>
-<li><strong>Dr. Denes Bisztray</strong> - Senior Research Engineer at Nokia Bell Labs and core implementation contributor.</li>
-<li><strong>Jan-Erik Vinje</strong> - Co-President of Open AR Cloud Association and Managing Director of OARC Europe.</li>
-<li><strong>Ali C. Hantal</strong> - Co-President of Open AR Cloud Association.</li>
-<li><strong>Bo Han</strong> - Led the Aurora Viewer VPS development during the NGI Atlantic phase.</li>
+<li><strong>Dr. Gabor Soros</strong> — Senior Research Scientist at Nokia Bell Labs and technical architect of the OpenVPS implementation.</li>
+<li><strong>Dr. Denes Bisztray</strong> — Senior Research Engineer at Nokia Bell Labs and core implementation contributor.</li>
+<li><strong>Alina Kadlubsky</strong> — Managing Director of Open AR Cloud Europe.</li>
 </ul>
 <h2>Ecosystem</h2>
 <p>OpenVPS fits into the broader open spatial web stack:</p>
-<ul>
-<li><strong>GeoPose</strong> is the standard output format.</li>
-<li><strong>GeoPoseProtocol</strong> is the request and response API.</li>
-<li><strong>OpenVPS</strong> is the open-source service layer.</li>
-<li><strong>OSCP</strong> provides the wider platform architecture.</li>
-<li><strong>A spatial browser</strong> consumes the localization and content services.</li>
-</ul>
+<table>
+<thead>
+<tr>
+<th>Layer</th>
+<th>Component</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Standard</td>
+<td>OGC GeoPose</td>
+</tr>
+<tr>
+<td>Protocol</td>
+<td>OSCP GeoPoseProtocol</td>
+</tr>
+<tr>
+<td>Service</td>
+<td>OpenVPS</td>
+</tr>
+<tr>
+<td>Platform</td>
+<td>OSCP</td>
+</tr>
+<tr>
+<td>Client</td>
+<td>Spatial browser</td>
+</tr>
+</tbody>
+</table>
 <p>Just as the web needed standards, protocols, services, discovery, and browsers, the spatial web needs the same layered model. OpenVPS is the localization backbone in that stack.</p>
-<h2>Site Notes</h2>
-<p>The OpenVPS page should remain hidden from the home page until the Governing Board approves public linking. The published URL should still resolve directly at <code>/initiatives/openvps</code> once the markdown page is built into the site.</p>
 
         </div>
     </main>
