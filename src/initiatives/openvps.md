@@ -44,31 +44,11 @@ OpenVPS is a batteries-included research and deployment foundation not a managed
 - **No vendor lock-in** built on open standards that any compliant client can speak.
 - **No proprietary APIs** the GeoPoseProtocol is public and documented.
 - **No data leaves your server** maps, imagery, and query data stay on infrastructure you control.
+- **Complete pipeline** integrates capture, feature mapping, geo-alignment, and localization in one system from the first scan to a live GeoPose response.
 
-## What You Get
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; margin: 24px 0;">
-    <div style="border: 1px solid rgba(14, 124, 134, 0.22); border-radius: 12px; padding: 24px;">
-        <div style="font-weight: 700; margin-bottom: 8px;">Open Standard Compliance</div>
-        <div style="font-size: 0.92rem; color: var(--muted, #4b5563);">Adheres to OGC GeoPose and the OSCP GeoPoseProtocol. Any compliant client interacts with the same endpoint without vendor-specific rewrites.</div>
-    </div>
-    <div style="border: 1px solid rgba(14, 124, 134, 0.22); border-radius: 12px; padding: 24px;">
-        <div style="font-weight: 700; margin-bottom: 8px;">Self-Hosted Deployment</div>
-        <div style="font-size: 0.92rem; color: var(--muted, #4b5563);">Runs on your infrastructure via Docker. Supports on-premises, edge, or private cloud environments. Your maps and data never leave your control.</div>
-    </div>
-    <div style="border: 1px solid rgba(14, 124, 134, 0.22); border-radius: 12px; padding: 24px;">
-        <div style="font-weight: 700; margin-bottom: 8px;">Complete Pipeline</div>
-        <div style="font-size: 0.92rem; color: var(--muted, #4b5563);">Integrates capture, feature mapping, geo-alignment, and localization in one system from the first scan to a live GeoPose response.</div>
-    </div>
-</div>
-
-<div style="background: rgba(15, 23, 42, 0.96); border: 1px solid rgba(77, 191, 204, 0.20); border-radius: 14px; padding: 24px; margin: 24px 0; color: #ffffff;">
-    <p style="margin: 0 0 10px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #4dbfcc;">Copy-ready demo client</p>
-    <pre style="margin: 0; white-space: pre-wrap; font-family: 'JetBrains Mono', monospace; font-size: 0.92rem; line-height: 1.7; color: #dbeafe;">python demo_client.py \
-  --url https://YOUR_VPS_URL/localize/geopose \
-  --image ./data/query.jpg \
-  --camera ./data/camera_params.json \
-  --geolocation ./data/geolocation_params.json</pre>
+<div style="margin: 32px 0;">
+    <img src="/img/sparc-teaser.jpg" alt="spARcl reference client showing geometry primitives, 3D models, points of interest, context-aware content, and robot geopose streams" style="width: 100%; border-radius: 10px;">
+    <p style="margin-top: 12px; font-size: 0.92rem; color: var(--muted, #4b5563);">The <a href="https://github.com/openArCloud/sparcl" style="color: var(--teal); font-weight: 600;">spARcl spatial browser</a> is the reference client for OpenVPS, demonstrating geometry primitives, 3D models, points of interest, context-aware content, and robot geopose streams.</p>
 </div>
 
 ## How It Works
@@ -86,12 +66,14 @@ Open AR Cloud Europe, George Mason University, 3DInteractive, and COSMOS Lab dem
 
 ### Phase 2 OSCAR4US, NGI Search (2024–2025)
 
-Nokia Bell Labs built the current OpenVPS stack for OARC Europe, including MapBuilder, MapAligner, MapLocalizer, and the GeoPoseProtocol compliance layer. That phase turned the proof of concept into a production-grade research tool.
+Nokia Bell Labs built the current OpenVPS stack for OARC Europe, including MapBuilder, MapAligner, MapLocalizer, and the GeoPoseProtocol compliance layer. That phase turned the proof of concept into an experimental testbed for anyone interested in location-based augmented reality.
 
 ## Credits
 
 - **Dr. Gabor Soros** Senior Research Scientist at Nokia Bell Labs and technical architect of the OpenVPS implementation.
 - **Dr. Denes Bisztray** Senior Research Engineer at Nokia Bell Labs and core implementation contributor.
+- **Andor Kovacs** Nokia Bell Labs intern and contributor to the OpenVPS implementation.
+- **Asmaa Thabet** Nokia Bell Labs intern and contributor to the OpenVPS implementation.
 - **Alina Kadlubsky** Managing Director of Open AR Cloud Europe.
 
 ## Ecosystem
@@ -130,6 +112,8 @@ OpenVPS fits into the broader open spatial web stack:
 </table>
 
 Just as the web needed standards, protocols, services, discovery, and browsers, the spatial web needs the same layered model. OpenVPS is the localization backbone in that stack.
+
+The full source code is available on [GitHub](https://github.com/openArCloud/openvps).
 
 ---
 
