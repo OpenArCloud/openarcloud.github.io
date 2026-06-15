@@ -47,7 +47,7 @@ OpenVPS is a batteries-included research and deployment foundation not a managed
 - **Complete pipeline** integrates capture, feature mapping, geo-alignment, and localization in one system from the first scan to a live GeoPose response.
 
 <div style="margin: 32px 0;">
-    <img src="/img/sparc-teaser.jpg" alt="spARcl reference client showing geometry primitives, 3D models, points of interest, context-aware content, and robot geopose streams" style="width: 100%; border-radius: 10px;">
+    <img src="/img/sparcl_teaser.png" alt="spARcl reference client showing geometry primitives, 3D models, points of interest, context-aware content, and robot geopose streams" style="width: 100%; border-radius: 10px;">
     <p style="margin-top: 12px; font-size: 0.92rem; color: var(--muted, #4b5563);">The <a href="https://github.com/openArCloud/sparcl" style="color: var(--teal); font-weight: 600;">spARcl spatial browser</a> is the reference client for OpenVPS, demonstrating geometry primitives, 3D models, points of interest, context-aware content, and robot geopose streams.</p>
 </div>
 
