@@ -142,6 +142,7 @@ We are looking for OpenVPS partners educational institutions, tech centers, stud
         <div style="font-size: 2rem; margin-bottom: 12px;">🔬</div>
         <div style="font-weight: 700; margin-bottom: 8px;">Research Collaboration</div>
         <div style="font-size: 0.92rem; color: var(--muted, #4b5563);">Joint work on visual localization, privacy-preserving mapping, and scene understanding, aligned with OARC working groups.</div>
+        <div style="margin-top: 12px;"><a href="/initiatives/openvps/research/" style="font-size: 0.85rem; color: var(--teal); font-weight: 600;">See research areas →</a></div>
     </div>
     <div style="border: 1px solid rgba(14, 124, 134, 0.22); border-radius: 12px; padding: 24px;">
         <div style="font-size: 2rem; margin-bottom: 12px;">🎯</div>
