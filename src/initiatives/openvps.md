@@ -107,3 +107,21 @@ OpenVPS fits into the broader open spatial web stack:
 | Client | Spatial browser |
 
 Just as the web needed standards, protocols, services, discovery, and browsers, the spatial web needs the same layered model. OpenVPS is the localization backbone in that stack.
+
+---
+
+## Get Involved
+
+We are looking for OpenVPS partners — educational institutions, tech centers, students, and professors — to continue building this initiative for the benefit of all.
+
+If you have questions, write to us and we will invite you to one of our bi-weekly working group meetings, introduce you to the team, and give you an update on Open AR Cloud and the OpenVPS initiative.
+
+<div class="form-container form-container-short">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfdRL9GGZEVZU2qUKvzQ72cptWOipq8vx4TJzSbpKu5WYMY_w/viewform?embedded=true" width="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
+
+Or, if you are already convinced — become a member and one of us will reach out to onboard you to our team.
+
+<div style="text-align: center; margin: 40px 0;">
+    <a href="https://ko-fi.com/openarcloud" target="_blank" class="primary-button">Become a Member →</a>
+</div>
