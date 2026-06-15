@@ -98,33 +98,33 @@ Nokia Bell Labs built the current OpenVPS stack for OARC Europe, including MapBu
 
 OpenVPS fits into the broader open spatial web stack:
 
-<table style="width: 100%; border-collapse: collapse; margin: 24px 0;">
+<table style="width: 100%; border-collapse: collapse; margin: 24px 0; border: 1px solid rgba(14, 124, 134, 0.22); border-radius: 10px; overflow: hidden;">
     <thead>
-        <tr style="background: rgba(14, 124, 134, 0.10); border-bottom: 2px solid rgba(14, 124, 134, 0.30);">
-            <th style="text-align: left; padding: 12px 16px; font-weight: 700; color: var(--teal);">Layer</th>
-            <th style="text-align: left; padding: 12px 16px; font-weight: 700; color: var(--teal);">Component</th>
+        <tr style="background: rgba(14, 124, 134, 0.12);">
+            <th style="text-align: left; padding: 14px 20px; font-weight: 700; color: var(--teal); border-bottom: 2px solid rgba(14, 124, 134, 0.30); width: 30%;">Layer</th>
+            <th style="text-align: left; padding: 14px 20px; font-weight: 700; color: var(--teal); border-bottom: 2px solid rgba(14, 124, 134, 0.30);">Component</th>
         </tr>
     </thead>
     <tbody>
-        <tr style="border-bottom: 1px solid rgba(14, 124, 134, 0.15);">
-            <td style="padding: 12px 16px; color: var(--muted, #4b5563);">Standard</td>
-            <td style="padding: 12px 16px;">OGC GeoPose</td>
+        <tr>
+            <td style="padding: 13px 20px; color: var(--muted, #4b5563); border-bottom: 1px solid rgba(14, 124, 134, 0.12); font-weight: 600;">Standard</td>
+            <td style="padding: 13px 20px; border-bottom: 1px solid rgba(14, 124, 134, 0.12);">OGC GeoPose</td>
         </tr>
-        <tr style="border-bottom: 1px solid rgba(14, 124, 134, 0.15); background: rgba(14, 124, 134, 0.03);">
-            <td style="padding: 12px 16px; color: var(--muted, #4b5563);">Protocol</td>
-            <td style="padding: 12px 16px;">OSCP GeoPoseProtocol</td>
-        </tr>
-        <tr style="border-bottom: 1px solid rgba(14, 124, 134, 0.15);">
-            <td style="padding: 12px 16px; color: var(--muted, #4b5563);">Service</td>
-            <td style="padding: 12px 16px; font-weight: 700; color: var(--teal);">OpenVPS</td>
-        </tr>
-        <tr style="border-bottom: 1px solid rgba(14, 124, 134, 0.15); background: rgba(14, 124, 134, 0.03);">
-            <td style="padding: 12px 16px; color: var(--muted, #4b5563);">Platform</td>
-            <td style="padding: 12px 16px;">OSCP</td>
+        <tr style="background: rgba(14, 124, 134, 0.04);">
+            <td style="padding: 13px 20px; color: var(--muted, #4b5563); border-bottom: 1px solid rgba(14, 124, 134, 0.12); font-weight: 600;">Protocol</td>
+            <td style="padding: 13px 20px; border-bottom: 1px solid rgba(14, 124, 134, 0.12);">OSCP GeoPoseProtocol</td>
         </tr>
         <tr>
-            <td style="padding: 12px 16px; color: var(--muted, #4b5563);">Client</td>
-            <td style="padding: 12px 16px;">Spatial browser</td>
+            <td style="padding: 13px 20px; color: var(--muted, #4b5563); border-bottom: 1px solid rgba(14, 124, 134, 0.12); font-weight: 600;">Service</td>
+            <td style="padding: 13px 20px; border-bottom: 1px solid rgba(14, 124, 134, 0.12); font-weight: 700; color: var(--teal);">OpenVPS</td>
+        </tr>
+        <tr style="background: rgba(14, 124, 134, 0.04);">
+            <td style="padding: 13px 20px; color: var(--muted, #4b5563); border-bottom: 1px solid rgba(14, 124, 134, 0.12); font-weight: 600;">Platform</td>
+            <td style="padding: 13px 20px; border-bottom: 1px solid rgba(14, 124, 134, 0.12);">OSCP</td>
+        </tr>
+        <tr>
+            <td style="padding: 13px 20px; color: var(--muted, #4b5563); font-weight: 600;">Client</td>
+            <td style="padding: 13px 20px;">Spatial browser</td>
         </tr>
     </tbody>
 </table>
@@ -136,6 +136,29 @@ Just as the web needed standards, protocols, services, discovery, and browsers, 
 ## Get Involved
 
 We are looking for OpenVPS partners educational institutions, tech centers, students, and professors to continue building this initiative for the benefit of all.
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; margin: 32px 0;">
+    <div style="border: 1px solid rgba(14, 124, 134, 0.22); border-radius: 12px; padding: 24px;">
+        <div style="font-size: 2rem; margin-bottom: 12px;">🔬</div>
+        <div style="font-weight: 700; margin-bottom: 8px;">Research Collaboration</div>
+        <div style="font-size: 0.92rem; color: var(--muted, #4b5563);">Joint work on visual localization, privacy-preserving mapping, and scene understanding, aligned with OARC working groups.</div>
+    </div>
+    <div style="border: 1px solid rgba(14, 124, 134, 0.22); border-radius: 12px; padding: 24px;">
+        <div style="font-size: 2rem; margin-bottom: 12px;">🎯</div>
+        <div style="font-weight: 700; margin-bottom: 8px;">Campus Testbed</div>
+        <div style="font-size: 0.92rem; color: var(--muted, #4b5563);">Deploy an OSCP testbed on campus, a live proving ground for OpenVPS and Spatial DDS in a real-world environment.</div>
+    </div>
+    <div style="border: 1px solid rgba(14, 124, 134, 0.22); border-radius: 12px; padding: 24px;">
+        <div style="font-size: 2rem; margin-bottom: 12px;">🎓</div>
+        <div style="font-weight: 700; margin-bottom: 8px;">Student Contributions</div>
+        <div style="font-size: 0.92rem; color: var(--muted, #4b5563);">GSoC-style contributions to open source projects. Internships and theses on open spatial computing challenges.</div>
+    </div>
+    <div style="border: 1px solid rgba(14, 124, 134, 0.22); border-radius: 12px; padding: 24px;">
+        <div style="font-size: 2rem; margin-bottom: 12px;">🤝</div>
+        <div style="font-weight: 700; margin-bottom: 8px;">Standards Co-authorship</div>
+        <div style="font-size: 0.92rem; color: var(--muted, #4b5563);">University researchers as co-authors of OARC standards, published via OGC, W3C, and MSF formal processes.</div>
+    </div>
+</div>
 
 If you are interested in getting involved, become a member and we will reach out to onboard you to our team.
 
