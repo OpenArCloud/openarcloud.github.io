@@ -98,13 +98,36 @@ Nokia Bell Labs built the current OpenVPS stack for OARC Europe, including MapBu
 
 OpenVPS fits into the broader open spatial web stack:
 
-| Layer | Component |
-|---|---|
-| Standard | OGC GeoPose |
-| Protocol | OSCP GeoPoseProtocol |
-| Service | OpenVPS |
-| Platform | OSCP |
-| Client | Spatial browser |
+<table style="width: 100%; border-collapse: collapse; margin: 24px 0;">
+    <thead>
+        <tr style="background: rgba(14, 124, 134, 0.10); border-bottom: 2px solid rgba(14, 124, 134, 0.30);">
+            <th style="text-align: left; padding: 12px 16px; font-weight: 700; color: var(--teal);">Layer</th>
+            <th style="text-align: left; padding: 12px 16px; font-weight: 700; color: var(--teal);">Component</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="border-bottom: 1px solid rgba(14, 124, 134, 0.15);">
+            <td style="padding: 12px 16px; color: var(--muted, #4b5563);">Standard</td>
+            <td style="padding: 12px 16px;">OGC GeoPose</td>
+        </tr>
+        <tr style="border-bottom: 1px solid rgba(14, 124, 134, 0.15); background: rgba(14, 124, 134, 0.03);">
+            <td style="padding: 12px 16px; color: var(--muted, #4b5563);">Protocol</td>
+            <td style="padding: 12px 16px;">OSCP GeoPoseProtocol</td>
+        </tr>
+        <tr style="border-bottom: 1px solid rgba(14, 124, 134, 0.15);">
+            <td style="padding: 12px 16px; color: var(--muted, #4b5563);">Service</td>
+            <td style="padding: 12px 16px; font-weight: 700; color: var(--teal);">OpenVPS</td>
+        </tr>
+        <tr style="border-bottom: 1px solid rgba(14, 124, 134, 0.15); background: rgba(14, 124, 134, 0.03);">
+            <td style="padding: 12px 16px; color: var(--muted, #4b5563);">Platform</td>
+            <td style="padding: 12px 16px;">OSCP</td>
+        </tr>
+        <tr>
+            <td style="padding: 12px 16px; color: var(--muted, #4b5563);">Client</td>
+            <td style="padding: 12px 16px;">Spatial browser</td>
+        </tr>
+    </tbody>
+</table>
 
 Just as the web needed standards, protocols, services, discovery, and browsers, the spatial web needs the same layered model. OpenVPS is the localization backbone in that stack.
 
