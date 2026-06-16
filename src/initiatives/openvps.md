@@ -60,11 +60,11 @@ OpenVPS is a batteries-included research and deployment foundation not a managed
 
 ## Origin Story
 
-### Phase 1 Aurora Viewer, NGI Atlantic (2022)
+### Phase 1 [Aurora Viewer](https://www.auroraviewer.org/), NGI Atlantic (2022)
 
 Open AR Cloud Europe, George Mason University, 3DInteractive, and COSMOS Lab demonstrated the first open-source VPS reference deployment on a 5G testbed. That phase proved the OSCP concept end-to-end.
 
-### Phase 2 OSCAR4US, NGI Search (2024–2025)
+### Phase 2 [OSCAR4US](https://www.oscar4us.eu/), NGI Search (2024–2025)
 
 Nokia Bell Labs built the current OpenVPS stack for OARC Europe, including MapBuilder, MapAligner, MapLocalizer, and the GeoPoseProtocol compliance layer. That phase turned the proof of concept into an experimental testbed for anyone interested in location-based augmented reality.
 
