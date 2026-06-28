@@ -6,12 +6,6 @@ permalink: /initiatives/openvps/
 
 # OpenVPS
 
-<div style="background: linear-gradient(135deg, rgba(14, 124, 134, 0.10) 0%, rgba(77, 191, 204, 0.10) 100%); border: 1px solid rgba(14, 124, 134, 0.22); border-radius: 12px; padding: 32px; margin: 30px 0; text-align: center;">
-    <p style="font-size: 1.25rem; font-weight: 700; color: var(--teal); margin-bottom: 8px;">Hidden Project Page</p>
-    <p style="margin-bottom: 4px;"><strong>Open AR Cloud / OARC Europe</strong></p>
-    <p style="margin-bottom: 0;">Available by URL only until Governing Board approval</p>
-</div>
-
 ## The open spatial web starts here
 
 OpenVPS is the open-source Visual Positioning Service reference implementation from Open AR Cloud. It follows the OGC GeoPose standard and the OSCP GeoPoseProtocol so any compliant client can self-host camera-based 6DoF localization without vendor lock-in, without proprietary APIs, and without data leaving your server.
@@ -35,6 +29,10 @@ Built by Nokia Bell Labs for OARC Europe and funded through NGI Atlantic and NGI
         <div style="font-weight: 700; color: var(--teal); margin-bottom: 4px;">HLOC Pipeline</div>
         <div style="font-size: 0.85rem; color: var(--muted, #4b5563);">Research-grade localization</div>
     </div>
+</div>
+
+<div style="text-align: center; margin: 8px 0 32px;">
+    <a href="https://github.com/OpenArCloud/openvps" target="_blank" style="color: var(--teal); font-weight: 600; font-size: 0.95rem;">GitHub Repo →</a>
 </div>
 
 ## What It Is
