@@ -23,7 +23,7 @@ A record of Open AR Cloud's projects, research, publications, and media presence
 <p><strong>October 2025</strong></p>
 </a>
 
-<a href="https://github.com/OpenArCloud/openvps" target="_blank" class="project-card">
+<a href="https://openarcloud.org/initiatives/openvps/" class="project-card">
 <h3>OpenVPS</h3>
 <p>Open Visual Positioning System — camera-based localization for AR applications, providing open source tools for visual positioning and mapping.</p>
 <p><strong>May 2025</strong></p>

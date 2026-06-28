@@ -27,7 +27,7 @@ title: Open Spatial Computing Platform
         <h3>UbiComp ISWC 2025 Tutorial (2025)</h3>
         <p>Building interoperable location-based AR with the Open AR Cloud. Presentation decks, code, and session recordings from Aalto University, Helsinki.</p>
     </a>
-    <a href="https://github.com/OpenArCloud/openvps" target="_blank" class="cta-card">
+    <a href="https://openarcloud.org/initiatives/openvps/" class="cta-card">
         <h3>OpenVPS (2025)</h3>
         <p>Open Visual Positioning System — camera-based localization for AR applications, providing open source tools for visual positioning and mapping.</p>
     </a>
@@ -84,7 +84,7 @@ Client implementations support XR headsets, mobile platforms, robotics, and more
 - **Spatial Content Discovery** - Search and discover spatially-anchored content
 - **Reality Modeling** - Support for BIM, IoT, GIS, USD, glTF, and 3D tiles
 - **Edge-Optimized Rendering** - 5G-enabled cloud rendering at the edge
-- **[OpenVPS](https://github.com/OpenArCloud/openvps)** - Open Visual Positioning System for camera-based localization
+- **[OpenVPS](https://openarcloud.org/initiatives/openvps/)** - Open Visual Positioning System for camera-based localization
 - **[SpatialDDS](https://github.com/OpenArCloud/SpatialDDS-spec)** - Protocol specification for real-world spatial computing
 
 <div class="stats-grid">
