@@ -11,7 +11,7 @@ A record of Open AR Cloud's projects, research, publications, and media presence
 
 <div class="projects-grid">
 
-<a href="https://github.com/OpenArCloud/SpatialDDS-spec" target="_blank" class="project-card">
+<a href="https://spatialdds.org/" class="project-card">
 <h3>SpatialDDS</h3>
 <p>A protocol specification for real-world spatial computing — defining how spatial data is discovered, distributed, and synchronized across devices and services.</p>
 <p><strong>January 2026</strong></p>
