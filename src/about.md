@@ -31,15 +31,29 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 
 ### Key Milestones
 
-**2020** - Open AR Cloud Association founded with initial focus on spatial computing standards
+**2018** - Open AR Cloud Association founded with initial focus on spatial computing standards
+
+**2019** - Released the first State of the AR Cloud report and unveiled the core system architecture for the Open Spatial Computing Platform (OSCP)
+
+**2019** - Scaled the community to over 240 members and 36 partner organizations within the first year of launch
 
 **2021** - GeoPose 1.0 standard released, providing universal positioning for AR
 
 **2022** - First OSCP testbeds launched in partnership with universities and cities
 
+**2022** - Expanded the OSCP ecosystem with full testbeds in Istanbul and Ankara, and research testbeds across Europe and the US
+
 **2023** - Spatial Content Discovery protocol ratified, enabling decentralized content networks
 
 **2024** - OSCP 3.0 released with full edge computing support and 5G optimization
+
+**2025** - Championed the Open Spatial Web through strategic [interoperability demonstrations](https://youtu.be/DhfwDuQEVL8?si=Ok-BkFMWVV5CdYrg) with W3C and the Khronos Group
+
+**2025** - Delivered the world's first open-source Visual Positioning Service ([OpenVPS](https://openarcloud.org/initiatives/openvps/)) reference implementation built in partnership with Nokia Bell Labs to enable self-hosted, GeoPose-compliant localization
+
+**2025** - Co-hosted the [GeoPose Summit](https://metaverse-standards.org/event/geopose-summit-2025/) in Denver to align industry stakeholders on the universal addressing system for the physical world
+
+**2026** - Introduced [SpatialDDS](https://spatialdds.org/), a new protocol specification defining how spatial data is discovered, distributed, and synchronized
 
 ### Achievements
 
