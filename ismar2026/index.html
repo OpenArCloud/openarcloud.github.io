@@ -7,6 +7,43 @@
     <meta name="description" content="Open Spatial Computing Platform - Connecting physical and digital worlds through open standards">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <link rel="stylesheet" href="/css/style.css">
+    <style>
+        .nav-dropdown { position: relative; }
+        .nav-dropdown-menu {
+            display: none;
+            position: absolute;
+            top: calc(100% + 8px);
+            left: 0;
+            background: #fff;
+            border: 1px solid rgba(14, 124, 134, 0.20);
+            border-radius: 8px;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.10);
+            min-width: 130px;
+            z-index: 200;
+            padding: 4px 0;
+        }
+        .nav-dropdown:hover .nav-dropdown-menu,
+        .nav-dropdown.is-open .nav-dropdown-menu { display: block; }
+        .nav-dropdown-menu a {
+            display: block;
+            padding: 9px 16px;
+            font-size: 0.88rem;
+            white-space: nowrap;
+            color: inherit;
+        }
+        .nav-dropdown-menu a:hover { background: rgba(14, 124, 134, 0.07); }
+        @media (max-width: 768px) {
+            .nav-dropdown-menu {
+                position: static;
+                box-shadow: none;
+                border: none;
+                border-left: 2px solid rgba(14, 124, 134, 0.25);
+                border-radius: 0;
+                padding: 0 0 0 12px;
+                margin: 4px 0 4px 8px;
+            }
+        }
+    </style>
 </head>
 <body>
     <header class="site-header">
@@ -25,9 +62,15 @@
                     <a href="/testbeds/">Testbeds</a>
                     <a href="/github/">GitHub</a>
                     <a href="/in-action/">In Action</a>
-                    <a href="/about/">About</a>
+                    <a href="/initiatives/openvps/">OpenVPS</a>
+                    <div class="nav-dropdown">
+                        <a href="/about/">About</a>
+                        <div class="nav-dropdown-menu">
+                            <a href="/about/">Team</a>
+                            <a href="https://medium.com/openarcloud" target="_blank" rel="noopener noreferrer">News</a>
+                        </div>
+                    </div>
                     <a href="https://ko-fi.com/openarcloud" target="_blank">Join</a>
-                    <a href="https://medium.com/openarcloud" target="_blank">News</a>
                     <a href="https://ko-fi.com/openarcloud" target="_blank">Donate</a>
                 </nav>
             </div>
@@ -291,6 +334,16 @@
             const isOpen = mainNav.classList.toggle('is-open');
             navToggle.classList.toggle('is-open');
             navToggle.setAttribute('aria-expanded', isOpen);
+        });
+
+        // Dropdown toggle on mobile (click) — desktop uses CSS hover
+        document.querySelectorAll('.nav-dropdown > a').forEach(trigger => {
+            trigger.addEventListener('click', e => {
+                if (window.innerWidth <= 768) {
+                    e.preventDefault();
+                    trigger.parentElement.classList.toggle('is-open');
+                }
+            });
         });
     </script>
 </body>
