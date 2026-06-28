@@ -19,7 +19,7 @@ title: Open Spatial Computing Platform
 ## OSCP In Action
 
 <div class="cta-grid">
-    <a href="https://spatialdds.org/" class="cta-card">
+    <a href="https://spatialdds.org/" target="_blank" rel="noopener noreferrer" class="cta-card">
         <h3>SpatialDDS (2026)</h3>
         <p>A protocol specification for real-world spatial computing — defining how spatial data is discovered, distributed, and synchronized across devices and services.</p>
     </a>
@@ -85,7 +85,7 @@ Client implementations support XR headsets, mobile platforms, robotics, and more
 - **Reality Modeling** - Support for BIM, IoT, GIS, USD, glTF, and 3D tiles
 - **Edge-Optimized Rendering** - 5G-enabled cloud rendering at the edge
 - **[OpenVPS](https://openarcloud.org/initiatives/openvps/)** - Open Visual Positioning System for camera-based localization
-- **[SpatialDDS](https://spatialdds.org/)** - Protocol specification for real-world spatial computing
+- **<a href="https://spatialdds.org/" target="_blank" rel="noopener noreferrer">SpatialDDS</a>** - Protocol specification for real-world spatial computing
 
 <div class="stats-grid">
     <div class="stat">

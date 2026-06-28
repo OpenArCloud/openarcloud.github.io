@@ -47,13 +47,13 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
 
 **2024** - OSCP 3.0 released with full edge computing support and 5G optimization
 
-**2025** - Championed the Open Spatial Web through strategic [interoperability demonstrations](https://youtu.be/DhfwDuQEVL8?si=Ok-BkFMWVV5CdYrg) with W3C and the Khronos Group
+**2025** - Championed the Open Spatial Web through strategic <a href="https://youtu.be/DhfwDuQEVL8?si=Ok-BkFMWVV5CdYrg" target="_blank" rel="noopener noreferrer">interoperability demonstrations</a> with W3C and the Khronos Group
 
 **2025** - Delivered the world's first open-source Visual Positioning Service ([OpenVPS](https://openarcloud.org/initiatives/openvps/)) reference implementation built in partnership with Nokia Bell Labs to enable self-hosted, GeoPose-compliant localization
 
-**2025** - Co-hosted the [GeoPose Summit](https://metaverse-standards.org/event/geopose-summit-2025/) in Denver to align industry stakeholders on the universal addressing system for the physical world
+**2025** - Co-hosted the <a href="https://metaverse-standards.org/event/geopose-summit-2025/" target="_blank" rel="noopener noreferrer">GeoPose Summit</a> in Denver to align industry stakeholders on the universal addressing system for the physical world
 
-**2026** - Introduced [SpatialDDS](https://spatialdds.org/), a new protocol specification defining how spatial data is discovered, distributed, and synchronized
+**2026** - Introduced <a href="https://spatialdds.org/" target="_blank" rel="noopener noreferrer">SpatialDDS</a>, a new protocol specification defining how spatial data is discovered, distributed, and synchronized
 
 ### Achievements
 
