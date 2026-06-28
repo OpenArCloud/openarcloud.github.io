@@ -46,7 +46,7 @@ OpenVPS is a batteries-included research and deployment foundation not a managed
 
 <div style="margin: 32px 0;">
     <img src="/img/sparcl_teaser.png" alt="spARcl reference client showing geometry primitives, 3D models, points of interest, context-aware content, and robot geopose streams" style="width: 100%; border-radius: 10px;">
-    <p style="margin-top: 12px; font-size: 0.92rem; color: var(--muted, #4b5563);">The <a href="https://github.com/openArCloud/sparcl" style="color: var(--teal); font-weight: 600;">spARcl spatial browser</a> is the reference client for OpenVPS, demonstrating geometry primitives, 3D models, points of interest, context-aware content, and robot geopose streams.</p>
+    <p style="margin-top: 12px; font-size: 0.92rem; color: var(--muted, #4b5563);">The <a href="https://github.com/openArCloud/sparcl" target="_blank" rel="noopener noreferrer" style="color: var(--teal); font-weight: 600;">spARcl spatial browser</a> is the reference client for OpenVPS, demonstrating geometry primitives, 3D models, points of interest, context-aware content, and robot geopose streams.</p>
 </div>
 
 ## How It Works
@@ -58,11 +58,11 @@ OpenVPS is a batteries-included research and deployment foundation not a managed
 
 ## Origin Story
 
-### Phase 1 [Aurora Viewer](https://www.auroraviewer.org/), NGI Atlantic (2022)
+### Phase 1 <a href="https://www.auroraviewer.org/" target="_blank" rel="noopener noreferrer">Aurora Viewer</a>, NGI Atlantic (2022)
 
 Open AR Cloud Europe, George Mason University, 3DInteractive, and COSMOS Lab demonstrated the first open-source VPS reference deployment on a 5G testbed. That phase proved the OSCP concept end-to-end.
 
-### Phase 2 [OSCAR4US](https://www.oscar4us.eu/), NGI Search (2024–2025)
+### Phase 2 <a href="https://www.oscar4us.eu/" target="_blank" rel="noopener noreferrer">OSCAR4US</a>, NGI Search (2024–2025)
 
 Nokia Bell Labs built the current OpenVPS stack for OARC Europe, including MapBuilder, MapAligner, MapLocalizer, and the GeoPoseProtocol compliance layer. That phase turned the proof of concept into an experimental testbed for anyone interested in location-based augmented reality.
 
@@ -111,7 +111,7 @@ OpenVPS fits into the broader open spatial web stack:
 
 Just as the web needed standards, protocols, services, discovery, and browsers, the spatial web needs the same layered model. OpenVPS is the localization backbone in that stack.
 
-The full source code is available on [GitHub](https://github.com/openArCloud/openvps).
+The full source code is available on <a href="https://github.com/openArCloud/openvps" target="_blank" rel="noopener noreferrer">GitHub</a>.
 
 ---
 
