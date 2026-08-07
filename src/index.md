@@ -23,17 +23,17 @@ title: Open Spatial Computing Platform
         <h3>SpatialDDS (2026)</h3>
         <p>A protocol specification for real-world spatial computing — defining how spatial data is discovered, distributed, and synchronized across devices and services.</p>
     </a>
-    <a href="/oscp/ubicomp/" class="cta-card">
-        <h3>UbiComp ISWC 2025 Tutorial (2025)</h3>
-        <p>Building interoperable location-based AR with the Open AR Cloud. Presentation decks, code, and session recordings from Aalto University, Helsinki.</p>
+    <a href="/oscp/w3c/" class="cta-card">
+        <h3>W3C Immersive Web Demo (2025)</h3>
+        <p>GeoPose & POI interoperability demos at the W3C Immersive Web Face-to-Face event on Google Campus, Mountain View.</p>
     </a>
     <a href="https://openarcloud.org/initiatives/openvps/" class="cta-card">
         <h3>OpenVPS (2025)</h3>
         <p>Open Visual Positioning System — camera-based localization for AR applications, providing open source tools for visual positioning and mapping.</p>
     </a>
-    <a href="/oscp/w3c/" class="cta-card">
-        <h3>W3C Immersive Web Demo (2025)</h3>
-        <p>GeoPose & POI interoperability demos at the W3C Immersive Web Face-to-Face event on Google Campus, Mountain View.</p>
+    <a href="/oscp/ubicomp/" class="cta-card">
+        <h3>UbiComp ISWC 2025 Tutorial (2025)</h3>
+        <p>Building interoperable location-based AR with the Open AR Cloud. Presentation decks, code, and session recordings from Aalto University, Helsinki.</p>
     </a>
     <a href="/oscp/montreal-demo/" class="cta-card">
         <h3>POI Interoperability Demo — Montreal (2024)</h3>
