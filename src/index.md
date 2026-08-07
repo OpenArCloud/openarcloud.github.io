@@ -48,7 +48,7 @@ title: Open Spatial Computing Platform
 ## Get Started with OSCP
 
 <div class="cta-grid">
-    <a href="/github/" class="cta-card">
+    <a href="/platform/" class="cta-card">
         <h3>📦 Explore GitHub Repos</h3>
         <p>Access open source implementations of all OSCP services, ready for deployment on edge infrastructure.</p>
     </a>
