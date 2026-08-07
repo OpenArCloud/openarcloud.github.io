@@ -16,14 +16,6 @@ title: UbiComp ISWC 2025 Tutorial
 
 *The schedule is planned for 3.5 hours (including a coffee break) with the following sessions.*
 
-## Missed the Tutorial Session?
-
-Access the presentation decks, all the code, and example videos through:
-
-<!-- TODO: The original "Tutorial Slides" link was malformed (https://All the code is available at https://github.com/OpenArCloud). Using GitHub org link as placeholder until correct slides URL is provided. -->
-- [Tutorial Slides & Code](https://github.com/OpenArCloud)
-- [YouTube Channel](https://www.youtube.com/@openarcloud251)
-
 ## Tutorial Abstract
 
 This tutorial provides an overview of location-based augmented reality (AR), the AR cloud, and the spatial Web. We present the required technological building blocks, use cases, the ecosystem, and challenges related to the lack of interoperability between proprietary solutions.
