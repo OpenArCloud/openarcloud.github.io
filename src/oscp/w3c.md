@@ -11,6 +11,10 @@ title: GeoPose & POI Demos at W3C Immersive Web
     <p style="margin-bottom: 0;">In front of Building 43 — 1612 Charleston Rd, Mountain View, CA 94043</p>
 </div>
 
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/DhfwDuQEVL8?si=Ozqky4JUzHA1Iu_x" title="OSCP Interoperability Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Purpose of the Demonstrations
 
 These demos show how different Augmented Reality Clients are able to visualize geospatially-anchored content and leverage an existing open standard ([OGC GeoPose 1.0 Data Exchange Standard](https://docs.ogc.org/is/21-056r11/21-056r11.html)) together with another open standard ([OGC Points of Interest (POI) Conceptual Model Standard](https://htmlpreview.github.io/?https://github.com/opengeospatial/poi/blob/main/21-049/21-049.html)). This requires implementations both on the client- and server-side. Both clients ask for a GeoPose estimate from an OSCP GeoPose Service. And there is a POI content provider service (for the POIs), as well as a different OSCP Content discovery service for 3D objects anchored to the world with GeoPose.
