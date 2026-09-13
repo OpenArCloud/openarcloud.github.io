@@ -185,6 +185,7 @@ The organizer team consists of experts with diverse backgrounds from augmented r
 </div>
 
 <div class="team-member">
+    <img src="/img/headshots/Michela_di_Vietro.png" alt="Michela di Vietro">
     <div class="team-member-info">
         <strong><a href="https://www.linkedin.com/in/michela-di-vietro-78ba69ab" class="linkedin-link">Michela di Vietro</a></strong>
         <p>Michela received a degree in Electronic Engineering from the Polytechnic University of Bari and conducted research at the National Research Council of Italy, where she worked on optoelectronic sensing systems and early vision-based signal processing, establishing an initial foundation in computational imaging and sensor-driven perception. This early research trajectory naturally evolved toward computer vision, Visual Positioning Systems (VPS), and spatial computing.</p>
