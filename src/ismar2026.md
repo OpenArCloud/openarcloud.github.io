@@ -1,66 +1,213 @@
 ---
 layout: layouts/base.njk
-title: About OARC
+title: ISMAR 2026 Tutorial
 ---
 
-# About Open AR Cloud
+<div class="hero-section">
+    <div class="eyebrow">IEEE ISMAR 2026 • Bari, Italy</div>
+    <h1 class="hero-title">Building Interoperable Location-Based Augmented Reality with the Open AR Cloud</h1>
+    <div class="hero-subtitle">Half-Day Tutorial</div>
+    <p class="hero-description"><strong>October 5, 2026 • 08:15–12:00</strong><br>The Nicolaus Hotel, Sezione 6+7<br>Bari, Italy</p>
+    <div style="margin-top: 8px;">
+        <a href="https://www.ieeeismar.net/2026/" target="_blank" rel="noopener noreferrer" class="primary-button">ISMAR 2026 Conference →</a>
+    </div>
+</div>
 
-## Mission
+## About the Tutorial
 
-Open AR Cloud's mission is to drive the development of open and interoperable spatial computing technology, data and standards to connect the physical and digital worlds for the benefit of all.
+In this half-day tutorial session, participants can gain knowledge about the technology stack of a spatial web platform for open and interoperable publishing, discovery and consumption of content anchored to digital twins of physical locations.
 
-## Vision
+Participants will be given a toolset and sample projects from which they can build their own location-based AR experiences.
 
-We envision a future where spatial computing seamlessly integrates with everyday life, where digital information enhances physical spaces, and where open standards ensure that no single entity controls how we experience augmented reality. The Open Spatial Computing Platform represents our commitment to building this future collaboratively, transparently, and inclusively.
+<div class="tag-pills">
+    <span class="tag-pill">Open Spatial Computing</span>
+    <span class="tag-pill">GeoPose</span>
+    <span class="tag-pill">Visual Positioning</span>
+    <span class="tag-pill">Spatial Discovery</span>
+    <span class="tag-pill">WebXR</span>
+    <span class="tag-pill">Interoperability</span>
+    <span class="tag-pill">Location-Based AR</span>
+</div>
 
-## How We Achieve Our Goals
+## Event Information
 
-### Open Standards Development
-We collaborate with industry leaders, researchers, and developers to create and maintain open protocols that ensure interoperability across platforms and devices.
+<div class="event-info-grid">
+    <div class="event-info-item">
+        <div class="label">Date</div>
+        <div class="value">October 5, 2026</div>
+    </div>
+    <div class="event-info-item">
+        <div class="label">Time</div>
+        <div class="value">08:15–12:00</div>
+    </div>
+    <div class="event-info-item">
+        <div class="label">Venue</div>
+        <div class="value">The Nicolaus Hotel<br>Sezione 6+7</div>
+    </div>
+    <div class="event-info-item">
+        <div class="label">Location</div>
+        <div class="value">Bari, Italy</div>
+    </div>
+    <div class="event-info-item">
+        <div class="label">Event</div>
+        <div class="value"><a href="https://www.ieeeismar.net/2026/overview/" target="_blank" rel="noopener noreferrer">IEEE ISMAR 2026</a></div>
+    </div>
+</div>
 
-### Open Source Implementation
-Every standard we develop has a corresponding open source reference implementation, ensuring that our vision is accessible to all and can be validated in practice.
+## Schedule
 
-### Community Collaboration
-Through working groups, forums, and collaborative development, we bring together diverse perspectives to solve the complex challenges of spatial computing.
+**Half-Day Tutorial • October 5, 2026**
 
-### Edge-First Architecture
-We prioritize decentralized, edge-based solutions that respect user privacy, reduce latency, and enable true ownership of spatial data.
+<div class="schedule-list">
+    <div class="schedule-item">
+        <div class="schedule-time">08:15</div>
+        <div>
+            <div class="schedule-title">Welcome &amp; Introduction</div>
+            <div class="schedule-speakers">Ali Hantal, Mikel Salazar, Michela di Vietro, Katherina Ufnarovskaia, Gábor Sörös</div>
+        </div>
+    </div>
+    <div class="schedule-item">
+        <div class="schedule-time">08:20</div>
+        <div>
+            <div class="schedule-title">Spatial Web Basics</div>
+            <div class="schedule-speakers">Jan-Erik Vinje, Ali Hantal</div>
+        </div>
+    </div>
+    <div class="schedule-item">
+        <div class="schedule-time">08:35</div>
+        <div>
+            <div class="schedule-title">The Open Spatial Computing Platform</div>
+            <div class="schedule-speakers">Gábor Sörös, Ali Hantal</div>
+        </div>
+    </div>
+    <div class="schedule-item">
+        <div class="schedule-time">08:45</div>
+        <div>
+            <div class="schedule-title">GeoPose</div>
+            <div class="schedule-speakers">Mikel Salazar</div>
+        </div>
+    </div>
+    <div class="schedule-item">
+        <div class="schedule-time">09:00</div>
+        <div>
+            <div class="schedule-title">Visual Positioning</div>
+            <div class="schedule-speakers">Gábor Sörös, Michela di Vietro</div>
+        </div>
+    </div>
+    <div class="schedule-item">
+        <div class="schedule-time">09:15</div>
+        <div>
+            <div class="schedule-title">Augmented City</div>
+            <div class="schedule-speakers">Katherina Ufnarovskaia</div>
+        </div>
+    </div>
+    <div class="schedule-item">
+        <div class="schedule-time">09:30</div>
+        <div>
+            <div class="schedule-title">Immersal</div>
+            <div class="schedule-speakers">Mikko Karvonen</div>
+        </div>
+    </div>
+    <div class="schedule-item is-break">
+        <div class="schedule-time">09:45</div>
+        <div>
+            <div class="schedule-title">Coffee Break &amp; Demos</div>
+        </div>
+    </div>
+    <div class="schedule-item">
+        <div class="schedule-time">10:30</div>
+        <div>
+            <div class="schedule-title">OpenVPS</div>
+            <div class="schedule-speakers">Gábor Sörös</div>
+        </div>
+    </div>
+    <div class="schedule-item">
+        <div class="schedule-time">10:45</div>
+        <div>
+            <div class="schedule-title">Globe Viewer and POI Service</div>
+            <div class="schedule-speakers">Gábor Sörös</div>
+        </div>
+    </div>
+    <div class="schedule-item">
+        <div class="schedule-time">10:55</div>
+        <div>
+            <div class="schedule-title">WebXR Client Application</div>
+            <div class="schedule-speakers">Gábor Sörös</div>
+        </div>
+    </div>
+    <div class="schedule-item">
+        <div class="schedule-time">11:05</div>
+        <div>
+            <div class="schedule-title">MyGeoVerse</div>
+            <div class="schedule-speakers">Ali Hantal</div>
+        </div>
+    </div>
+    <div class="schedule-item">
+        <div class="schedule-time">11:20</div>
+        <div>
+            <div class="schedule-title">Reality Modeling</div>
+            <div class="schedule-speakers">Mikel Salazar</div>
+        </div>
+    </div>
+    <div class="schedule-item">
+        <div class="schedule-time">11:35</div>
+        <div>
+            <div class="schedule-title">SpatialDDS</div>
+            <div class="schedule-speakers">James Jackson</div>
+        </div>
+    </div>
+    <div class="schedule-item">
+        <div class="schedule-time">11:50</div>
+        <div>
+            <div class="schedule-title">Outlook and Wrap-Up</div>
+            <div class="schedule-speakers">All Presenters</div>
+        </div>
+    </div>
+    <div class="schedule-item">
+        <div class="schedule-time">12:00</div>
+        <div>
+            <div class="schedule-title">Demos (Optional)</div>
+            <div class="schedule-speakers">All Presenters</div>
+        </div>
+    </div>
+</div>
 
-## History & Track Record
+## Presenters
 
-### Key Milestones
-
-**2020** - Open AR Cloud Association founded with initial focus on spatial computing standards
-
-**2021** - GeoPose 1.0 standard released, providing universal positioning for AR
-
-**2022** - First OSCP testbeds launched in partnership with universities and cities
-
-**2023** - Spatial Content Discovery protocol ratified, enabling decentralized content networks
-
-**2024** - OSCP 3.0 released with full edge computing support and 5G optimization
-
-### Achievements
-
-- **300+ Members** from academia, industry, and government
-- **60+ Partner Organizations** implementing OSCP standards
-- **4 Active Testbeds** validating real-world deployments
-- **15+ Open Source Projects** providing reference implementations
-
-## Team
-
-### Executive Leadership
+The organizer team consists of experts with diverse backgrounds from augmented reality, virtual reality, telecommunications, arts, and communications involved in industry and academia.
 
 <div class="team-member">
-    <img src="/img/headshots/Jan-Erik_Vinje.png" alt="Jan-Erik Vinje">
+    <img src="/img/headshots/Gabor_Soros.png" alt="Gábor Sörös">
     <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/janerikvinje/" class="linkedin-link">Jan-Erik Vinje</a></strong>
-        <ul>
-            <li>Executive Co-Director, Open AR Cloud</li>
-            <li>CEO, OnSiteViewer</li>
-            <li>Co-Chair, GeoPose SWG, OGC</li>
-        </ul>
+        <strong><a href="https://www.linkedin.com/in/gaborsoros" class="linkedin-link">Gábor Sörös</a></strong>
+        <p>Gábor is a Research Scientist at Nokia Bell Labs (Budapest, Hungary). His research interests span from wearable computer vision and spatial AI over augmented humans, augmented reality, and augmented intelligence in general, often with applications in interaction with robots and smart things. Gábor is a board member and technology lead in the Open AR Cloud EU association, where he focuses on visual positioning systems for augmented reality, and he has been instrumental in the development of the Open Spatial Computing Platform (OSCP). He is also engaged in standardization at ETSI and the Metaverse Standards Forum. Gábor holds a PhD from ETH Zurich in ubiquitous computing and he is also an early contributor to 3 successful AR startups of ETH Zurich.</p>
+    </div>
+</div>
+
+<div class="team-member">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/michela-di-vietro-78ba69ab" class="linkedin-link">Michela di Vietro</a></strong>
+        <p>Michela received a degree in Electronic Engineering from the Polytechnic University of Bari and conducted research at the National Research Council of Italy, where she worked on optoelectronic sensing systems and early vision-based signal processing, establishing an initial foundation in computational imaging and sensor-driven perception. This early research trajectory naturally evolved toward computer vision, Visual Positioning Systems (VPS), and spatial computing.</p>
+        <p>She is currently Technical Project Lead at Augmented City S.R.L., where she leads the development of large-scale augmented reality cloud infrastructures for urban digital twins and cultural heritage enhancement. She contributed to the mapping of the entire city of Bari as a large-scale testbed for the Open AR Cloud ecosystem, supporting research on persistent city-scale augmented reality.</p>
+    </div>
+</div>
+
+<div class="team-member">
+    <img src="/img/headshots/James_Jackson.png" alt="James Jackson">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/james-jackson-b031b2" class="linkedin-link">James Jackson</a></strong>
+        <p>James is a Member of Technical Staff at AT&amp;T Labs (Austin, TX, USA), Director of Technology and board member at Open AR Cloud, and co-chair of the Spatial Computing Working Group at the Metaverse Standards Forum. He has worked in telecom for the past 25 years building large-scale real-time distributed systems and promoting innovation.</p>
+        <p>James is especially interested in applications of spatial intelligence that improve society such as self-driving cars and an open interoperable Spatial Web. James received a BSEE from the University of Texas at Austin, and an MSCS from Georgia Tech.</p>
+    </div>
+</div>
+
+<div class="team-member">
+    <img src="/img/headshots/Mikel_Salazar.png" alt="Mikel Salazar">
+    <div class="team-member-info">
+        <strong><a href="https://www.linkedin.com/in/mikelsalazargonzalez" class="linkedin-link">Mikel Salazar</a></strong>
+        <p>Mikel is a Human-Computer Interaction researcher focused on the development of advanced 3D User Interfaces for Extended Reality systems. Currently, he is working at Augmented Interaction (Bilbao, Spain).</p>
+        <p>As the main developer of the Reality Modeling project, one of the first open-source web-based geospatial browser engines to integrate with an Open Spatial Computing Platform (OSCP), Mikel focuses on bridging the gap between research-grade tools and practical AR applications.</p>
+        <p>Mikel holds a PhD from the University of the Basque Country (Spain) and is a Senior Research Scientist at Open AR Cloud.</p>
     </div>
 </div>
 
@@ -68,199 +215,36 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
     <img src="/img/headshots/Ali_Hantal.png" alt="Ali C. Hantal">
     <div class="team-member-info">
         <strong><a href="https://www.linkedin.com/in/ahantal/" class="linkedin-link">Ali C. Hantal</a></strong>
-        <ul>
-            <li>Executive Co-Director, Open AR Cloud</li>
-            <li>CEO, XR Masters</li>
-            <li>Chief Adoption Officer, GeoPose SWG, OGC</li>
-            <li>Leader, Forum Labs Initiative, MSF</li>
-        </ul>
+        <p>Ali is a serial entrepreneur and advocate for open standards and interoperability in spatial computing. He is the Founder and CEO of XR Masters, Co-President of the Open AR Cloud Association, and Chief Adoption Officer for the GeoPose Standards Working Group at the Open Geospatial Consortium (OGC).</p>
+        <p>His work focuses on advancing geospatial AI, XR, and spatial computing through open standards and cross-platform collaboration. XR Masters is the developer of MyGeoVerse, a spatial computing platform for persistent AR content and location-aware AI agents, including the demonstration of interoperable content placement between a Unity client (MyGeoVerse by XR Masters) and a WebXR client (spARcl by OARC).</p>
+        <p>Ali holds an MBA from the University of Baltimore and a BBA from Boğaziçi University in Istanbul.</p>
     </div>
 </div>
 
-### Directors
+## Invited Speakers
 
-<div class="team-member">
-    <img src="/img/headshots/Colin_Steinmann.png" alt="Colin Steinmann">
-    <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/colinsteinmann/" class="linkedin-link">Colin Steinmann</a></strong>
-        <ul>
-            <li>Director of Operations, Open AR Cloud</li>
-            <li>Chief Technical Officer, 6DoF Research</li>
-        </ul>
+<div class="speakers-grid-compact">
+    <div class="speaker-card-compact">
+        <strong><a href="https://www.linkedin.com/in/janerikvinje/" class="linkedin-link">Jan-Erik Vinje</a></strong>
+        <p>Co-President of the Open AR Cloud Association</p>
+    </div>
+    <div class="speaker-card-compact">
+        <strong><a href="https://www.linkedin.com/in/katherina-ufnarovskaia-69273b240/" class="linkedin-link">Katherina Ufnarovskaia</a></strong>
+        <p>CEO, Augmented City</p>
+    </div>
+    <div class="speaker-card-compact">
+        <strong><a href="https://www.linkedin.com/in/crankshaft/" class="linkedin-link">Mikko Karvonen</a></strong>
+        <p>CPO and Co-Founder, Immersal</p>
     </div>
 </div>
 
-<div class="team-member">
-    <img src="/img/headshots/James_Jackson.png" alt="James Jackson">
-    <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/james-jackson-b031b2/" class="linkedin-link">James Jackson</a></strong>
-        <ul>
-            <li>Director of Technology, Open AR Cloud</li>
-            <li>Expert Member Of Technical Staff, AT&T Labs</li>
-            <li>Co-Chair, Real/Virtual World Integration WG, MSF</li>
-        </ul>
-    </div>
-</div>
+## Building the Open Spatial Web Together
 
-<div class="team-member">
-    <img src="/img/headshots/Alina_Kadlubsky.png" alt="Alina Kadlubsky">
-    <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/alina-kadlubsky-7133b2142/" class="linkedin-link">Alina Kadlubsky</a></strong>
-        <ul>
-            <li>Managing Director, Open AR Cloud Europe</li>
-            <li>Research Associate, Hochschule Mittweida</li>
-        </ul>
-    </div>
-</div>
+The tutorial demonstrates how open standards, open-source technologies, and interoperable platforms can enable location-based spatial experiences that work across different technologies and ecosystems.
 
-<div class="team-member">
-    <img src="/img/headshots/Christine_Perey.png" alt="Christine Perey">
-    <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/christineperey/" class="linkedin-link">Christine Perey</a></strong>
-        <ul>
-            <li>Founding Governing Board Member, Open AR Cloud</li>
-            <li>Director, Perey Research</li>
-            <li>Founder, Board Member, AREA</li>
-            <li>Secretary and Board Member, MSF</li>
-        </ul>
-    </div>
-</div>
-
-<div class="team-member">
-    <img src="/img/headshots/Michael_N_Louka.png" alt="Michael N. Louka">
-    <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/mlouka/" class="linkedin-link">Michael N. Louka</a></strong>
-        <ul>
-            <li>Founding Governing Board Member, Open AR Cloud</li>
-            <li>Director Head of Department of VR/AR at IFE Digital Systems</li>
-        </ul>
-    </div>
-</div>
-
-### Honorary Board Members
-
-<div class="team-member">
-    <img src="/img/headshots/Ori_Inbar.png" alt="Ori Inbar">
-    <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/oriinbar/" class="linkedin-link">Ori Inbar</a></strong>
-        <ul>
-            <li>Founding Honorary Board Member, Open AR Cloud</li>
-            <li>Co-founder and CEO, AWE</li>
-            <li>Founder and Managing Director, Super Ventures</li>
-        </ul>
-    </div>
-</div>
-
-### Team Members
-
-<div class="team-member">
-    <img src="/img/headshots/Gabor_Soros.png" alt="Gabor Soros">
-    <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/gaborsoros/" class="linkedin-link">Gabor Soros</a></strong>
-        <ul>
-            <li>Senior Research Scientist, Open AR Cloud</li>
-            <li>Senior Research Scientist, Nokia Bell Labs (Budapest, Hungary)</li>
-            <li>Contributor, GeoPose SWG, OGC</li>
-        </ul>
-    </div>
-</div>
-
-<div class="team-member">
-    <img src="/img/headshots/Mikel_Salazar.png" alt="Mikel Salazar">
-    <div class="team-member-info">
-        <strong><a href="https://www.linkedin.com/in/mikelsalazargonzalez/" class="linkedin-link">Mikel Salazar</a></strong>
-        <ul>
-            <li>Senior Research Scientist, Open AR Cloud</li>
-            <li>CEO, Augmented Interaction</li>
-            <li>University Lecturer, Centro San Luis</li>
-            <li>Contributor, GeoPose SWG, OGC</li>
-        </ul>
-    </div>
-</div>
-
-## Organization Structure
-
-### Volunteer-Run Organization
-Open AR Cloud Association is a volunteer-run organization, driven by passionate contributors who believe in the power of open standards for spatial computing. Our community-first approach ensures that our work remains focused on advancing the industry rather than generating profits.
-
-### Governance
-- Member-driven organization
-- Transparent decision-making processes
-- Open participation in working groups
-- Published meeting minutes and decisions
-
-### Funding Model
-- Member dues and sponsorships
-- Research grants
-- Community contributions
-- No venture capital or corporate control
-
-## Our Values
-
-### Openness
-All our work is conducted in the open, with public repositories, open meetings, and transparent processes.
-
-### Interoperability
-We believe spatial computing should work across all platforms, devices, and ecosystems without artificial barriers.
-
-### Privacy by Design
-User privacy and data sovereignty are fundamental principles in all our technical decisions.
-
-### Accessibility
-Spatial computing should be available to everyone, regardless of economic status, geography, or technical expertise.
-
-### Sustainability
-We design for long-term viability, both environmentally and economically.
-
-## Get Involved
-
-Join us in building the open future of spatial computing:
+Participants interested in contributing, developing integrations, establishing testbeds, or collaborating with the Open AR Cloud community are invited to connect with us.
 
 <div style="text-align: center; margin: 40px 0;">
-    <a href="https://ko-fi.com/openarcloud" target="_blank" class="primary-button">Become a Member →</a>
-    <a href="https://github.com/OpenARCloud" target="_blank" class="secondary-button" style="margin-left: 20px;">Contribute Code →</a>
-</div>
-
-<h2 id="contact">Contact</h2>
-
-We're here to help with your questions about OSCP, membership, technical implementation, or partnership opportunities.
-
-### General Inquiries
-
-**Email**: [info@openarcloud.org](mailto:info@openarcloud.org)
-
-**Response Time**: We typically respond within 1-2 business days
-
-### Connect With Our Community
-
-#### GitHub
-[github.com/OpenARCloud](https://github.com/OpenARCloud)
-- Report issues
-- Contribute code
-- Join discussions
-
-#### Social Media
-- **Twitter**: [@OpenARCloud](https://x.com/openarcloud)
-- **LinkedIn**: [OpenARCloud](https://www.linkedin.com/company/openarcloud)
-- **YouTube**: [OpenARCloud](https://www.youtube.com/@openarcloud)
-- **Medium**: [OpenARCloud Blog](https://medium.com/openarcloud)
-
-### FAQ
-
-#### How quickly will I receive a response?
-We aim to respond to all inquiries within 1-2 business days. Technical questions may take slightly longer if they require research or consultation with working groups.
-
-#### Can I schedule a call to discuss OSCP?
-Yes! Email us at info@openarcloud.org to schedule a consultation call.
-
-#### How do I report a bug in an OSCP implementation?
-Please report bugs directly on the relevant GitHub repository's issue tracker. This ensures the maintainers see it immediately.
-
-#### Where can I find technical documentation?
-Technical documentation is available in each GitHub repository and will be consolidated on this website soon.
-
-### Contact Form
-
-<div class="form-container form-container-short">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfdRL9GGZEVZU2qUKvzQ72cptWOipq8vx4TJzSbpKu5WYMY_w/viewform?embedded=true" width="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    <a href="/platform/" class="primary-button">Explore OSCP →</a>
+    <a href="https://ko-fi.com/openarcloud" target="_blank" rel="noopener noreferrer" class="secondary-button" style="margin-left: 20px;">Join Open AR Cloud →</a>
 </div>
