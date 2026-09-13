@@ -958,6 +958,184 @@ ol {
     color: var(--neutral-700);
 }
 
+/* Eyebrow label above a hero title */
+.eyebrow {
+    font-family: 'SF Mono', 'Monaco', 'Inconsolata', monospace;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent-cyan-dark);
+    margin-bottom: 12px;
+}
+
+/* Concept tag pills */
+.tag-pills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin: 28px 0;
+}
+
+.tag-pill {
+    display: inline-block;
+    padding: 8px 16px;
+    background: rgba(139, 92, 246, 0.08);
+    border: 1px solid rgba(139, 92, 246, 0.25);
+    border-radius: 999px;
+    color: var(--primary-violet-dark);
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+/* Event info grid */
+.event-info-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    gap: 20px;
+    margin: 40px 0;
+}
+
+.event-info-item {
+    background: white;
+    border: 1px solid rgba(139, 92, 246, 0.1);
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+}
+
+.event-info-item .label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--neutral-500);
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.event-info-item .value {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--neutral-900);
+    line-height: 1.4;
+}
+
+.event-info-item .value a {
+    color: var(--primary-violet);
+    text-decoration: none;
+}
+
+.event-info-item .value a:hover {
+    text-decoration: underline;
+}
+
+/* Schedule timeline */
+.schedule-list {
+    margin: 40px 0;
+    border-left: 2px solid rgba(139, 92, 246, 0.2);
+}
+
+.schedule-item {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    gap: 20px;
+    padding: 16px 0 16px 24px;
+    margin-left: -2px;
+    border-left: 2px solid transparent;
+    position: relative;
+    border-bottom: 1px solid var(--neutral-100);
+}
+
+.schedule-item::before {
+    content: '';
+    position: absolute;
+    left: -7px;
+    top: 22px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--primary-violet);
+    border: 2px solid white;
+    box-shadow: 0 0 0 2px rgba(139, 92, 246, 0.25);
+}
+
+.schedule-time {
+    font-family: 'SF Mono', 'Monaco', 'Inconsolata', monospace;
+    font-weight: 700;
+    color: var(--accent-cyan-dark);
+    font-size: 0.95rem;
+    padding-top: 2px;
+}
+
+.schedule-title {
+    font-weight: 700;
+    color: var(--neutral-900);
+    margin-bottom: 4px;
+}
+
+.schedule-speakers {
+    color: var(--neutral-600);
+    font-size: 0.9rem;
+}
+
+.schedule-item.is-break {
+    background: rgba(6, 182, 212, 0.06);
+    border-radius: 8px;
+}
+
+.schedule-item.is-break::before {
+    background: var(--accent-cyan);
+    box-shadow: 0 0 0 2px rgba(6, 182, 212, 0.25);
+}
+
+.schedule-item.is-break .schedule-title {
+    color: var(--accent-cyan-dark);
+}
+
+@media (max-width: 600px) {
+    .schedule-item {
+        grid-template-columns: 1fr;
+        gap: 2px;
+    }
+}
+
+/* Compact speaker cards (invited speakers) */
+.speakers-grid-compact {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+    margin: 32px 0;
+}
+
+.speaker-card-compact {
+    background: white;
+    border: 1px solid rgba(139, 92, 246, 0.1);
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+}
+
+.speaker-card-compact strong {
+    display: block;
+    color: var(--neutral-900);
+    margin-bottom: 4px;
+}
+
+.speaker-card-compact p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: var(--neutral-600);
+}
+
+/* Presenter bio paragraph inside a team-member card */
+.team-member-info p {
+    font-size: 0.92rem;
+    color: var(--neutral-700);
+    margin: 8px 0 0 0;
+    line-height: 1.65;
+}
+
 /* Print styles */
 @media print {
     body::before,
