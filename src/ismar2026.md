@@ -172,7 +172,7 @@ Participants will be given a toolset and sample projects from which they can bui
     </div>
 </div>
 
-## Presenters
+## Organizers
 
 The organizer team consists of experts with diverse backgrounds from augmented reality, virtual reality, telecommunications, arts, and communications involved in industry and academia.
 
