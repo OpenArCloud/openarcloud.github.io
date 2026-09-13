@@ -226,14 +226,17 @@ The organizer team consists of experts with diverse backgrounds from augmented r
 
 <div class="speakers-grid-compact">
     <div class="speaker-card-compact">
+        <img src="/img/headshots/Jan-Erik_Vinje.png" alt="Jan-Erik Vinje">
         <strong><a href="https://www.linkedin.com/in/janerikvinje/" class="linkedin-link">Jan-Erik Vinje</a></strong>
         <p>Co-President of the Open AR Cloud Association</p>
     </div>
     <div class="speaker-card-compact">
+        <img src="/img/headshots/Katherina_Ufnarovskaia.png" alt="Katherina Ufnarovskaia">
         <strong><a href="https://www.linkedin.com/in/katherina-ufnarovskaia-69273b240/" class="linkedin-link">Katherina Ufnarovskaia</a></strong>
         <p>CEO, Augmented City</p>
     </div>
     <div class="speaker-card-compact">
+        <img src="/img/headshots/Mikko_Karvonen.png" alt="Mikko Karvonen">
         <strong><a href="https://www.linkedin.com/in/crankshaft/" class="linkedin-link">Mikko Karvonen</a></strong>
         <p>CPO and Co-Founder, Immersal</p>
     </div>
