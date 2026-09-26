@@ -11,6 +11,12 @@ A record of Open AR Cloud's projects, research, publications, and media presence
 
 <div class="projects-grid">
 
+<a href="/oscp/ismar2026/" class="project-card">
+<h3>IEEE ISMAR 2026 Tutorial - Bari (2026)</h3>
+<p>Building Interoperable Location-Based Augmented Reality with the Open AR Cloud</p>
+<p><strong>October 2026</strong></p>
+</a>
+
 <a href="https://spatialdds.org/" target="_blank" rel="noopener noreferrer" class="project-card">
 <h3>SpatialDDS</h3>
 <p>A protocol specification for real-world spatial computing — defining how spatial data is discovered, distributed, and synchronized across devices and services.</p>
