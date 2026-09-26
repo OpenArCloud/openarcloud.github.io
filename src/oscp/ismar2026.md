@@ -27,6 +27,11 @@ Participants will be given a toolset and sample projects from which they can bui
     <span class="tag-pill">WebXR</span>
     <span class="tag-pill">Interoperability</span>
     <span class="tag-pill">Location-Based AR</span>
+    <span class="tag-pill">SpatialDDS</span>
+    <span class="tag-pill">OpenVPS</span>
+    <span class="tag-pill">OSCP</span>
+    <span class="tag-pill">Location-aware AI Agents</span>
+    <span class="tag-pill">Reality Modeling</span>
 </div>
 
 ## Event Information
