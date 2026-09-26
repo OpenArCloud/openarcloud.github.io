@@ -111,7 +111,7 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
         <ul>
             <li>Director of Technology, Open AR Cloud</li>
             <li>Expert Member Of Technical Staff, AT&T Labs</li>
-            <li>Co-Chair, Real/Virtual World Integration WG, MSF</li>
+            <li>Co-Chair, Spatial Computing WG, MSF</li>
         </ul>
     </div>
 </div>
