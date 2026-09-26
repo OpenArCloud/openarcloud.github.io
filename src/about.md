@@ -254,9 +254,9 @@ We're here to help with your questions about OSCP, membership, technical impleme
 - Join discussions
 
 #### Social Media
-- **Twitter**: [@OpenARCloud](https://x.com/openarcloud)
 - **LinkedIn**: [OpenARCloud](https://www.linkedin.com/company/openarcloud)
 - **YouTube**: [OpenARCloud](https://www.youtube.com/@openarcloud)
+- **Twitter**: [@OpenARCloud](https://x.com/openarcloud)
 - **Medium**: [OpenARCloud Blog](https://medium.com/openarcloud)
 
 ### FAQ
