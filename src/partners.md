@@ -36,7 +36,7 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 <img src="/img/partners/xrmasters.png" alt="XRMasters">
 <h3>XRMasters</h3>
 <p><strong>Ali Hantal</strong>, CEO</p>
-<p>Building interoperable location-aware AI agents</p>
+<p>Building the interoperable geospatial layer of AI</p>
 </div>
 
 <div class="partner-card">
@@ -51,12 +51,6 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 <h3>Augmented.City</h3>
 <p><strong>Katherina Ufnarovsky</strong>, CEO & Co-founder</p>
 <p>AR company focused on spatial computing</p>
-</div>
-
-<div class="partner-card">
-<img src="/img/partners/MyGeoVerse.png" alt="MyGeoVerse">
-<h3>MyGeoVerse</h3>
-<p>Building the interoperable geospatial layer of AI</p>
 </div>
 
 <div class="partner-card">
@@ -293,6 +287,12 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 <h3>Moetsi</h3>
 <p><strong>Olenka Polak</strong>, Co-Founder</p>
 <p>Honored participant in open collaboration for shared virtual environments</p>
+</div>
+
+<div class="partner-card">
+<img src="/img/partners/MyGeoVerse.png" alt="MyGeoVerse">
+<h3>MyGeoVerse</h3>
+<p>Spatial Content &amp; AI Management, Built for Interoperability</p>
 </div>
 
 <div class="partner-card">
