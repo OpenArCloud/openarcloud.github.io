@@ -19,43 +19,10 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 </div>
 
 <div class="partner-card">
-<img src="/img/partners/xrmasters.png" alt="XRMasters">
-<h3>XRMasters</h3>
-<p><strong>Ali Hantal</strong>, CEO</p>
-<p>Building interoperable location-aware AI agents</p>
-</div>
-
-<div class="partner-card">
-<img src="/img/partners/augmented-city.png" alt="Augmented.City">
-<h3>Augmented.City</h3>
-<p><strong>Katherina Ufnarovsky</strong>, CEO & Co-founder</p>
-<p>AR company focused on spatial computing</p>
-</div>
-
-<div class="partner-card">
-<img src="/img/partners/ogc.png" alt="Open Geospatial Consortium">
-<h3>Open Geospatial Consortium</h3>
-<p><strong>Scott Simmons</strong>, Executive Director</p>
-<p>Developing geospatial interoperability standards for AR location consistency</p>
-</div>
-
-<div class="partner-card">
-<img src="/img/partners/ethar.png" alt="Ethar">
-<h3>Ethar Incorporated</h3>
-<p><strong>Tony Hodgson</strong>, CEO, Principal</p>
-<p>Ensures interoperability in geospatial mapping and AR content discovery</p>
-</div>
-
-<div class="partner-card">
-<img src="/img/partners/msf.png" alt="Metaverse Standards Forum">
-<h3>Metaverse Standards Forum</h3>
-<p>Industry consortium fostering interoperability standards for an open metaverse</p>
-</div>
-
-<div class="partner-card">
-<img src="/img/partners/MyGeoVerse.png" alt="MyGeoVerse">
-<h3>MyGeoVerse</h3>
-<p>Building the interoperable geospatial layer of AI</p>
+<img src="/img/partners/p-net.png" alt="P-NET">
+<h3>p-NET Emerging Networks & Vertical Applications</h3>
+<p><strong>Didoe Prevedourou</strong>, Managing Director</p>
+<p>Supporting open standards for mixed reality via 5G and edge computing</p>
 </div>
 
 <div class="partner-card">
@@ -66,10 +33,30 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 </div>
 
 <div class="partner-card">
-<img src="/img/partners/p-net.png" alt="P-NET">
-<h3>p-NET Emerging Networks & Vertical Applications</h3>
-<p><strong>Didoe Prevedourou</strong>, Managing Director</p>
-<p>Supporting open standards for mixed reality via 5G and edge computing</p>
+<img src="/img/partners/xrmasters.png" alt="XRMasters">
+<h3>XRMasters</h3>
+<p><strong>Ali Hantal</strong>, CEO</p>
+<p>Building interoperable location-aware AI agents</p>
+</div>
+
+<div class="partner-card">
+<img src="/img/partners/ethar.png" alt="Ethar">
+<h3>Ethar Incorporated</h3>
+<p><strong>Tony Hodgson</strong>, CEO, Principal</p>
+<p>Ensures interoperability in geospatial mapping and AR content discovery</p>
+</div>
+
+<div class="partner-card">
+<img src="/img/partners/augmented-city.png" alt="Augmented.City">
+<h3>Augmented.City</h3>
+<p><strong>Katherina Ufnarovsky</strong>, CEO & Co-founder</p>
+<p>AR company focused on spatial computing</p>
+</div>
+
+<div class="partner-card">
+<img src="/img/partners/MyGeoVerse.png" alt="MyGeoVerse">
+<h3>MyGeoVerse</h3>
+<p>Building the interoperable geospatial layer of AI</p>
 </div>
 
 <div class="partner-card">
@@ -77,6 +64,19 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 <h3>Immersal</h3>
 <p><strong>Mikko Karvonen</strong>, EVP Engineering</p>
 <p>Advocates for interoperable, open standards in global AR cloud development</p>
+</div>
+
+<div class="partner-card">
+<img src="/img/partners/ogc.png" alt="Open Geospatial Consortium">
+<h3>Open Geospatial Consortium</h3>
+<p><strong>Scott Simmons</strong>, Executive Director</p>
+<p>Developing geospatial interoperability standards for AR location consistency</p>
+</div>
+
+<div class="partner-card">
+<img src="/img/partners/msf.png" alt="Metaverse Standards Forum">
+<h3>Metaverse Standards Forum</h3>
+<p>Industry consortium fostering interoperability standards for an open metaverse</p>
 </div>
 
 </div>
