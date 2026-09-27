@@ -22,7 +22,7 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 <img src="/img/partners/xrmasters.png" alt="XRMasters">
 <h3>XRMasters</h3>
 <p><strong>Ali Hantal</strong>, CEO</p>
-<p>Building Location-aware AI Agents</p>
+<p>Building interoperable location-aware AI agents</p>
 </div>
 
 <div class="partner-card">
@@ -47,15 +47,36 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 </div>
 
 <div class="partner-card">
-<img src="/img/partners/MyGeoVerseSq.png" alt="MyGeoVerse">
-<h3>MyGeoverse</h3>
-<p>Building the geospatial layer of AI</p>
-</div>
-
-<div class="partner-card">
 <img src="/img/partners/msf.png" alt="Metaverse Standards Forum">
 <h3>Metaverse Standards Forum</h3>
 <p>Industry consortium fostering interoperability standards for an open metaverse</p>
+</div>
+
+<div class="partner-card">
+<img src="/img/partners/MyGeoVerse.png" alt="MyGeoVerse">
+<h3>MyGeoVerse</h3>
+<p>Building the interoperable geospatial layer of AI</p>
+</div>
+
+<div class="partner-card">
+<img src="/img/partners/university-of-patras.jpg" alt="University of Patras">
+<h3>University of Patras</h3>
+<p><strong>Spyros Denazis</strong>, Professor</p>
+<p>Contributing mixed reality standards via 5G/6G infrastructure facilities</p>
+</div>
+
+<div class="partner-card">
+<img src="/img/partners/p-net.png" alt="P-NET">
+<h3>p-NET Emerging Networks & Vertical Applications</h3>
+<p><strong>Didoe Prevedourou</strong>, Managing Director</p>
+<p>Supporting open standards for mixed reality via 5G and edge computing</p>
+</div>
+
+<div class="partner-card">
+<img src="/img/partners/immersal.png" alt="Immersal">
+<h3>Immersal</h3>
+<p><strong>Mikko Karvonen</strong>, EVP Engineering</p>
+<p>Advocates for interoperable, open standards in global AR cloud development</p>
 </div>
 
 </div>
@@ -233,13 +254,6 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 </div>
 
 <div class="partner-card">
-<img src="/img/partners/immersal.png" alt="Immersal">
-<h3>Immersal</h3>
-<p><strong>Mikko Karvonen</strong>, EVP Engineering</p>
-<p>Advocates for interoperable, open standards in global AR cloud development</p>
-</div>
-
-<div class="partner-card">
 <img src="/img/partners/joinpad.png" alt="JoinPad">
 <h3>JoinPad</h3>
 <p><strong>Mauro Rubin</strong>, Founder & CEO</p>
@@ -300,13 +314,6 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 <h3>Norkart</h3>
 <p><strong>Marius Seglsten</strong>, CTO</p>
 <p>Geospatial software provider supporting standards and open source development</p>
-</div>
-
-<div class="partner-card">
-<img src="/img/partners/p-net.png" alt="P-NET">
-<h3>p-NET Emerging Networks & Vertical Applications</h3>
-<p><strong>Didoe Prevedourou</strong>, Managing Director</p>
-<p>Supporting open standards for mixed reality via 5G and edge computing</p>
 </div>
 
 <div class="partner-card">
@@ -398,13 +405,6 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 <h3>UMI3D Consortium</h3>
 <p><strong>Julien Casarin</strong>, Coordinator</p>
 <p>Creating open communication standards for real-time XR collaboration</p>
-</div>
-
-<div class="partner-card">
-<img src="/img/partners/university-of-patras.jpg" alt="University of Patras">
-<h3>University of Patras</h3>
-<p><strong>Spyros Denazis</strong>, Professor</p>
-<p>Contributing mixed reality standards via 5G/6G infrastructure facilities</p>
 </div>
 
 <div class="partner-card">
