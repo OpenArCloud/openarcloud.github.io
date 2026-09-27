@@ -239,7 +239,7 @@ The organizer team consists of experts with diverse backgrounds from augmented r
 </div>
 
 <div class="team-member">
-    <img src="/img/headshots/Katherina_Ufnarovskaia.png" alt="Katherina Ufnarovskaia">
+    <img src="/img/headshots/Katherina_Ufnarovskaia2.png" alt="Katherina Ufnarovskaia">
     <div class="team-member-info">
         <strong><a href="https://www.linkedin.com/in/katherina-ufnarovskaia-69273b240/" class="linkedin-link">Katherina Ufnarovskaia</a></strong>
         <p><em>CEO, Augmented City</em></p>
