@@ -35,7 +35,7 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 <div class="partner-card">
 <img src="/img/partners/xrmasters.png" alt="XRMasters">
 <h3>XRMasters</h3>
-<p><strong>Ali Hantal</strong>, CEO</p>
+<p><strong>Ali C. Hantal</strong>, CEO</p>
 <p>Building the interoperable geospatial layer of AI</p>
 </div>
 
@@ -269,7 +269,6 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 </div>
 
 <div class="partner-card">
-<img src="/img/partners/kvra.png" alt="KVRA">
 <h3>KVRA</h3>
 <p><strong>Jungho Kim</strong>, Manager/Principal Researcher</p>
 <p>Contributing to open AR cloud mission and better reality initiatives</p>
