@@ -19,9 +19,10 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 </div>
 
 <div class="partner-card">
-<img src="/img/partners/MyGeoVerseSq.png" alt="MyGeoVerse">
-<h3>MyGeoverse</h3>
-<p>Building the geospatial layer of AI</p>
+<img src="/img/partners/xrmasters.png" alt="XRMasters">
+<h3>XRMasters</h3>
+<p><strong>Ali Hantal</strong>, CEO</p>
+<p>Building Location-aware AI Agents</p>
 </div>
 
 <div class="partner-card">
@@ -46,13 +47,13 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 </div>
 
 <div class="partner-card">
-<img src="/img/partners/xrmasters.png" alt="XRMasters">
-<h3>XRMasters</h3>
-<p><strong>Ali Hantal</strong>, CEO</p>
-<p>Supporting interoperable spatial computing technology and open standards</p>
+<img src="/img/partners/MyGeoVerseSq.png" alt="MyGeoVerse">
+<h3>MyGeoverse</h3>
+<p>Building the geospatial layer of AI</p>
 </div>
 
 <div class="partner-card">
+<img src="/img/partners/msf.png" alt="Metaverse Standards Forum">
 <h3>Metaverse Standards Forum</h3>
 <p>Industry consortium fostering interoperability standards for an open metaverse</p>
 </div>
