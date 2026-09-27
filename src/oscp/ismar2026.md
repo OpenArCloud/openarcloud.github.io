@@ -229,21 +229,32 @@ The organizer team consists of experts with diverse backgrounds from augmented r
 
 ## Invited Speakers
 
-<div class="speakers-grid-compact">
-    <div class="speaker-card-compact">
-        <img src="/img/headshots/Jan-Erik_Vinje.png" alt="Jan-Erik Vinje">
+<div class="team-member">
+    <img src="/img/headshots/Jan-Erik_Vinje.png" alt="Jan-Erik Vinje">
+    <div class="team-member-info">
         <strong><a href="https://www.linkedin.com/in/janerikvinje/" class="linkedin-link">Jan-Erik Vinje</a></strong>
-        <p>Co-President of the Open AR Cloud Association</p>
+        <p><em>Co-President of the Open AR Cloud Association</em></p>
+        <p>Technologist, strategist, and advocate for open systems and interoperability. Jan-Erik brings deep experience in spatial computing, standards development, and collaborative ecosystems, with a strong belief in technology as an enabler of human potential and societal resilience. He is the architect behind ProsperApps and the sovereign technology infrastructure strategy.</p>
     </div>
-    <div class="speaker-card-compact">
-        <img src="/img/headshots/Katherina_Ufnarovskaia.png" alt="Katherina Ufnarovskaia">
+</div>
+
+<div class="team-member">
+    <img src="/img/headshots/Katherina_Ufnarovskaia.png" alt="Katherina Ufnarovskaia">
+    <div class="team-member-info">
         <strong><a href="https://www.linkedin.com/in/katherina-ufnarovskaia-69273b240/" class="linkedin-link">Katherina Ufnarovskaia</a></strong>
-        <p>CEO, Augmented City</p>
+        <p><em>CEO, Augmented City</em></p>
+        <p>CEO and Co-Founder of Augmented City Srl and Lanit-Tercom Italia Srl. She holds a summa cum laude degree in Economics, specialising in Foreign Affairs and International Marketing, and a PhD in Technological Engineering.</p>
+        <p>With over 20 years of experience in IT and active in Artificial Intelligence since 2006, she leads R&amp;D activities focused on Computer Vision, autonomous navigation, smart city solutions, digital twins, localisation, and immersive technologies for industrial applications.</p>
     </div>
-    <div class="speaker-card-compact">
-        <img src="/img/headshots/Mikko_Karvonen.png" alt="Mikko Karvonen">
+</div>
+
+<div class="team-member">
+    <img src="/img/headshots/Mikko_Karvonen.png" alt="Mikko Karvonen">
+    <div class="team-member-info">
         <strong><a href="https://www.linkedin.com/in/crankshaft/" class="linkedin-link">Mikko Karvonen</a></strong>
-        <p>CPO and Co-Founder, Immersal</p>
+        <p><em>CPO and Co-Founder, Immersal</em></p>
+        <p>Deep-tech founder, product leader, and hands-on software engineer with nearly 30 years of experience spanning augmented and mixed reality, Visual Positioning Systems (VPS), mobile platforms, cloud infrastructure, and developer technologies.</p>
+        <p>Broad technical background across native and mobile development, Unity, WebAssembly, embedded systems, and cloud environments, combined with experience in product management, rapid prototyping, customer engagement, pre-sales, and early-stage fundraising. Earlier specialization in digital audio signal processing and music information retrieval, with several academic publications and a U.S. patent.</p>
     </div>
 </div>
 
