@@ -882,6 +882,17 @@ ol {
     line-height: 1.6;
 }
 
+/* Centered row of call-to-action buttons (home "Ready to Build?", Projects page end) */
+.button-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+    margin: 40px 0;
+}
+
+.button-row--prefooter { margin: 64px 0 48px; }
+
 /* Projects page (/projects/) */
 .projects-hero { padding-bottom: 24px; }
 .section-intro {
