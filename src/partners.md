@@ -33,8 +33,8 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 </div>
 
 <div class="partner-card">
-<img src="/img/partners/xrmasters.png" alt="XRMasters">
-<h3>XRMasters</h3>
+<img src="/img/partners/xrmasters.png" alt="XR Masters">
+<h3>XR Masters</h3>
 <p><strong>Ali C. Hantal</strong>, CEO</p>
 <p>Building the interoperable geospatial layer of AI</p>
 </div>
