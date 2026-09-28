@@ -101,3 +101,8 @@ permalink: /projects/
         </div>
     </div>
 </div>
+
+<div class="button-row">
+    <a href="https://ko-fi.com/openarcloud" target="_blank" rel="noopener noreferrer" class="primary-button">Become A Member →</a>
+    <a href="https://github.com/OpenARCloud" target="_blank" class="primary-button">Get Started on GitHub →</a>
+</div>

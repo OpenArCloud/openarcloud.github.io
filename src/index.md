@@ -106,7 +106,8 @@ Client implementations support XR headsets, mobile platforms, robotics, and more
 
 Start implementing the Open Spatial Computing Platform today. All code, documentation, and standards are freely available.
 
-<div style="text-align: center; margin: 40px 0;">
+<div class="button-row">
+    <a href="https://ko-fi.com/openarcloud" target="_blank" rel="noopener noreferrer" class="primary-button">Become A Member →</a>
     <a href="https://github.com/OpenARCloud" target="_blank" class="primary-button">Get Started on GitHub →</a>
 </div>
 

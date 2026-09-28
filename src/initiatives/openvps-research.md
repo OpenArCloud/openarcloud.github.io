@@ -49,7 +49,3 @@ permalink: /initiatives/openvps/research/
 </div>
 
 Interested in contributing to one of these areas? Become a member and we will reach out to onboard you to our team.
-
-<div style="text-align: center; margin: 40px 0;">
-    <a href="https://ko-fi.com/openarcloud" target="_blank" class="primary-button">Become a Member →</a>
-</div>
