@@ -894,7 +894,6 @@ ol {
 .button-row--prefooter { margin: 64px 0 48px; }
 
 /* Projects page (/projects/) */
-.projects-hero { padding-bottom: 24px; }
 .section-intro {
     color: var(--neutral-600);
     font-size: 1.05rem;

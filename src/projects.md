@@ -4,10 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-<div class="hero-section projects-hero">
-    <h1 class="hero-title">Projects</h1>
-    <p class="hero-description">Open AR Cloud projects develop, test, demonstrate, and advance open and interoperable spatial computing technologies. Explore what we are working on, and find your way to take part.</p>
-</div>
+# Projects
+
+Open AR Cloud projects develop, test, demonstrate, and advance open and interoperable spatial computing technologies. Explore what we are working on, and find your way to take part.
 
 ## How Can I Contribute?
 
