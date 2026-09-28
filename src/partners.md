@@ -291,6 +291,7 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 <div class="partner-card">
 <img src="/img/partners/MyGeoVerse.png" alt="MyGeoVerse">
 <h3>MyGeoVerse</h3>
+<p><strong>Ali C. Hantal</strong>, CEO</p>
 <p>Spatial Content &amp; AI Management, Built for Interoperability</p>
 </div>
 
