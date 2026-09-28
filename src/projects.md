@@ -99,6 +99,16 @@ Open AR Cloud projects develop, test, demonstrate, and advance open and interope
             <p>The Open Spatial Computing Platform: an open, edge-first architecture for building spatially aware applications that connect the physical and digital worlds.</p>
         </div>
     </div>
+    <div class="oarc-project">
+        <div class="oarc-project-media oarc-project-media--logo">
+            <img src="/img/sparcl-logo.jpg" alt="spARcl logo">
+        </div>
+        <div class="oarc-project-body">
+            <span class="oarc-project-tag"><img src="/img/oarc-cloud-icon.png" alt="">OARC Project</span>
+            <h3>spARcl</h3>
+            <p>spARcl is Open AR Cloud&rsquo;s open-source WebXR spatial browser. It discovers the spatial services and content available at the user&rsquo;s location and shows them in AR, from text, icons, and glTF 3D models to videos, point clouds, IoT sensor streams, and OGC points of interest.</p>
+        </div>
+    </div>
 </div>
 
 <div class="button-row">

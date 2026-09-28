@@ -989,6 +989,8 @@ a.oarc-project:hover {
 .oarc-project-media--geopose img { object-fit: contain; padding: 8px 0; }
 .oarc-project-media--oscp { background: #fff; }
 .oarc-project-media--oscp img { object-fit: contain; padding: 10px; }
+.oarc-project-media--logo { background: #fff; }
+.oarc-project-media--logo img { object-fit: contain; }
 .oarc-project-media--brand {
     display: flex;
     flex-direction: column;
