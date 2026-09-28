@@ -882,6 +882,167 @@ ol {
     line-height: 1.6;
 }
 
+/* Projects page (/projects/) */
+.projects-hero { padding-bottom: 24px; }
+.section-intro {
+    color: var(--neutral-600);
+    font-size: 1.05rem;
+    max-width: 720px;
+    margin-bottom: 0;
+}
+
+.contribute-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 24px;
+    margin: 32px 0 0;
+}
+.contribute-card {
+    display: block;
+    background: white;
+    border: 1px solid rgba(139, 92, 246, 0.15);
+    border-top: 4px solid var(--primary-violet);
+    border-radius: 12px;
+    padding: 28px 24px;
+    color: var(--neutral-800);
+    text-decoration: none;
+    box-shadow: var(--shadow-sm);
+    transition: all var(--transition-base);
+}
+.contribute-card:nth-child(even) { border-top-color: var(--accent-cyan); }
+/* hover lift only once a card becomes a link */
+a.contribute-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-xl), var(--shadow-glow);
+}
+.contribute-tag {
+    display: block;
+    font-family: 'SF Mono', 'Monaco', 'Inconsolata', monospace;
+    font-size: 0.8rem;
+    color: var(--accent-cyan-dark);
+    letter-spacing: 0.08em;
+    margin-bottom: 10px;
+}
+.contribute-card h3 {
+    color: var(--primary-violet);
+    font-size: 1.2rem;
+    margin: 0 0 10px;
+}
+.contribute-card p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin: 0;
+}
+.member-cta {
+    text-align: center;
+    margin: 40px 0 16px;
+}
+
+.oarc-projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 24px;
+    margin: 32px 0 60px;
+}
+.oarc-project {
+    display: flex;
+    flex-direction: column;
+    background: white;
+    border: 1px solid rgba(139, 92, 246, 0.15);
+    border-radius: 12px;
+    overflow: hidden;
+    color: var(--neutral-800);
+    text-decoration: none;
+    box-shadow: var(--shadow-sm);
+    transition: all var(--transition-base);
+}
+a.oarc-project:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-xl), var(--shadow-glow);
+    border-color: var(--accent-cyan);
+}
+.oarc-project-media {
+    height: 190px;
+    background: var(--neutral-100);
+    border-bottom: 1px solid rgba(139, 92, 246, 0.12);
+    overflow: hidden;
+}
+.oarc-project-media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+}
+.oarc-project-media--openvps img { object-position: center top; }
+.oarc-project-media--rml img { object-position: center 60%; }
+.oarc-project-media--geopose { background: linear-gradient(135deg, rgba(139, 92, 246, 0.08) 0%, rgba(6, 182, 212, 0.08) 100%), #fff; }
+.oarc-project-media--geopose img { object-fit: contain; padding: 8px 0; }
+.oarc-project-media--oscp { background: #fff; }
+.oarc-project-media--oscp img { object-fit: contain; padding: 10px; }
+.oarc-project-media--brand {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    background:
+        linear-gradient(rgba(124, 58, 237, 0.08) 1px, transparent 1px) 0 0 / 22px 22px,
+        linear-gradient(90deg, rgba(124, 58, 237, 0.08) 1px, transparent 1px) 0 0 / 22px 22px,
+        linear-gradient(135deg, rgba(139, 92, 246, 0.12) 0%, rgba(6, 182, 212, 0.12) 100%);
+}
+.oarc-project-media--brand img {
+    width: 84px;
+    height: auto;
+    object-fit: contain;
+    opacity: 0.9;
+}
+.oarc-project-media--brand span {
+    font-family: 'SF Mono', 'Monaco', 'Inconsolata', monospace;
+    font-size: 0.8rem;
+    color: var(--accent-cyan-dark);
+    letter-spacing: 0.05em;
+}
+.oarc-project-body {
+    padding: 22px 24px 26px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.oarc-project-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    align-self: flex-start;
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--primary-violet);
+    background: rgba(139, 92, 246, 0.08);
+    border: 1px solid rgba(139, 92, 246, 0.2);
+    border-radius: 999px;
+    padding: 3px 10px 3px 6px;
+    margin-bottom: 12px;
+}
+.oarc-project-tag img { width: 18px; height: auto; }
+.oarc-project h3 {
+    color: var(--primary-violet);
+    font-size: 1.3rem;
+    margin: 0 0 10px;
+}
+.oarc-project p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin: 0;
+}
+.oarc-project-more {
+    margin-top: auto;
+    padding-top: 16px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: var(--accent-cyan-dark);
+}
+
 /* Activation Cards (single column) */
 .activations-list {
     display: flex;
