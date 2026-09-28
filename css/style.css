@@ -1035,6 +1035,15 @@ a.oarc-project:hover {
     margin-bottom: 12px;
 }
 .oarc-project-tag img { width: 18px; height: auto; }
+/* Several labels side by side (e.g. GeoPose: OARC Project + OGC Standard) */
+.oarc-project-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+.oarc-project-tags .oarc-project-tag { margin-bottom: 0; }
+.oarc-project-tag--standard {
+    color: var(--accent-cyan-dark);
+    background: rgba(6, 182, 212, 0.08);
+    border-color: rgba(6, 182, 212, 0.3);
+    padding-left: 10px;
+}
 .oarc-project h3 {
     color: var(--primary-violet);
     font-size: 1.3rem;
