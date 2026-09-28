@@ -54,13 +54,6 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 </div>
 
 <div class="partner-card">
-<img src="/img/partners/immersal.png" alt="Immersal">
-<h3>Immersal</h3>
-<p><strong>Mikko Karvonen</strong>, EVP Engineering</p>
-<p>Advocates for interoperable, open standards in global AR cloud development</p>
-</div>
-
-<div class="partner-card">
 <img src="/img/partners/ogc.png" alt="Open Geospatial Consortium">
 <h3>Open Geospatial Consortium</h3>
 <p><strong>Scott Simmons</strong>, Executive Director</p>
@@ -245,6 +238,13 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 <h3>Imagine360</h3>
 <p><strong>Wael Chanab</strong>, President & Co-founder & CTO</p>
 <p>Dedicated to open AR ecosystem development with VRARA Montreal</p>
+</div>
+
+<div class="partner-card">
+<img src="/img/partners/immersal.png" alt="Immersal">
+<h3>Immersal</h3>
+<p><strong>Mikko Karvonen</strong>, EVP Engineering</p>
+<p>Advocates for interoperable, open standards in global AR cloud development</p>
 </div>
 
 <div class="partner-card">
