@@ -476,7 +476,3 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 </div>
 
 </div>
-
-<div style="text-align: center; margin: 40px 0;">
-    <a href="https://ko-fi.com/openarcloud" target="_blank" class="primary-button">Become a Partner</a>
-</div>

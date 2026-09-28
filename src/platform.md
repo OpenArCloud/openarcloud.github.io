@@ -267,7 +267,3 @@ OSCP repositories use permissive open source licenses (MIT, Apache 2.0, or CC0) 
 ## Next Steps
 
 Ready to implement OSCP? Start with our open source implementations:
-
-<div style="text-align: center; margin: 40px 0;">
-    <a href="https://github.com/OpenARCloud" target="_blank" class="primary-button">Browse GitHub Repositories →</a>
-</div>

@@ -91,7 +91,7 @@ Open AR Cloud projects develop, test, demonstrate, and advance open and interope
     </div>
     <div class="oarc-project">
         <div class="oarc-project-media oarc-project-media--oscp">
-            <img src="/img/OSCP.png" alt="OSCP at the center of AI, Smart City, Geospatial, IoT, AR/VR, 5G/Edge and more">
+            <img src="/img/oscp.png" alt="Real World Spatial Computing at the center of AI, Smart City, Geospatial, IoT, AR/VR, 5G/Edge and more">
         </div>
         <div class="oarc-project-body">
             <span class="oarc-project-tag"><img src="/img/oarc-cloud-icon.png" alt="">OARC Project</span>
