@@ -47,13 +47,6 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 </div>
 
 <div class="partner-card">
-<img src="/img/partners/augmented-city.png" alt="Augmented.City">
-<h3>Augmented.City</h3>
-<p><strong>Katherina Ufnarovsky</strong>, CEO & Co-founder</p>
-<p>AR company focused on spatial computing</p>
-</div>
-
-<div class="partner-card">
 <img src="/img/partners/ogc.png" alt="Open Geospatial Consortium">
 <h3>Open Geospatial Consortium</h3>
 <p><strong>Scott Simmons</strong>, Executive Director</p>
@@ -119,6 +112,13 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 <h3>Atlatl Software</h3>
 <p><strong>Marc Murphy</strong>, CEO</p>
 <p>Supports standardization and improved AR experiences through collaboration</p>
+</div>
+
+<div class="partner-card">
+<img src="/img/partners/augmented-city.png" alt="Augmented.City">
+<h3>Augmented.City</h3>
+<p><strong>Katherina Ufnarovsky</strong>, CEO & Co-founder</p>
+<p>AR company focused on spatial computing</p>
 </div>
 
 <div class="partner-card">
