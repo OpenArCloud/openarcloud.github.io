@@ -33,8 +33,6 @@ Two Spatial Browsers:
 - **spARcl WebXR spatial browser** — a web browser by Open AR Cloud
 - **MyGeoVerse spatial browser** — a native app by [XR Masters](https://xr-masters.com)
 
-Both clients are available from the [MyGeoVerse download page](https://xr-masters.com/mygeoverse-download-page/).
-
 ## How It Works
 
 1. Both MyGeoVerse and spARcl clients can connect to an OSCP GeoPose service using the Visual Positioning (VPS) implementation from [Augmented City](https://www.augmented.city). This service is referred to as the GeoPose VPS server. Both clients send camera images and metadata to the GeoPose VPS server and receive their GeoPose estimates in return.
@@ -71,6 +69,11 @@ Now, you can restart MyGeoVerse and view the content you created, hopefully, at 
 
 ### Step 5
 Follow the instructions below to view the same content with spARcl!
+
+1. Open our spARcl WebXR app in Android Chrome: <a href="https://sparcl.orbit-lab.org/" target="_blank" rel="noopener noreferrer">https://sparcl.orbit-lab.org/</a>
+2. Enable WebXR Incubation in chrome://flags settings.
+3. Enable Location access
+4. Follow the instructions in the app
 
 <div style="text-align: center; margin: 40px 0;">
     <a href="/platform/" class="secondary-button">← Back to OSCP Platform</a>

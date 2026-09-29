@@ -74,6 +74,11 @@ Now, you can restart MyGeoVerse and view the content you created, hopefully, at 
 ### Step 6
 Follow the instructions below to view the same content with spARcl!
 
+1. Open our spARcl WebXR app in Android Chrome: <a href="https://sparcl.orbit-lab.org/" target="_blank" rel="noopener noreferrer">https://sparcl.orbit-lab.org/</a>
+2. Enable WebXR Incubation in chrome://flags settings.
+3. Enable Location access
+4. Follow the instructions in the app
+
 <div style="text-align: center; margin: 40px 0;">
     <a href="/platform/" class="secondary-button">← Back to OSCP Platform</a>
 </div>
