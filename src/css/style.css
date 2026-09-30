@@ -1357,3 +1357,4 @@ a.oarc-project:hover {
 .qr-card .primary-button { margin-top: auto; }
 @media (max-width: 900px) { .qr-grid { grid-template-columns: 1fr; max-width: 360px; margin-left: auto; margin-right: auto; } }
 @media (max-width: 600px) { .demo-block { padding: 4px 18px 18px; } .config-table th, .config-table td { padding: 10px 12px; } }
+#download-apps, #open-sparcl { scroll-margin-top: 110px; }

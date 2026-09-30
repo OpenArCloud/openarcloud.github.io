@@ -99,7 +99,7 @@ Next, view the same content using the spARcl WebXR spatial browser.
 
 #### Step 7: View the Same Content in spARcl
 
-1. Open our spARcl WebXR app in Android Chrome: <a href="https://sparcl.orbit-lab.org/" target="_blank" rel="noopener noreferrer">https://sparcl.orbit-lab.org/</a>
+1. Open our spARcl WebXR app in Android Chrome: <a href="https://sparcl.orbit-lab.org/" target="_blank" rel="noopener noreferrer">https://sparcl.orbit-lab.org/</a> or <a href="#open-sparcl">scan the QR code below</a>.
 2. Enable WebXR Incubation in `chrome://flags` settings.
 3. Enable Location access.
 4. Follow the instructions in the app.
@@ -125,7 +125,7 @@ spARcl runs in the browser, so there is nothing to install. ACO Viewer and MyGeo
         <a href="https://www.xr-masters.com/mobile-app/" target="_blank" rel="noopener noreferrer"><img src="/img/QRcodes/QR-MGVDownload.png" width="220" height="220" alt="QR code to download the MyGeoVerse app" loading="lazy"></a>
         <a class="primary-button" href="https://www.xr-masters.com/mobile-app/" target="_blank" rel="noopener noreferrer">Download MyGeoVerse</a>
     </div>
-    <div class="qr-card">
+    <div class="qr-card" id="open-sparcl">
         <h3>spARcl</h3>
         <p>by Open AR Cloud · runs in Chrome on Android</p>
         <a href="https://sparcl.orbit-lab.org/" target="_blank" rel="noopener noreferrer"><img src="/img/QRcodes/QR-sparcl.png" width="220" height="220" alt="QR code to open the spARcl WebXR spatial browser" loading="lazy"></a>
