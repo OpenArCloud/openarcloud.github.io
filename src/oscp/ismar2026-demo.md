@@ -22,7 +22,7 @@ In Bari, Demo 1 uses MyGeoVerse as the publisher and includes both GLB content a
 
 ## A Milestone for the Open Spatial Web
 
-At IEEE ISMAR 2026 in Bari, Open AR Cloud is bringing together an ecosystem of **two content publishers, three spatial browser apps, and four VPS service providers** for the first time in its interoperability demonstrations, built around the OGC GeoPose Standard and OSCP protocols.
+At IEEE ISMAR 2026 in Bari, Open AR Cloud is bringing together an ecosystem of **two content publishers, three spatial browser apps, and four VPS service providers** for the first time in its interoperability demonstrations, built around the OGC GeoPose and POI Standards and OSCP protocols.
 
 <div class="stats-grid milestone-stats">
     <div class="stat"><h3>2</h3><p>Content Publishers</p></div>
