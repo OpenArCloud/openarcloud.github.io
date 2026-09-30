@@ -85,6 +85,18 @@
     <p style="margin-bottom: 4px;"><strong>In front of The Nicolaus Hotel</strong></p>
     <p class="pending" style="margin-bottom: 0;">Exact details pending for on-site mapping and testing</p>
 </div>
+<h2>Purpose of the Demonstrations</h2>
+<p>These demonstrations show how different augmented reality clients can visualize geospatially anchored content using the <a href="https://docs.ogc.org/is/21-056r11/21-056r11.html">OGC GeoPose 1.0 Data Exchange Standard</a> and Open AR Cloud’s OSCP protocols. The MyGeoVerse demo also demonstrates interoperability using the <a href="https://htmlpreview.github.io/?https://github.com/opengeospatial/poi/blob/main/21-049/21-049.html">OGC Points of Interest (POI) Conceptual Model Standard</a>.</p>
+<p>Interoperability requires implementations on both the client and server sides. Spatial browser apps obtain GeoPose estimates through their configured localization services and discover published content through the relevant content services. OSCP Spatial Content Discovery supports the discovery of 3D objects anchored to the real world using GeoPose, while a POI content provider service makes POI information available.</p>
+<p>In Bari, Demo 1 uses MyGeoVerse as the publisher and includes both GLB content and POIs. Demo 2 uses Augmented City as the publisher and includes GLB content only. Both demonstrations show how published content can be experienced through different spatial browser apps.</p>
+<h2>Standards &amp; Protocol References</h2>
+<ul>
+<li><a href="https://docs.ogc.org/is/21-056r11/21-056r11.html">OGC GeoPose Data Exchange Standard 1.0</a></li>
+<li><a href="https://htmlpreview.github.io/?https://github.com/opengeospatial/poi/blob/main/21-049/21-049.html">OGC Points of Interest (POI) Conceptual Model Standard</a></li>
+<li><a href="https://github.com/OpenArCloud/oscp-geopose-protocol">OSCP GeoPose Protocol</a></li>
+<li><a href="https://github.com/OpenArCloud/oscp-spatial-content-discovery">OSCP Spatial Content Discovery</a></li>
+</ul>
+<h2>The Bari Demo Ecosystem</h2>
 <p>For the first time this year, we are bringing together two content publishers, three spatial browser apps, and four VPS service providers in demonstrations built around the OGC GeoPose Standard and Open AR Cloud’s OSCP protocols.</p>
 <figure class="demo-chart">
     <a href="/img/demos/Demo_Chart.png?v=2" target="_blank" rel="noopener">
@@ -99,22 +111,7 @@
 </ul>
 <p>We have prepared two demos showcasing different combinations of these publishers, spatial browsers, and localization services. You can try them yourself by following the step-by-step instructions below.</p>
 <section class="demo-block" id="demo-1">
-<h2>Demo 1: Augmented City as Publisher</h2>
-<p><strong>Publisher:</strong> <a href="https://augmented.city/" target="_blank" rel="noopener noreferrer">Augmented City</a></p>
-<div class="table-wrap">
-<table class="config-table">
-<thead><tr><th>Spatial browser</th><th>Localization method</th></tr></thead>
-<tbody>
-<tr><td>spARcl by Open AR Cloud</td><td>OpenVPS by Open AR Cloud</td></tr>
-<tr><td>ACO Viewer by Augmented City</td><td>Augmented City VPS</td></tr>
-</tbody>
-</table>
-</div>
-<h3>Demo 1: Step-by-Step Instructions</h3>
-<p class="pending">Pending for Augmented City</p>
-</section>
-<section class="demo-block" id="demo-2">
-<h2>Demo 2: MyGeoVerse as Publisher</h2>
+<h2>Demo 1: GLB Content &amp; POI Interoperability</h2>
 <p><strong>Publisher:</strong> MyGeoVerse by XR Masters</p>
 <div class="table-wrap">
 <table class="config-table">
@@ -125,7 +122,7 @@
 </tbody>
 </table>
 </div>
-<h3>Demo 2: Step-by-Step Instructions</h3>
+<h3>Demo 1: Step-by-Step Instructions</h3>
 <h4>Step 1: Open MyGeoVerse</h4>
 <p>Go to the AR experience starting point and open the MyGeoVerse app. Don’t have it yet? <a href="#download-apps">Download MyGeoVerse</a> at the bottom of this page.</p>
 <h4>Step 2: Select the Localization Method</h4>
@@ -148,6 +145,21 @@
 <li>Enable Location access.</li>
 <li>Follow the instructions in the app.</li>
 </ol>
+</section>
+<section class="demo-block" id="demo-2">
+<h2>Demo 2: GLB Content Interoperability</h2>
+<p><strong>Publisher:</strong> <a href="https://augmented.city/" target="_blank" rel="noopener noreferrer">Augmented City</a></p>
+<div class="table-wrap">
+<table class="config-table">
+<thead><tr><th>Spatial browser</th><th>Localization method</th></tr></thead>
+<tbody>
+<tr><td>spARcl by Open AR Cloud</td><td>OpenVPS by Open AR Cloud</td></tr>
+<tr><td>ACO Viewer by Augmented City</td><td>Augmented City VPS</td></tr>
+</tbody>
+</table>
+</div>
+<h3>Demo 2: Step-by-Step Instructions</h3>
+<p class="pending">Pending for Augmented City</p>
 </section>
 <section id="download-apps">
 <h2>Download the Apps &amp; Open spARcl</h2>
