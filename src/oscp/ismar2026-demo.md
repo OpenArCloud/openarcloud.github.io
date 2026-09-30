@@ -18,7 +18,21 @@ These demonstrations show how different augmented reality clients can visualize 
 
 Interoperability requires implementations on both the client and server sides. Spatial browser apps obtain GeoPose estimates through their configured localization services and discover published content through the relevant content services. OSCP Spatial Content Discovery supports the discovery of 3D objects anchored to the real world using GeoPose, while a POI content provider service makes POI information available.
 
-In Bari, Demo 1 uses MyGeoVerse as the publisher and includes both GLB content and POIs. Demo 2 uses Augmented City as the publisher and includes GLB content only. Both demonstrations show how published content can be experienced through different spatial browser apps.
+In Bari, Demo 1 uses MyGeoVerse as the publisher and includes both GLB content and POIs. Demo 2 uses Augmented City as the publisher and includes GLB content only. In each demonstration, the same published content can be viewed through two different spatial browser apps, each using a different VPS service for localization. This demonstrates interoperability across content publishing, spatial browsing, and visual positioning, allowing users to experience the same content at its intended real-world location through different combinations of applications and services.
+
+## A Milestone for the Open Spatial Web
+
+At IEEE ISMAR 2026 in Bari, Open AR Cloud is bringing together an ecosystem of **two content publishers, three spatial browser apps, and four VPS service providers** for the first time in its interoperability demonstrations, built around the OGC GeoPose Standard and OSCP protocols.
+
+<div class="stats-grid milestone-stats">
+    <div class="stat"><h3>2</h3><p>Content Publishers</p></div>
+    <div class="stat"><h3>3</h3><p>Spatial Browser Apps</p></div>
+    <div class="stat"><h3>4</h3><p>VPS Service Providers</p></div>
+</div>
+
+The significance goes beyond the number of participating applications and services: these demonstrations show how different publishers, native mobile and WebXR browsers, and localization providers can work together to deliver shared spatial experiences.
+
+The two hands-on demos below showcase selected combinations from this ecosystem. Each pairs two spatial browsers with two different VPS services to display the same published content at its intended real-world location.
 
 ## Standards & Protocol References
 
@@ -28,8 +42,6 @@ In Bari, Demo 1 uses MyGeoVerse as the publisher and includes both GLB content a
 - [OSCP Spatial Content Discovery](https://github.com/OpenArCloud/oscp-spatial-content-discovery)
 
 ## The Bari Demo Ecosystem
-
-For the first time this year, we are bringing together two content publishers, three spatial browser apps, and four VPS service providers in demonstrations built around the OGC GeoPose Standard and Open AR Cloud’s OSCP protocols.
 
 <figure class="demo-chart">
     <a href="/img/demos/Demo_Chart.png?v=2" target="_blank" rel="noopener">
@@ -49,6 +61,8 @@ We have prepared two demos showcasing different combinations of these publishers
 ## Demo 1: GLB Content &amp; POI Interoperability
 
 **Publisher:** MyGeoVerse by XR Masters
+
+View the same GLB content and POIs in MyGeoVerse using MultiSet VPS and in spARcl using OpenVPS.
 
 <div class="table-wrap">
 <table class="config-table">
@@ -106,6 +120,8 @@ Next, view the same content using the spARcl WebXR spatial browser.
 ## Demo 2: GLB Content Interoperability
 
 **Publisher:** <a href="https://augmented.city/" target="_blank" rel="noopener noreferrer">Augmented City</a>
+
+View the same GLB content in ACO Viewer using Augmented City VPS and in spARcl using OpenVPS.
 
 <div class="table-wrap">
 <table class="config-table">
