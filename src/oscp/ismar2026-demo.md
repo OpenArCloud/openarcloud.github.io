@@ -15,8 +15,8 @@ permalink: /oscp/ismar2026-demo/
 For the first time this year, we are bringing together two content publishers, three spatial browser apps, and four VPS service providers in demonstrations built around the OGC GeoPose Standard and Open AR Cloud’s OSCP protocols.
 
 <figure class="demo-chart">
-    <a href="/img/demos/Demo_Chart.png" target="_blank" rel="noopener">
-        <img src="/img/demos/Demo_Chart.png" width="1094" height="614" alt="Demo overview: two publishers (Augmented City, MyGeoVerse) feed three spatial browser apps (Augmented City ACO Viewer and MyGeoVerse as native mobile apps, spARcl as a WebXR mobile app), localized by four VPS service providers (OpenVPS, Augmented City, Immersal, MultiSet), built on OSCP, GeoPose and OGC POIs.">
+    <a href="/img/demos/Demo_Chart.png?v=2" target="_blank" rel="noopener">
+        <img src="/img/demos/Demo_Chart.png?v=2" width="1178" height="661" alt="Demo overview: two publishers (Augmented City, MyGeoVerse) feed three spatial browser apps (Augmented City ACO Viewer and MyGeoVerse as native mobile apps, spARcl as a WebXR mobile app), localized by four VPS service providers (OpenVPS, Augmented City, Immersal, MultiSet), built on OSCP, GeoPose and OGC POIs.">
     </a>
     <figcaption>Tap or click the diagram to open a larger version.</figcaption>
 </figure>
