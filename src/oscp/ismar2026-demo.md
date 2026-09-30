@@ -12,6 +12,23 @@ permalink: /oscp/ismar2026-demo/
     <p class="pending" style="margin-bottom: 0;">Exact details pending for on-site mapping and testing</p>
 </div>
 
+## Purpose of the Demonstrations
+
+These demonstrations show how different augmented reality clients can visualize geospatially anchored content using the [OGC GeoPose 1.0 Data Exchange Standard](https://docs.ogc.org/is/21-056r11/21-056r11.html) and Open AR Cloud’s OSCP protocols. The MyGeoVerse demo also demonstrates interoperability using the [OGC Points of Interest (POI) Conceptual Model Standard](https://htmlpreview.github.io/?https://github.com/opengeospatial/poi/blob/main/21-049/21-049.html).
+
+Interoperability requires implementations on both the client and server sides. Spatial browser apps obtain GeoPose estimates through their configured localization services and discover published content through the relevant content services. OSCP Spatial Content Discovery supports the discovery of 3D objects anchored to the real world using GeoPose, while a POI content provider service makes POI information available.
+
+In Bari, Demo 1 uses MyGeoVerse as the publisher and includes both GLB content and POIs. Demo 2 uses Augmented City as the publisher and includes GLB content only. Both demonstrations show how published content can be experienced through different spatial browser apps.
+
+## Standards & Protocol References
+
+- [OGC GeoPose Data Exchange Standard 1.0](https://docs.ogc.org/is/21-056r11/21-056r11.html)
+- [OGC Points of Interest (POI) Conceptual Model Standard](https://htmlpreview.github.io/?https://github.com/opengeospatial/poi/blob/main/21-049/21-049.html)
+- [OSCP GeoPose Protocol](https://github.com/OpenArCloud/oscp-geopose-protocol)
+- [OSCP Spatial Content Discovery](https://github.com/OpenArCloud/oscp-spatial-content-discovery)
+
+## The Bari Demo Ecosystem
+
 For the first time this year, we are bringing together two content publishers, three spatial browser apps, and four VPS service providers in demonstrations built around the OGC GeoPose Standard and Open AR Cloud’s OSCP protocols.
 
 <figure class="demo-chart">
@@ -29,29 +46,7 @@ We have prepared two demos showcasing different combinations of these publishers
 
 <section class="demo-block" id="demo-1">
 
-## Demo 1: Augmented City as Publisher
-
-**Publisher:** <a href="https://augmented.city/" target="_blank" rel="noopener noreferrer">Augmented City</a>
-
-<div class="table-wrap">
-<table class="config-table">
-<thead><tr><th>Spatial browser</th><th>Localization method</th></tr></thead>
-<tbody>
-<tr><td>spARcl by Open AR Cloud</td><td>OpenVPS by Open AR Cloud</td></tr>
-<tr><td>ACO Viewer by Augmented City</td><td>Augmented City VPS</td></tr>
-</tbody>
-</table>
-</div>
-
-### Demo 1: Step-by-Step Instructions
-
-<p class="pending">Pending for Augmented City</p>
-
-</section>
-
-<section class="demo-block" id="demo-2">
-
-## Demo 2: MyGeoVerse as Publisher
+## Demo 1: GLB Content &amp; POI Interoperability
 
 **Publisher:** MyGeoVerse by XR Masters
 
@@ -65,7 +60,7 @@ We have prepared two demos showcasing different combinations of these publishers
 </table>
 </div>
 
-### Demo 2: Step-by-Step Instructions
+### Demo 1: Step-by-Step Instructions
 
 #### Step 1: Open MyGeoVerse
 
@@ -103,6 +98,28 @@ Next, view the same content using the spARcl WebXR spatial browser.
 2. Enable WebXR Incubation in `chrome://flags` settings.
 3. Enable Location access.
 4. Follow the instructions in the app.
+
+</section>
+
+<section class="demo-block" id="demo-2">
+
+## Demo 2: GLB Content Interoperability
+
+**Publisher:** <a href="https://augmented.city/" target="_blank" rel="noopener noreferrer">Augmented City</a>
+
+<div class="table-wrap">
+<table class="config-table">
+<thead><tr><th>Spatial browser</th><th>Localization method</th></tr></thead>
+<tbody>
+<tr><td>spARcl by Open AR Cloud</td><td>OpenVPS by Open AR Cloud</td></tr>
+<tr><td>ACO Viewer by Augmented City</td><td>Augmented City VPS</td></tr>
+</tbody>
+</table>
+</div>
+
+### Demo 2: Step-by-Step Instructions
+
+<p class="pending">Pending for Augmented City</p>
 
 </section>
 
