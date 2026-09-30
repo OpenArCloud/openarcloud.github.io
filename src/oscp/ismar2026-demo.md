@@ -44,8 +44,8 @@ The two hands-on demos below showcase selected combinations from this ecosystem.
 ## The Bari Demo Ecosystem
 
 <figure class="demo-chart">
-    <a href="/img/demos/Demo_Chart.png?v=2" target="_blank" rel="noopener">
-        <img src="/img/demos/Demo_Chart.png?v=2" width="1178" height="661" alt="Demo overview: two publishers (Augmented City, MyGeoVerse) feed three spatial browser apps (Augmented City ACO Viewer and MyGeoVerse as native mobile apps, spARcl as a WebXR mobile app), localized by four VPS service providers (OpenVPS, Augmented City, Immersal, MultiSet), built on OSCP, GeoPose and OGC POIs.">
+    <a href="/img/demos/Demo_Chart.png?v=3" target="_blank" rel="noopener">
+        <img src="/img/demos/Demo_Chart.png?v=3" width="1015" height="568" alt="Demo overview: two publishers (Augmented City, MyGeoVerse) feed three spatial browser apps (Augmented City ACO Viewer and MyGeoVerse as native mobile apps, spARcl as a WebXR mobile app), localized by four VPS service providers (OpenVPS, Augmented City, Immersal, MultiSet), built on SpatialDDS, OSCP, GeoPose and OGC POI.">
     </a>
     <figcaption>Tap or click the diagram to open a larger version.</figcaption>
 </figure>
