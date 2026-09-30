@@ -110,7 +110,7 @@ We prioritize decentralized, edge-based solutions that respect user privacy, red
         <strong><a href="https://www.linkedin.com/in/james-jackson-b031b2/" class="linkedin-link">James Jackson</a></strong>
         <ul>
             <li>Director of Technology, Open AR Cloud</li>
-            <li>Expert Member Of Technical Staff, AT&T Labs</li>
+            <li>Senior Principal Member Of Technical Staff, AT&T Labs</li>
             <li>Co-Chair, Spatial Computing WG, MSF</li>
         </ul>
     </div>
