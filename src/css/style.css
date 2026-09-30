@@ -1336,3 +1336,24 @@ a.oarc-project:hover {
         display: none;
     }
 }
+/* ISMAR 2026 demo page (/oscp/ismar2026-demo/) */
+.pending { color: #dc2626; font-style: italic; }
+.demo-chart { margin: 32px 0 12px; }
+.demo-chart img { width: 100%; height: auto; border: 1px solid rgba(139, 92, 246, 0.2); border-radius: 12px; background: white; }
+.demo-chart figcaption { font-size: 0.9rem; color: var(--neutral-500); text-align: center; margin-top: 8px; }
+.demo-block { margin: 56px 0; padding: 8px 32px 24px; border: 1px solid rgba(139, 92, 246, 0.2); border-radius: 12px; background: linear-gradient(135deg, rgba(139, 92, 246, 0.04) 0%, rgba(6, 182, 212, 0.04) 100%); }
+.demo-block h2 { margin-top: 1.5rem; }
+.demo-block h4 { color: var(--primary-violet); margin: 1.8rem 0 0.4rem; font-size: 1.1rem; }
+.table-wrap { overflow-x: auto; margin: 20px 0; }
+.config-table { width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; }
+.config-table th, .config-table td { text-align: left; padding: 12px 16px; border-bottom: 1px solid var(--neutral-200); }
+.config-table th { background: rgba(139, 92, 246, 0.08); color: var(--neutral-900); font-weight: 600; }
+.config-table tr:last-child td { border-bottom: 0; }
+.qr-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin: 32px 0 20px; }
+.qr-card { background: white; border: 1px solid rgba(139, 92, 246, 0.15); border-radius: 12px; padding: 24px 20px 28px; text-align: center; display: flex; flex-direction: column; align-items: center; }
+.qr-card h3 { margin: 0 0 4px; color: var(--primary-violet); font-size: 1.3rem; }
+.qr-card p { margin: 0 0 16px; font-size: 0.92rem; color: var(--neutral-600); }
+.qr-card img { width: 200px; height: 200px; image-rendering: pixelated; background: white; margin-bottom: 18px; }
+.qr-card .primary-button { margin-top: auto; }
+@media (max-width: 900px) { .qr-grid { grid-template-columns: 1fr; max-width: 360px; margin-left: auto; margin-right: auto; } }
+@media (max-width: 600px) { .demo-block { padding: 4px 18px 18px; } .config-table th, .config-table td { padding: 10px 12px; } }

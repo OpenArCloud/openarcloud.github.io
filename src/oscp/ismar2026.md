@@ -268,3 +268,8 @@ Participants interested in contributing, developing integrations, establishing t
     <a href="/platform/" class="primary-button">Explore OSCP →</a>
     <a href="https://ko-fi.com/openarcloud" target="_blank" rel="noopener noreferrer" class="secondary-button" style="margin-left: 20px;">Join Open AR Cloud →</a>
 </div>
+
+<div style="background: linear-gradient(135deg, rgba(139, 92, 246, 0.08) 0%, rgba(6, 182, 212, 0.08) 100%); border: 1px solid rgba(139, 92, 246, 0.2); border-radius: 12px; padding: 32px; margin: 40px 0; text-align: center;">
+    <p style="font-size: 1.25rem; font-weight: 600; color: var(--primary-violet); margin-bottom: 16px;">Try the live demos in Bari</p>
+    <a href="/oscp/ismar2026-demo/" class="primary-button">GeoPose &amp; POI Interoperability Demos →</a>
+</div>
