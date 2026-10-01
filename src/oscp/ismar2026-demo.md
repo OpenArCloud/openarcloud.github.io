@@ -45,13 +45,13 @@ The two hands-on demos below showcase selected combinations from this ecosystem.
 
 <figure class="demo-chart">
     <a href="/img/demos/Demo_Chart.png?v=3" target="_blank" rel="noopener">
-        <img src="/img/demos/Demo_Chart.png?v=3" width="1015" height="568" alt="Demo overview: two publishers (Augmented City, MyGeoVerse) feed three spatial browser apps (Augmented City ACO Viewer and MyGeoVerse as native mobile apps, spARcl as a WebXR mobile app), localized by four VPS service providers (OpenVPS, Augmented City, Immersal, MultiSet), built on SpatialDDS, OSCP, GeoPose and OGC POI.">
+        <img src="/img/demos/Demo_Chart.png?v=3" width="1015" height="568" alt="Demo overview: two publishers (Augmented City, MyGeoVerse) feed three spatial browser apps (Augmented City AC Viewer and MyGeoVerse as native mobile apps, spARcl as a WebXR mobile app), localized by four VPS service providers (OpenVPS, Augmented City, Immersal, MultiSet), built on SpatialDDS, OSCP, GeoPose and OGC POI.">
     </a>
     <figcaption>Tap or click the diagram to open a larger version.</figcaption>
 </figure>
 
 - **Two content publishers:** Augmented City and MyGeoVerse by XR Masters.
-- **Three spatial browser apps:** spARcl by Open AR Cloud, ACO Viewer by Augmented City, and MyGeoVerse by XR Masters.
+- **Three spatial browser apps:** spARcl by Open AR Cloud, AC Viewer by Augmented City, and MyGeoVerse by XR Masters.
 - **Four VPS service providers:** OpenVPS by Open AR Cloud, Augmented City, Immersal, and MultiSet.
 
 We have prepared two demos showcasing different combinations of these publishers, spatial browsers, and localization services. You can try them yourself by following the step-by-step instructions below.
@@ -121,21 +121,72 @@ Next, view the same content using the spARcl WebXR spatial browser.
 
 **Publisher:** <a href="https://augmented.city/" target="_blank" rel="noopener noreferrer">Augmented City</a>
 
-View the same GLB content in ACO Viewer using Augmented City VPS and in spARcl using OpenVPS.
+View the same shared GLB content first in AC Viewer, then in spARcl using Augmented City VPS and OpenVPS.
 
 <div class="table-wrap">
 <table class="config-table">
 <thead><tr><th>Spatial browser</th><th>Localization method</th></tr></thead>
 <tbody>
-<tr><td>spARcl by Open AR Cloud</td><td>OpenVPS by Open AR Cloud</td></tr>
-<tr><td>ACO Viewer by Augmented City</td><td>Augmented City VPS</td></tr>
+<tr><td>spARcl by Open AR Cloud</td><td>Augmented City VPS or OpenVPS by Open AR Cloud</td></tr>
+<tr><td>AC Viewer by Augmented City</td><td>Augmented City VPS</td></tr>
 </tbody>
 </table>
 </div>
 
 ### Demo 2: Step-by-Step Instructions
 
-<p class="pending">Pending for Augmented City</p>
+#### Step 1: Open AC Viewer
+
+Go to the AR experience starting point and open AC Viewer. Don’t have it yet? [Download AC Viewer](#download-apps) at the bottom of this page. After installing, open the app and grant the requested permissions.
+
+#### Step 2: Localize
+
+Go to a previously scanned area, such as the area near the Nicolaus Hotel. Point the camera at outdoor building facades and tap “START AR”.
+
+- Hold the phone or tablet vertically.
+- Avoid pointing the camera only at the floor.
+- Wait a few seconds for localization and AR content to load.
+
+If localization fails, move to another position within the scanned area and repeat the localization step.
+
+#### Step 3: View Existing AR Content
+
+After successful localization, a “Localized” message briefly appears and a rectangular icon appears in the bottom-left corner. Move slowly to explore the existing content, including colored clickable markers (POIs) and 3D models near the hotel entrance.
+
+#### Step 4: Optionally Place a GLB Model <span class="optional-tag">Optional</span>
+
+This step is optional. You can add a GLB model in AC Viewer and then view it in spARcl. Some of the existing content is already available in spARcl because it was placed in GLB format.
+
+A custom model should be small and lightweight, hosted online, and accessible through a direct GLB URL entered in the Path field. You can also use the example model below.
+
+<div class="step-with-shots">
+<div>
+
+1. Open the two-line menu in the top-right corner.
+2. Select “Settings” → “Authorization”.
+3. Log in with the demo credentials provided by Augmented City exclusively for this demo:<br>Login: <code>augcitydemo@gmail.com</code><br>Password: <code>ACdemo2026</code>
+4. Wait for “You are logged in”.
+5. After the app restarts automatically, tap “START AR” and localize again.
+6. Tap “+ ADD GLB from path”.
+7. In Name, enter your name.
+8. In Path, enter the example model URL:<br><span class="glb-url">https://raw.githubusercontent.com/mdivietrolt/models/main/ISMAR-ac-mongolfiera.glb</span>
+9. Tap “Create” to load the hot-air balloon featuring the Augmented City logo.
+10. Tap “+ ADD” to permanently place the model at the scanned location.
+
+</div>
+<div class="app-shots" style="display: flex; gap: 12px; align-items: flex-start;">
+    <figure style="margin: 0; flex: 0 1 120px; max-width: 120px;"><a href="/img/demos/ac-viewer-add-menu.jpg" target="_blank" rel="noopener"><img src="/img/demos/ac-viewer-add-menu.jpg" width="600" height="1347" style="width: 100%; height: auto; border-radius: 8px;" alt="AC Viewer add menu with the “+ Add GLB from path” button" loading="lazy"></a><figcaption>The add menu</figcaption></figure>
+    <figure style="margin: 0; flex: 0 1 120px; max-width: 120px;"><a href="/img/demos/ac-viewer-glb-form.jpg" target="_blank" rel="noopener"><img src="/img/demos/ac-viewer-glb-form.jpg" width="600" height="1347" style="width: 100%; height: auto; border-radius: 8px;" alt="AC Viewer form “Enter GLB model info” with Name and GLB File Path fields and a Create button" loading="lazy"></a><figcaption>Name and Path fields</figcaption></figure>
+</div>
+</div>
+
+**Congratulations!** You have placed content with AC Viewer. Restart AC Viewer to view the content you placed.
+
+#### Step 5: View the AC content in spARcl Web App
+
+1. Open <a href="https://sparcl.orbit-lab.org/" target="_blank" rel="noopener noreferrer">https://sparcl.orbit-lab.org/</a> in Chrome on an Android device.
+2. Select “AugmentedCity Content ISMAR2026”.
+3. Enable “AC GeoPose ISMAR26” to use AC VPS. Alternatively, enable “OpenVPS GeoPose ISMAR2026” to use OpenVPS for localization.
 
 </section>
 
@@ -143,14 +194,14 @@ View the same GLB content in ACO Viewer using Augmented City VPS and in spARcl u
 
 ## Download the Apps &amp; Open spARcl
 
-spARcl runs in the browser, so there is nothing to install. ACO Viewer and MyGeoVerse are native mobile apps.
+spARcl runs in the browser, so there is nothing to install. AC Viewer and MyGeoVerse are native mobile apps.
 
 <div class="qr-grid">
     <div class="qr-card">
-        <h3>ACO Viewer</h3>
+        <h3>AC Viewer</h3>
         <p>by Augmented City</p>
-        <a href="https://augmented-city-srl.github.io/AC-Viewer_landing-page/redirect.html" target="_blank" rel="noopener noreferrer"><img src="/img/QRcodes/QR-ACODownload-web.png" width="600" height="600" alt="QR code to download the ACO Viewer app" loading="lazy"></a>
-        <a class="qr-button" href="https://augmented-city-srl.github.io/AC-Viewer_landing-page/redirect.html" target="_blank" rel="noopener noreferrer">Download ACO Viewer</a>
+        <a href="https://augmented-city-srl.github.io/AC-Viewer_landing-page/redirect.html" target="_blank" rel="noopener noreferrer"><img src="/img/QRcodes/QR-ACODownload-web.png" width="600" height="600" alt="QR code to download the AC Viewer app" loading="lazy"></a>
+        <a class="qr-button" href="https://augmented-city-srl.github.io/AC-Viewer_landing-page/redirect.html" target="_blank" rel="noopener noreferrer">Download AC Viewer</a>
     </div>
     <div class="qr-card">
         <h3>MyGeoVerse</h3>
