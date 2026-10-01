@@ -1,10 +1,10 @@
 ---
 layout: layouts/base.njk
-title: OpenVPS Research & Testbed Collaboration Areas
+title: Contribute to OpenVPS
 permalink: /initiatives/openvps/research/
 ---
 
-# OpenVPS Research & Testbed Collaboration Areas
+# Contribute to OpenVPS
 
 <p style="font-size: 1.1rem; color: var(--muted, #4b5563); font-style: italic; margin-bottom: 32px;">Seven priority areas for joint R&D, student projects, and campus testbed deployment</p>
 
