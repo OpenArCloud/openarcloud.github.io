@@ -86,9 +86,17 @@ Open the hamburger menu and tap “Settings.” Under “Localization Method,”
 
 #### Step 3: Localize
 
+Go to a previously scanned area, such as the area near the Nicolaus Hotel.
+
 Tap “Start” and point your camera toward the designated area.
 
 <p class="pending">Camera target pending on-site tests.</p>
+
+- Hold the phone or tablet vertically.
+- Avoid pointing the camera only at the floor.
+- Wait a few seconds for localization and AR content to load.
+
+If localization fails, move to another position within the scanned area and repeat the localization step.
 
 #### Step 4: Place the OGC Logo
 
@@ -141,7 +149,11 @@ Go to the AR experience starting point and open AC Viewer. Don’t have it yet? 
 
 #### Step 2: Localize
 
-Go to a previously scanned area, such as the area near the Nicolaus Hotel. Point the camera at outdoor building facades and tap “START AR”.
+Go to a previously scanned area, such as the area near the Nicolaus Hotel.
+
+Tap “START AR” and point your camera toward the designated area.
+
+<p class="pending">Camera target pending on-site tests.</p>
 
 - Hold the phone or tablet vertically.
 - Avoid pointing the camera only at the floor.
@@ -149,13 +161,9 @@ Go to a previously scanned area, such as the area near the Nicolaus Hotel. Point
 
 If localization fails, move to another position within the scanned area and repeat the localization step.
 
-#### Step 3: View Existing AR Content
+#### Step 3: Place a GLB Model
 
-After successful localization, a “Localized” message briefly appears and a rectangular icon appears in the bottom-left corner. Move slowly to explore the existing content, including colored clickable markers (POIs) and 3D models near the hotel entrance.
-
-#### Step 4: Optionally Place a GLB Model <span class="optional-tag">Optional</span>
-
-This step is optional. You can add a GLB model in AC Viewer and then view it in spARcl. Some of the existing content is already available in spARcl because it was placed in GLB format.
+You can add a GLB model in AC Viewer and then view it in spARcl. Some of the existing content is already available in spARcl because it was placed in GLB format.
 
 A custom model should be small and lightweight, hosted online, and accessible through a direct GLB URL entered in the Path field. You can also use the example model below.
 
@@ -180,7 +188,11 @@ A custom model should be small and lightweight, hosted online, and accessible th
 </div>
 </div>
 
-**Congratulations!** You have placed content with AC Viewer. Restart AC Viewer to view the content you placed.
+**Congratulations!** You have placed content with AC Viewer.
+
+#### Step 4: View the Content in AC Viewer
+
+Restart AC Viewer, tap “START AR”, and localize again to view the content you placed.
 
 #### Step 5: View the AC content in spARcl Web App
 
