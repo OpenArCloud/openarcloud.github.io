@@ -5,35 +5,94 @@ title: Joint Testbed Program
 
 # Joint Testbed Program
 
-<div style="display:flex; justify-content:center; align-items:center; margin: 18px 0 30px;">
-<img src="/img/partners/oarc_ac_mgv.png" alt="Open AR Cloud, Augmented City, and MyGeoVerse" style="max-width:100%; height:auto; max-height:96px; object-fit:contain;">
+<div class="testbed-logos">
+<img src="/img/partners/testbed-oarc.png" alt="Open AR Cloud" width="949" height="400">
+<img src="/img/partners/testbed-augmented-city.png" alt="Augmented City" width="1054" height="400">
+<img src="/img/partners/testbed-multiset.png" alt="MultiSet" width="703" height="400">
+<img src="/img/partners/testbed-mygeoverse.png" alt="MyGeoVerse" width="944" height="400">
 </div>
 
-The Open AR Cloud Association's Testbed Program is currently a three-way joint program that aims to promote the development and testing of interoperable AR cloud technologies across different platforms and applications. We are constantly looking for more VPS service providers and spatial content management platforms and mobile apps to expand the program.
+The Open AR Cloud Association's Testbed Program is a joint program run by OARC together with its VPS Service Provider partners, Augmented City and MultiSet, and its content publishing partner, MyGeoVerse. It aims to promote the development and testing of interoperable AR Cloud technologies across different platforms and applications.
 
-The program provides a platform for OARC members, Academic Institutions and City Governance Organization to showcase their AR cloud solutions and to collaborate with other industry partners to address technical challenges and opportunities.
+OARC is inviting universities, schools, cities, innovation centers, research organizations, technology communities, and other organizations interested in the future of the Spatial Web to join the program as Testbed Partners. Testbed Partners provide real-world environments where open and interoperable spatial technologies can be deployed, tested, demonstrated, and explored.
 
-The Testbed Program consists of a series of projects that focus on different aspects of the AR cloud, such as data interoperability, privacy and security, and real-time spatial mapping. These projects are designed to provide a common framework and testing environment for AR cloud solutions, and to enable OARC members to validate their technologies against real-world use cases.
+The program is supported by a growing ecosystem of VPS Service Providers, spatial content platforms, spatial browsers, and mobile applications. OARC also welcomes additional technology providers interested in contributing interoperable services and applications to this ecosystem.
 
-Overall, the Testbed Program is a key part of the OARC's mission to accelerate the development and adoption of open and interoperable AR cloud technologies, and to foster collaboration and innovation across the AR ecosystem.
+The program is built around the open standards and protocols that make interoperable spatial computing possible:
+
+- <a href="https://docs.ogc.org/is/21-056r11/21-056r11.html" target="_blank" rel="noopener noreferrer">OGC GeoPose Data Exchange Standard 1.0</a>
+- <a href="https://htmlpreview.github.io/?https://github.com/opengeospatial/poi/blob/main/21-049/21-049.html" target="_blank" rel="noopener noreferrer">OGC Points of Interest (POI) Conceptual Model Standard</a>
+- <a href="https://github.com/OpenArCloud/oscp-geopose-protocol" target="_blank" rel="noopener noreferrer">OSCP GeoPose Protocol</a>
+- <a href="https://github.com/OpenArCloud/oscp-spatial-content-discovery" target="_blank" rel="noopener noreferrer">OSCP Spatial Content Discovery</a>
+
+Testbed participants learn about these standards and protocols, implement and experiment with them, and use them to understand interoperability across the Open Spatial Computing Platform (OSCP) ecosystem.
+
+The Joint Testbed Program is not simply about providing access to individual AR or VPS products. It provides a real-world environment for experimenting with how different content publishers, spatial browsers, localization and VPS providers, and spatial content services can work together through open standards and protocols.
+
+The program enables Testbed Partners to deploy and test AR Cloud and Spatial Web technologies in real-world locations, collaborate with OARC and participating technology partners, and explore technical challenges and opportunities around interoperability.
+
+Testbed activities can address different aspects of the AR Cloud and Spatial Web, including localization, spatial content publishing and discovery, data interoperability, privacy and security, and real-world spatial mapping. The program provides a common framework and testing environment where participating organizations can validate technologies, experiment with different combinations of services and applications, and contribute what they learn back to the broader ecosystem.
+
+The Testbed Program is a key part of OARC's mission to accelerate the development and adoption of an open and interoperable Spatial Web and to foster collaboration and innovation across the ecosystem.
 
 ## What Testbeds Receive
 
 Each accepted testbed receives:
 
-- An Augmented City VPS tester account upto 5 (five) users, which gives the users to ability to use Augmented City Scanner mobile app to digitally map locations.
-	- Augmented City is a OGC/OSCP GeoPose Compliant VPS service provider.
-- A MyGeoVerse Mobile App Tester Account and a MyGeoVerse Creator Suite Account both with upto 5 (five) users
-	- MyGeoVerse is an OGC/OSCP GeoPose Compliant spatial content publisher and a mobile spatial browser app provider.
+- VPS tester accounts from OARC's VPS Service Provider partners, Augmented City and MultiSet, which give the users the ability to digitally map locations with AC Scanner by Augmented City and the MultiSet mobile app by MultiSet.
+	- Augmented City and MultiSet both provide VPS services for the Joint Testbed Program.
+- MyGeoVerse Mobile App and MyGeoVerse Creator Suite Tester Accounts.
+	- MyGeoVerse is OARC's content publishing partner: a spatial content publisher and mobile spatial browser app provider supporting the OGC GeoPose Data Exchange Standard 1.0, the OGC Points of Interest (POI) Conceptual Model Standard, the OSCP GeoPose Protocol and OSCP Spatial Content Discovery.
+- Training and onboarding into the open Spatial Web ecosystem, as described below.
 
-In addition, OARC provides training and onboarding sessions for new testbed partners on:
+In addition, OARC, in partnership with <a href="https://academy.mygeoverse.com/" target="_blank" rel="noopener noreferrer">MyGeoVerse Academy</a>, provides training and onboarding sessions for new Testbed partners on:
 
-- OARC and general information on how the AR Cloud or spatial web works
-- OGC GeoPose Standard and OSCP protocol
-- How to digital map a location using Augmented City VPS
-- How to upload content using MyGeoVerse Creator Suite
-- How to place content onto your real world using MyGeoVerse iOS or Android mobile app
-- How to localize using MyGeoVerse mobile spatial browser app and view or interact with content
+- OARC and general information about how the AR Cloud and Spatial Web work.
+- The four standards and protocols at the foundation of the Testbed interoperability work:
+	- OGC GeoPose Data Exchange Standard 1.0
+	- OGC Points of Interest (POI) Conceptual Model Standard
+	- OSCP GeoPose Protocol
+	- OSCP Spatial Content Discovery
+- How to digitally map a physical location using the technologies provided by OARC's VPS Service Provider partners, including AC Scanner by Augmented City and the MultiSet mobile app.
+- How to upload and publish spatial content and Points of Interest through MyGeoVerse, OARC's content publishing partner supporting the relevant OGC standards and OSCP protocols.
+- How to place digital content into the real world using the MyGeoVerse iOS or Android mobile app.
+- How to localize using different VPS services.
+- How to use both the spARcl WebXR spatial browser and the MyGeoVerse mobile spatial browser to discover, view, and interact with spatial content at its real-world location.
+
+The sessions take Testbed partners through the open Spatial Web step by step:
+
+<div class="contribute-grid testbed-steps">
+    <div class="contribute-card">
+        <span class="contribute-tag">01</span>
+        <h3>Understand</h3>
+        <p>Learn about OARC, the AR Cloud and Spatial Web, and the four standards and protocols: OGC GeoPose, OGC POI, OSCP GeoPose Protocol, and OSCP Spatial Content Discovery.</p>
+    </div>
+    <div class="contribute-card">
+        <span class="contribute-tag">02</span>
+        <h3>Map</h3>
+        <p>Digitally map a real-world location using VPS Service Provider technologies such as AC Scanner by Augmented City and the MultiSet mobile app.</p>
+    </div>
+    <div class="contribute-card">
+        <span class="contribute-tag">03</span>
+        <h3>Publish</h3>
+        <p>Upload and publish spatial content and Points of Interest through MyGeoVerse.</p>
+    </div>
+    <div class="contribute-card">
+        <span class="contribute-tag">04</span>
+        <h3>Place</h3>
+        <p>Place spatial content at real-world locations using the MyGeoVerse iOS or Android mobile app.</p>
+    </div>
+    <div class="contribute-card">
+        <span class="contribute-tag">05</span>
+        <h3>Localize</h3>
+        <p>Localize using different VPS services through the interoperable Testbed environment.</p>
+    </div>
+    <div class="contribute-card">
+        <span class="contribute-tag">06</span>
+        <h3>Discover &amp; Experience</h3>
+        <p>Use spARcl WebXR and the MyGeoVerse mobile spatial browser to discover, view, and interact with spatial content at its intended real-world location.</p>
+    </div>
+</div>
 
 ## Testbed Requirements
 

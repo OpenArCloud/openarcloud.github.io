@@ -1394,3 +1394,14 @@ a.oarc-project:hover {
 }
 .target-photo { margin: 12px 0 20px; }
 .target-photo figcaption { font-size: 0.85rem; color: var(--neutral-500); margin-top: 6px; }
+
+/* Testbed page: partner logo strip and training steps */
+.testbed-logos { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 0 16px; margin: 18px 0 30px; }
+.testbed-logos img { height: 72px; width: auto; max-width: 100%; }
+.testbed-steps { margin: 24px 0 40px; }
+@media (min-width: 900px) {
+  .testbed-steps { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 800px) {
+  .testbed-logos img { height: 60px; }
+}
