@@ -95,8 +95,8 @@ Participants will be given a toolset and sample projects from which they can bui
     <div class="schedule-item">
         <div class="schedule-time">09:00</div>
         <div>
-            <div class="schedule-title">Visual Positioning</div>
-            <div class="schedule-speakers">Gábor Sörös, Michela di Vietro</div>
+            <div class="schedule-title">Visual Positioning and Mapping</div>
+            <div class="schedule-speakers">Michela di Vietro</div>
         </div>
     </div>
     <div class="schedule-item">
