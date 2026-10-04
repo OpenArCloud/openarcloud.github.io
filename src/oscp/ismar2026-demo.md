@@ -58,7 +58,7 @@ We have prepared two demos showcasing different combinations of these publishers
 
 ## Demo 1: GLB Content Interoperability
 
-**Publisher:** MyGeoVerse by XR Masters
+**Publisher:** <a href="https://www.mygeoverse.com" target="_blank" rel="noopener noreferrer">MyGeoVerse</a> by <a href="https://www.xr-masters.com" target="_blank" rel="noopener noreferrer">XR Masters</a>
 
 View the same GLB content in MyGeoVerse using MultiSet VPS and in spARcl using OpenVPS.
 
