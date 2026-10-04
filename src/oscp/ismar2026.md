@@ -164,7 +164,7 @@ Participants will be given a toolset and sample projects from which they can bui
     <div class="schedule-item">
         <div class="schedule-time">11:50</div>
         <div>
-            <div class="schedule-title">Outlook and Wrap-Up</div>
+            <div class="schedule-title">Summary and Call for Action</div>
             <div class="schedule-speakers">Ali C. Hantal, Gábor Sörös</div>
         </div>
     </div>
