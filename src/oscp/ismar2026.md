@@ -109,7 +109,7 @@ Participants will be given a toolset and sample projects from which they can bui
     <div class="schedule-item">
         <div class="schedule-time">09:30</div>
         <div>
-            <div class="schedule-title">The OSCP in Action: OARC Joint Testbed Program &amp; Partner Demos</div>
+            <div class="schedule-title">MyGeoVerse &amp; the OARC Joint Testbed Program</div>
             <div class="schedule-speakers">Ali C. Hantal</div>
         </div>
     </div>
