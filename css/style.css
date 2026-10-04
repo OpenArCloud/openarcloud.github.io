@@ -1392,3 +1392,5 @@ a.oarc-project:hover {
 @media (max-width: 800px) {
   .step-with-shots { grid-template-columns: 1fr; }
 }
+.target-photo { margin: 12px 0 20px; }
+.target-photo figcaption { font-size: 0.85rem; color: var(--neutral-500); margin-top: 6px; }

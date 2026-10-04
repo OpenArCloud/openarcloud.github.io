@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GeoPose &amp; POI Interoperability Demos at IEEE ISMAR 2026, Bari - Open AR Cloud</title>
+    <title>GeoPose Interoperability Demos at IEEE ISMAR 2026, Bari - Open AR Cloud</title>
     <meta name="description" content="Open Spatial Computing Platform - Connecting physical and digital worlds through open standards">
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <link rel="stylesheet" href="/css/style.css">
@@ -79,18 +79,17 @@
 
     <main class="main-content">
         <div class="container">
-            <h1>GeoPose &amp; POI Interoperability Demos for an Open Spatial Web Platform</h1>
+            <h1>GeoPose Interoperability Demos for an Open Spatial Web Platform</h1>
 <div style="background: linear-gradient(135deg, rgba(139, 92, 246, 0.08) 0%, rgba(6, 182, 212, 0.08) 100%); border: 1px solid rgba(139, 92, 246, 0.2); border-radius: 12px; padding: 32px; margin: 30px 0; text-align: center;">
     <p style="font-size: 1.25rem; font-weight: 600; color: var(--primary-violet); margin-bottom: 8px;">IEEE ISMAR 2026 · Bari, Italy</p>
-    <p style="margin-bottom: 4px;"><strong>In front of The Nicolaus Hotel</strong></p>
-    <p class="pending" style="margin-bottom: 0;">Exact details pending for on-site mapping and testing</p>
+    <p style="margin-bottom: 0;"><strong>In front of The Nicolaus Hotel</strong></p>
 </div>
 <h2>Purpose of the Demonstrations</h2>
-<p>These demonstrations show how different augmented reality clients can visualize geospatially anchored content using the <a href="https://docs.ogc.org/is/21-056r11/21-056r11.html">OGC GeoPose 1.0 Data Exchange Standard</a> and Open AR Cloud’s OSCP protocols. The MyGeoVerse demo also demonstrates interoperability using the <a href="https://htmlpreview.github.io/?https://github.com/opengeospatial/poi/blob/main/21-049/21-049.html">OGC Points of Interest (POI) Conceptual Model Standard</a>.</p>
-<p>Interoperability requires implementations on both the client and server sides. Spatial browser apps obtain GeoPose estimates through their configured localization services and discover published content through the relevant content services. OSCP Spatial Content Discovery supports the discovery of 3D objects anchored to the real world using GeoPose, while a POI content provider service makes POI information available.</p>
-<p>In Bari, Demo 1 uses MyGeoVerse as the publisher and includes both GLB content and POIs. Demo 2 uses Augmented City as the publisher and includes GLB content only. Demo 2 demonstrates shared GLB content across AC Viewer using Augmented City VPS and spARcl using OpenVPS. Alternatively, spARcl can also use Augmented City VPS. In each demonstration, the same published content can be viewed through two different spatial browser apps. This demonstrates interoperability across content publishing, spatial browsing, and visual positioning, allowing users to experience the same content at its intended real-world location through different combinations of applications and services.</p>
+<p>These demonstrations show how different augmented reality clients can visualize geospatially anchored content using the <a href="https://docs.ogc.org/is/21-056r11/21-056r11.html">OGC GeoPose 1.0 Data Exchange Standard</a> and Open AR Cloud’s OSCP protocols.</p>
+<p>Interoperability requires implementations on both the client and server sides. Spatial browser apps obtain GeoPose estimates through their configured localization services and discover published content through the relevant content services. OSCP Spatial Content Discovery supports the discovery of 3D objects anchored to the real world using GeoPose.</p>
+<p>In Bari, Demo 1 uses MyGeoVerse as the publisher and Demo 2 uses Augmented City as the publisher. Both demos share GLB content. Demo 1 demonstrates shared GLB content across MyGeoVerse using MultiSet VPS and spARcl using OpenVPS. Demo 2 demonstrates shared GLB content across AC Viewer using Augmented City VPS and spARcl using OpenVPS. Alternatively, spARcl can also use Augmented City VPS. In each demonstration, the same published content can be viewed through two different spatial browser apps. This demonstrates interoperability across content publishing, spatial browsing, and visual positioning, allowing users to experience the same content at its intended real-world location through different combinations of applications and services.</p>
 <h2>A Milestone for the Open Spatial Web</h2>
-<p>At IEEE ISMAR 2026 in Bari, Open AR Cloud is bringing together an ecosystem of <strong>two content publishers, three spatial browser apps, and four VPS service providers</strong> for the first time in its interoperability demonstrations, built around the OGC GeoPose and POI Standards and OSCP protocols.</p>
+<p>At IEEE ISMAR 2026 in Bari, Open AR Cloud is bringing together an ecosystem of <strong>two content publishers, three spatial browser apps, and four VPS service providers</strong> for the first time in its interoperability demonstrations, built around the OGC GeoPose Standard and OSCP protocols.</p>
 <div class="stats-grid milestone-stats">
     <div class="stat"><h3>2</h3><p>Content Publishers</p></div>
     <div class="stat"><h3>3</h3><p>Spatial Browser Apps</p></div>
@@ -101,7 +100,6 @@
 <h2>Standards &amp; Protocol References</h2>
 <ul>
 <li><a href="https://docs.ogc.org/is/21-056r11/21-056r11.html">OGC GeoPose Data Exchange Standard 1.0</a></li>
-<li><a href="https://htmlpreview.github.io/?https://github.com/opengeospatial/poi/blob/main/21-049/21-049.html">OGC Points of Interest (POI) Conceptual Model Standard</a></li>
 <li><a href="https://github.com/OpenArCloud/oscp-geopose-protocol">OSCP GeoPose Protocol</a></li>
 <li><a href="https://github.com/OpenArCloud/oscp-spatial-content-discovery">OSCP Spatial Content Discovery</a></li>
 </ul>
@@ -119,9 +117,9 @@
 </ul>
 <p>We have prepared two demos showcasing different combinations of these publishers, spatial browsers, and localization services. You can try them yourself by following the step-by-step instructions below.</p>
 <section class="demo-block" id="demo-1">
-<h2>Demo 1: GLB Content &amp; POI Interoperability</h2>
+<h2>Demo 1: GLB Content Interoperability</h2>
 <p><strong>Publisher:</strong> MyGeoVerse by XR Masters</p>
-<p>View the same GLB content and POIs in MyGeoVerse using MultiSet VPS and in spARcl using OpenVPS.</p>
+<p>View the same GLB content in MyGeoVerse using MultiSet VPS and in spARcl using OpenVPS.</p>
 <div class="table-wrap">
 <table class="config-table">
 <thead><tr><th>Spatial browser</th><th>Localization method</th></tr></thead>
@@ -138,8 +136,11 @@
 <p>Open the hamburger menu and tap “Settings.” Under “Localization Method,” select “MultiSet.”</p>
 <h4>Step 3: Localize</h4>
 <p>Go to a previously scanned area, such as the area near the Nicolaus Hotel.</p>
-<p>Tap “Start” and point your camera toward the designated area.</p>
-<p class="pending">Camera target pending on-site tests.</p>
+<p>Tap “Start” and point your camera toward the HausBar sign.</p>
+<figure class="target-photo">
+    <a href="/img/demos/hausbar-sign.jpg" target="_blank" rel="noopener"><img src="/img/demos/hausbar-sign.jpg" width="900" height="1202" alt="The HAUSBAR sign on the lawn in front of The Nicolaus Hotel, the camera target for Demo 1" loading="lazy" style="width: 100%; max-width: 300px; height: auto; border-radius: 10px;"></a>
+    <figcaption>The HausBar sign in front of the hotel.</figcaption>
+</figure>
 <ul>
 <li>Hold the phone or tablet vertically.</li>
 <li>Avoid pointing the camera only at the floor.</li>
@@ -148,13 +149,11 @@
 <p>If localization fails, move to another position within the scanned area and repeat the localization step.</p>
 <h4>Step 4: Place the OGC Logo</h4>
 <p>Select “Create Item” from the app menu. Enter “OGC” in the search field, choose the OGC (GLB) logo, and tap “Select.” Then tap the screen to place the logo at your desired location.</p>
-<h4>Step 5: Create a POI</h4>
-<p>Select “Create POI” from the app menu and tap to place the POI at your desired location. Complete the form with the POI details, then tap “Create.”</p>
-<p><strong>Congratulations!</strong> You have created a POI and placed a 3D OGC logo in GLB format.</p>
-<h4>Step 6: View the Content in MyGeoVerse</h4>
-<p>Restart MyGeoVerse and repeat Steps 1–3 to localize. View the POI and logo at the locations where you placed them.</p>
+<p><strong>Congratulations!</strong> You have placed a 3D OGC logo in GLB format.</p>
+<h4>Step 5: View the Content in MyGeoVerse</h4>
+<p>Restart MyGeoVerse and repeat Steps 1–3 to localize. View the OGC logo at the location where you placed it.</p>
 <p>Next, view the same content using the spARcl WebXR spatial browser.</p>
-<h4>Step 7: View the Same Content in spARcl</h4>
+<h4>Step 6: View the Same Content in spARcl</h4>
 <ol>
 <li>Open our spARcl WebXR app in Android Chrome: <a href="https://sparcl.orbit-lab.org/" target="_blank" rel="noopener noreferrer">https://sparcl.orbit-lab.org/</a> or <a href="#open-sparcl">scan the QR code below</a>.</li>
 <li>Enable WebXR Incubation in <code>chrome://flags</code> settings.</li>
@@ -180,8 +179,7 @@
 <p>Go to the AR experience starting point and open AC Viewer. Don’t have it yet? <a href="#download-apps">Download AC Viewer</a> at the bottom of this page. After installing, open the app and grant the requested permissions.</p>
 <h4>Step 2: Localize</h4>
 <p>Go to a previously scanned area, such as the area near the Nicolaus Hotel.</p>
-<p>Tap “START AR” and point your camera toward the designated area.</p>
-<p class="pending">Camera target pending on-site tests.</p>
+<p>Tap “START AR” and point your camera toward the Hotel.</p>
 <ul>
 <li>Hold the phone or tablet vertically.</li>
 <li>Avoid pointing the camera only at the floor.</li>
