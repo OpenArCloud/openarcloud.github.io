@@ -48,7 +48,7 @@ Each accepted testbed receives:
 In addition, OARC, in partnership with <a href="https://academy.mygeoverse.com/" target="_blank" rel="noopener noreferrer">MyGeoVerse Academy</a>, provides training and onboarding sessions for new Testbed partners on:
 
 - OARC and general information about how the AR Cloud and Spatial Web work.
-- How to digitally map a physical location using the technologies provided by OARC's VPS Service Provider partners, including AC Scanner by Augmented City and the MultiSet mobile app.
+- How to digitally map a physical location using the technologies provided by OARC's VPS Service Provider partners, including AC Scanner and the MultiSet mobile apps.
 - How to upload and publish spatial content and Points of Interest through MyGeoVerse, OARC's content publishing partner supporting the relevant OGC standards and OSCP protocols.
 - How to place digital content into the real world using the MyGeoVerse iOS or Android mobile app.
 - How to localize using different VPS services.
