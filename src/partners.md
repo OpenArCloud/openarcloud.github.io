@@ -19,6 +19,13 @@ Open AR Cloud works with organizations and individuals who share our commitment 
 </div>
 
 <div class="partner-card">
+<img src="/img/partners/MultiSet.png" alt="MultiSet">
+<h3>MultiSet</h3>
+<p><strong>Nikhil Sawlani</strong>, CEO</p>
+<p>Human &amp; Machine Readable Maps For Physical AI</p>
+</div>
+
+<div class="partner-card">
 <img src="/img/partners/p-net.png" alt="P-NET">
 <h3>p-NET Emerging Networks & Vertical Applications</h3>
 <p><strong>Didoe Prevedourou</strong>, Managing Director</p>
