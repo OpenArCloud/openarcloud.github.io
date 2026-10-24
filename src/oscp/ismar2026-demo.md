@@ -134,6 +134,10 @@ Next, view the same content using the spARcl WebXR spatial browser.
 
 **Publisher:** <a href="https://augmented.city/" target="_blank" rel="noopener noreferrer">Augmented City</a>
 
+<div style="margin: 0 0 24px; overflow: hidden; border-radius: 12px; max-width: 100%;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6K6KUPnTjUA" title="GeoPose Interoperability Demo: Augmented City and spARcl, IEEE ISMAR 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%; max-width: 100%; aspect-ratio: 16 / 9; height: auto;"></iframe>
+</div>
+
 This demonstration replicates the interoperability approach previously demonstrated at Google’s campus in 2025, this time using Augmented City as both the content publisher and VPS provider.
 
 The same published GLB content can be accessed through two independent spatial browsers, AC Viewer and spARcl, both using Augmented City VPS for localization.
