@@ -10,6 +10,10 @@ title: GeoPose & POI Demos — Delft
     <p style="margin-bottom: 0;">Open AR Cloud Team's presentation at the OGC SWG Meeting</p>
 </div>
 
+<div style="margin: 0 0 30px; overflow: hidden; border-radius: 12px; max-width: 100%;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DohDw773UYk" title="Historical Interoperability Demo for POI data on OSCP, at OGC's 128th Member Meeting in Delft" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%; max-width: 100%; aspect-ratio: 16 / 9; height: auto;"></iframe>
+</div>
+
 ## Points Of Interest
 
 One of the classical types of spatial content is "Points of Interest" (POI's). They are part of our daily lives when we use online maps on our smartphones to navigate the world. Although they come in many variations a "point of interest" (POI) is a location for which information is available. It could be information about a bus stop, a famous statue, an entrance to a building or even the location of an imaginary object like a "gym" in the game Pokemon Go.
