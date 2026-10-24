@@ -1,9 +1,9 @@
 ---
 layout: layouts/base.njk
-title: GeoPose & POI Demos — Delft
+title: POI Interoperability Demo
 ---
 
-# GeoPose & POI Interoperability Demos at 128th OGC Member Meeting, Delft
+# POI Interoperability Demo
 
 <div style="background: linear-gradient(135deg, rgba(139, 92, 246, 0.08) 0%, rgba(6, 182, 212, 0.08) 100%); border: 1px solid rgba(139, 92, 246, 0.2); border-radius: 12px; padding: 32px; margin: 30px 0; text-align: center;">
     <p style="font-size: 1.25rem; font-weight: 600; color: var(--primary-violet); margin-bottom: 8px;">128th OGC Member Meeting — Delft</p>
@@ -35,7 +35,11 @@ The OGC Points of Interest (POI) Conceptual Model Standard provides a universal 
 
 ## Demonstration
 
-The demos show how different Augmented Reality Clients are able to visualize geospatially-anchored content and leverage an existing open standard (OGC GeoPose 1.0 Data Exchange Standard) together with another open standard (OGC Points of Interest (POI) Conceptual Model Standard).
+The demonstration shows how two different Augmented Reality clients, MyGeoVerse and spARcl, can access and visualize Points of Interest (POI) data using the OGC Points of Interest (POI) Conceptual Model Standard.
+
+MyGeoVerse serves as both the POI publishing platform and a native spatial browser, while spARcl provides access to the same POI data through a WebXR-based spatial browser. Augmented City's Visual Positioning System (VPS) provides localization, using geographic position information including latitude, longitude, and altitude.
+
+The demonstration focuses on POI interoperability, illustrating how standardized location-based information can be shared and accessed across different spatial computing applications.
 
 ### Two Spatial Browsers
 
@@ -50,7 +54,7 @@ The demos show how different Augmented Reality Clients are able to visualize geo
 
 3. The clients query POI services and OSCP Content discovery services to learn if there is any content at real world locations near the user that can be displayed.
 
-4. If such content exists the clients display the content from different providers correctly at the real world position where the content is intended to be.
+4. If POI information is available, both clients can display the POI information associated with the real-world location.
 
 ## Step-by-Step Instructions
 
@@ -66,17 +70,14 @@ Once you are there hit the "Start" button on the app and point the camera to the
 Now the app should be localized. Swipe the menu bar on the lower part of the screen and select "View" to see the content that is already placed at this location.
 
 ### Step 4
-Select "Create Item" on the app menu. Write "OGC" on the search field and click on the OGC (GLB) logo and hit the "Select" button. Then tap the screen to place the logo at your desired location.
-
-### Step 5
 Select "Create POI" on the app menu and tap to place the POI at your desired location. Then, fill in the form about the POI you would like to create. When you are done, hit "Create".
 
-**Congratulations!** You have created a POI and placed an OGC Logo.
+**Congratulations!** You have created a POI.
 
-Now, you can restart MyGeoVerse and view the content you created, hopefully, at the exact location you placed them. If so, you can now move onto the next step and view the same content using the spARcl WebXR web browser.
+Now, you can restart MyGeoVerse and view the POI you created at its intended location. You can then move on to the next step and access the same POI information using the spARcl WebXR browser.
 
-### Step 6
-Follow the instructions below to view the same content with spARcl!
+### Step 5
+Follow the instructions below to access the same POI information with spARcl!
 
 1. Open our spARcl WebXR app in Android Chrome: <a href="https://sparcl.orbit-lab.org/" target="_blank" rel="noopener noreferrer">https://sparcl.orbit-lab.org/</a>
 2. Enable WebXR Incubation in chrome://flags settings.

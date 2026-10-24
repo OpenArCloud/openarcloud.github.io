@@ -41,7 +41,7 @@ title: Open Spatial Computing Platform
     </a>
     <a href="/oscp/poi/" class="cta-card">
         <h3>POI Interoperability Demo — Delft (2024)</h3>
-        <p>GeoPose & POI demos at the 128th OGC Member Meeting. Step-by-step walkthrough with MyGeoVerse and spARcl spatial browsers.</p>
+        <p>POI Interoperability Demo at the 128th OGC Member Meeting. Step-by-step walkthrough with MyGeoVerse and spARcl spatial browsers.</p>
     </a>
 </div>
 
