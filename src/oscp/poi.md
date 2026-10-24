@@ -50,9 +50,9 @@ The demonstration focuses on POI interoperability, illustrating how standardized
 
 1. Both MyGeoVerse and spARcl clients can connect to an OSCP GeoPose service using the Visual Positioning (VPS) implementation from [Augmented City](https://www.augmented.city). This service is referred to as the GeoPose VPS server. Both clients send camera images and metadata to the GeoPose VPS server and receive their GeoPose estimates in return.
 
-2. With GeoPose estimates, the clients should have an accurate understanding of the smartphone's real-world position and orientation (GeoPose).
+2. With geographic positioning information from the GeoPose service, the clients can determine the smartphone's real-world location using latitude, longitude, and altitude.
 
-3. The clients query POI services and OSCP Content discovery services to learn if there is any content at real world locations near the user that can be displayed.
+3. The clients query POI services and OSCP Content Discovery services to discover POI information associated with real-world locations near the user.
 
 4. If POI information is available, both clients can display the POI information associated with the real-world location.
 
@@ -67,7 +67,7 @@ Watch the "How 2 Localize" video to find where the AR experience starts.
 Once you are there hit the "Start" button on the app and point the camera to the area.
 
 ### Step 3
-Now the app should be localized. Swipe the menu bar on the lower part of the screen and select "View" to see the content that is already placed at this location.
+Now the app should be localized. Swipe the menu bar on the lower part of the screen and select "View" to see the POIs that are already available at this location.
 
 ### Step 4
 Select "Create POI" on the app menu and tap to place the POI at your desired location. Then, fill in the form about the POI you would like to create. When you are done, hit "Create".
