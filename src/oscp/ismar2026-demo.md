@@ -17,7 +17,7 @@ These demonstrations show how different augmented reality clients can visualize 
 
 Interoperability requires implementations on both the client and server sides. Spatial browser apps obtain GeoPose estimates through their configured localization services and discover published content through the relevant content services. OSCP Spatial Content Discovery supports the discovery of 3D objects anchored to the real world using GeoPose.
 
-In Bari, Demo 1 uses MyGeoVerse as the publisher and Demo 2 uses Augmented City as the publisher. Both demos share GLB content. Demo 1 demonstrates shared GLB content across MyGeoVerse using MultiSet VPS and spARcl using OpenVPS. Demo 2 demonstrates shared GLB content across AC Viewer using Augmented City VPS and spARcl using OpenVPS. Alternatively, spARcl can also use Augmented City VPS. In each demonstration, the same published content can be viewed through two different spatial browser apps. This demonstrates interoperability across content publishing, spatial browsing, and visual positioning, allowing users to experience the same content at its intended real-world location through different combinations of applications and services.
+In Bari, Demo 1 uses MyGeoVerse as the publisher and Demo 2 uses Augmented City as the publisher. Both demos share GLB content. Demo 1 demonstrates shared GLB content across MyGeoVerse using MultiSet VPS and spARcl using OpenVPS. Demo 2 demonstrates shared GLB content across AC Viewer and spARcl, both using Augmented City VPS. In each demonstration, the same published content can be viewed through two different spatial browser apps. This demonstrates interoperability across content publishing, spatial browsing, and visual positioning, allowing users to experience the same content at its intended real-world location through different combinations of applications and services.
 
 ## A Milestone for the Open Spatial Web
 
@@ -31,7 +31,7 @@ At IEEE ISMAR 2026 in Bari, Open AR Cloud is bringing together an ecosystem of *
 
 The significance goes beyond the number of participating applications and services: these demonstrations show how different publishers, native mobile and WebXR browsers, and localization providers can work together to deliver shared spatial experiences.
 
-The two hands-on demos below showcase selected combinations from this ecosystem. Each pairs two spatial browsers with two different VPS services to display the same published content at its intended real-world location.
+The two hands-on demos below showcase selected combinations from this ecosystem. Demo 1 demonstrates interoperability between two independent spatial browsers using different VPS providers, while Demo 2 demonstrates interoperability between two independent spatial browsers using the same VPS provider. Both demonstrate access to shared published GLB content at its intended real-world location.
 
 ## Standards & Protocol References
 
@@ -122,18 +122,22 @@ Next, view the same content using the spARcl WebXR spatial browser.
 
 <section class="demo-block" id="demo-2">
 
-## Demo 2: GLB Content Interoperability
+## Demo 2: GeoPose Interoperability with Augmented City
 
 **Publisher:** <a href="https://augmented.city/" target="_blank" rel="noopener noreferrer">Augmented City</a>
 
-View the same shared GLB content first in AC Viewer, then in spARcl using Augmented City VPS and OpenVPS.
+This demonstration replicates the interoperability approach previously demonstrated at Google’s campus in 2025, this time using Augmented City as both the content publisher and VPS provider.
+
+The same published GLB content can be accessed through two independent spatial browsers, AC Viewer and spARcl, both using Augmented City VPS for localization.
+
+This demonstrates how an independent content publishing platform can implement OSCP protocols and support GeoPose-based interoperability across different spatial browsers.
 
 <div class="table-wrap">
 <table class="config-table">
 <thead><tr><th>Spatial browser</th><th>Localization method</th></tr></thead>
 <tbody>
-<tr><td>spARcl by Open AR Cloud</td><td>Augmented City VPS or OpenVPS by Open AR Cloud</td></tr>
 <tr><td>AC Viewer by Augmented City</td><td>Augmented City VPS</td></tr>
+<tr><td>spARcl by Open AR Cloud</td><td>Augmented City VPS</td></tr>
 </tbody>
 </table>
 </div>
@@ -189,11 +193,18 @@ A custom model should be small and lightweight, hosted online, and accessible th
 
 Restart AC Viewer, tap “START AR”, and localize again to view the content you placed.
 
-#### Step 5: View the AC content in spARcl Web App
+#### Step 5: View the Same Content in spARcl
 
 1. Open <a href="https://sparcl.orbit-lab.org/" target="_blank" rel="noopener noreferrer">https://sparcl.orbit-lab.org/</a> in Chrome on an Android device.
-2. Select “AugmentedCity Content ISMAR2026”.
-3. Enable “AC GeoPose ISMAR26” to use AC VPS. Alternatively, enable “OpenVPS GeoPose ISMAR2026” to use OpenVPS for localization.
+2. Select “AugmentedCity Content ISMAR2026” as the content source.
+3. Enable “AC GeoPose ISMAR26” to use Augmented City VPS for localization.
+4. Follow the application’s instructions to localize and view the GLB content published through Augmented City.
+
+### What This Demonstrates
+
+Building on the interoperability approach demonstrated at Google’s campus in 2025, the Bari demonstration shows that Augmented City’s publishing and localization infrastructure can support shared GLB content across two independent spatial browsers through OSCP protocols and OGC GeoPose.
+
+This is an important step toward an open spatial web where spatial content can be published once and accessed through different compatible applications.
 
 </section>
 
