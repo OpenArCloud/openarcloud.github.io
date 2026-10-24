@@ -11,6 +11,10 @@ permalink: /oscp/ismar2026-demo/
     <p style="margin-bottom: 0;"><strong>In front of The Nicolaus Hotel</strong></p>
 </div>
 
+<div style="margin: 0 0 30px; overflow: hidden; border-radius: 12px; max-width: 100%;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y4bq2MBStng" title="A World First: Cross-VPS Interoperability Demonstrated at ISMAR 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%; max-width: 100%; aspect-ratio: 16 / 9; height: auto;"></iframe>
+</div>
+
 ## Purpose of the Demonstrations
 
 These demonstrations show how different augmented reality clients can visualize geospatially anchored content using the [OGC GeoPose 1.0 Data Exchange Standard](https://docs.ogc.org/is/21-056r11/21-056r11.html) and Open AR Cloud’s OSCP protocols.
@@ -56,7 +60,9 @@ We have prepared two demos showcasing different combinations of these publishers
 
 <section class="demo-block" id="demo-1">
 
-## Demo 1: GLB Content Interoperability
+## Demo 1: Cross-VPS GeoPose Interoperability
+
+<p class="demo-subtitle">Two Spatial Browsers · Two Independent VPS Providers</p>
 
 **Publisher:** <a href="https://www.mygeoverse.com" target="_blank" rel="noopener noreferrer">MyGeoVerse</a> by <a href="https://www.xr-masters.com" target="_blank" rel="noopener noreferrer">XR Masters</a>
 
@@ -123,6 +129,8 @@ Next, view the same content using the spARcl WebXR spatial browser.
 <section class="demo-block" id="demo-2">
 
 ## Demo 2: GeoPose Interoperability with Augmented City
+
+<p class="demo-subtitle">Two Spatial Browsers · One Shared VPS Provider</p>
 
 **Publisher:** <a href="https://augmented.city/" target="_blank" rel="noopener noreferrer">Augmented City</a>
 
