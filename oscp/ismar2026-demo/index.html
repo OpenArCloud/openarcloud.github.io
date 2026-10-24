@@ -84,6 +84,9 @@
     <p style="font-size: 1.25rem; font-weight: 600; color: var(--primary-violet); margin-bottom: 8px;">IEEE ISMAR 2026 · Bari, Italy</p>
     <p style="margin-bottom: 0;"><strong>In front of The Nicolaus Hotel</strong></p>
 </div>
+<div style="margin: 0 0 30px; overflow: hidden; border-radius: 12px; max-width: 100%;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y4bq2MBStng" title="A World First: Cross-VPS Interoperability Demonstrated at ISMAR 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%; max-width: 100%; aspect-ratio: 16 / 9; height: auto;"></iframe>
+</div>
 <h2>Purpose of the Demonstrations</h2>
 <p>These demonstrations show how different augmented reality clients can visualize geospatially anchored content using the <a href="https://docs.ogc.org/is/21-056r11/21-056r11.html">OGC GeoPose 1.0 Data Exchange Standard</a> and Open AR Cloud’s OSCP protocols.</p>
 <p>Interoperability requires implementations on both the client and server sides. Spatial browser apps obtain GeoPose estimates through their configured localization services and discover published content through the relevant content services. OSCP Spatial Content Discovery supports the discovery of 3D objects anchored to the real world using GeoPose.</p>
@@ -117,7 +120,8 @@
 </ul>
 <p>We have prepared two demos showcasing different combinations of these publishers, spatial browsers, and localization services. You can try them yourself by following the step-by-step instructions below.</p>
 <section class="demo-block" id="demo-1">
-<h2>Demo 1: GLB Content Interoperability</h2>
+<h2>Demo 1: Cross-VPS GeoPose Interoperability</h2>
+<p class="demo-subtitle">Two Spatial Browsers · Two Independent VPS Providers</p>
 <p><strong>Publisher:</strong> <a href="https://www.mygeoverse.com" target="_blank" rel="noopener noreferrer">MyGeoVerse</a> by <a href="https://www.xr-masters.com" target="_blank" rel="noopener noreferrer">XR Masters</a></p>
 <p>View the same GLB content in MyGeoVerse using MultiSet VPS and in spARcl using OpenVPS.</p>
 <div class="table-wrap">
@@ -163,6 +167,7 @@
 </section>
 <section class="demo-block" id="demo-2">
 <h2>Demo 2: GeoPose Interoperability with Augmented City</h2>
+<p class="demo-subtitle">Two Spatial Browsers · One Shared VPS Provider</p>
 <p><strong>Publisher:</strong> <a href="https://augmented.city/" target="_blank" rel="noopener noreferrer">Augmented City</a></p>
 <p>This demonstration replicates the interoperability approach previously demonstrated at Google’s campus in 2025, this time using Augmented City as both the content publisher and VPS provider.</p>
 <p>The same published GLB content can be accessed through two independent spatial browsers, AC Viewer and spARcl, both using Augmented City VPS for localization.</p>

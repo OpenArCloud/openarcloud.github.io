@@ -1344,6 +1344,7 @@ a.oarc-project:hover {
 .demo-chart figcaption { font-size: 0.9rem; color: var(--neutral-500); text-align: center; margin-top: 8px; }
 .demo-block { margin: 56px 0; padding: 8px 32px 24px; border: 1px solid rgba(139, 92, 246, 0.2); border-radius: 12px; background: linear-gradient(135deg, rgba(139, 92, 246, 0.04) 0%, rgba(6, 182, 212, 0.04) 100%); }
 .demo-block h2 { margin-top: 1.5rem; }
+.demo-block .demo-subtitle { margin: -0.9rem 0 1.25rem; padding-left: 20px; font-size: clamp(1.05rem, 2vw, 1.25rem); font-weight: 600; color: var(--primary-violet); letter-spacing: -0.01em; }
 .demo-block h4 { color: var(--primary-violet); margin: 1.8rem 0 0.4rem; font-size: 1.1rem; }
 .table-wrap { overflow-x: auto; margin: 20px 0; }
 .config-table { width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; }
